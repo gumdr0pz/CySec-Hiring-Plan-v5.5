@@ -1,0 +1,23 @@
+# Ignore all other version folders
+v1-Original/
+v2-COGS-Model/
+v3-OptionC/
+v4-18Role/
+
+# Ignore Others folder
+Others/
+
+# Ignore PDF files
+*.pdf
+
+# Ignore Office temp files
+~$*
+
+# Ignore backup files
+*.bak
+
+# Ignore DS_Store
+.DS_Store
+
+# Ignore local settings
+.claude/

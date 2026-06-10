@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net" modified="2026-06-10T00:00:00.000Z" agent="5.0" version="21.0.0" type="device">
+  <diagram id="CySec-BU-OrgChart" name="CySec BU Structure">
+    <mxGraphModel dx="1800" dy="1200" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2350" pageHeight="1180" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+
+        <!-- ============================ TITLE ============================ -->
+        <mxCell id="title" value="&lt;b style=&quot;font-size:22px;&quot;&gt;CYBERSECURITY BU &#8212; ORGANIZATIONAL CHART&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size:13px;color:#5a6470;&quot;&gt;24 FTE&#160;&#160;&#183;&#160;&#160;21 Hires&#160;&#160;&#183;&#160;&#160;Option C: Platform-First&#160;&#160;&#183;&#160;&#160;COGS-Aligned (1.44x)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=none;fillColor=none;fontSize=14;fontStyle=1;fontColor=#1a1a2e;" vertex="1" parent="1">
+          <mxGeometry x="700" y="20" width="650" height="56" as="geometry"/>
+        </mxCell>
+
+        <!-- ============================ LEVEL 0: BU HEAD ============================ -->
+        <mxCell id="bu_head" value="&lt;b&gt;BU Head&lt;/b&gt;&lt;br&gt;Cyber Security" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0076a8;fontColor=#ffffff;strokeColor=#00557a;fontSize=15;fontStyle=1;arcSize=18;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="905" y="160" width="240" height="70" as="geometry"/>
+        </mxCell>
+
+        <!-- ============================ LEVEL 1: PRINCIPALS ============================ -->
+        <mxCell id="prin_cyber" value="&lt;b&gt;Principal Cybersecurity&lt;/b&gt;&lt;br&gt;Architect" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2d3436;fontColor=#ffffff;strokeColor=#1a1a2e;fontSize=13;fontStyle=1;arcSize=18;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="545" y="300" width="240" height="64" as="geometry"/>
+        </mxCell>
+        <mxCell id="prin_blockchain" value="&lt;b&gt;Principal Blockchain&lt;/b&gt;&lt;br&gt;Architect" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6c5ce7;fontColor=#ffffff;strokeColor=#5a4bd1;fontSize=13;fontStyle=1;arcSize=18;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="1285" y="300" width="200" height="64" as="geometry"/>
+        </mxCell>
+
+        <!-- BU Head -> Principals (solid) -->
+        <mxCell id="line_bu_prin1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;strokeColor=#0076a8;strokeWidth=2.5;endArrow=block;endFill=1;endSize=8;" edge="1" source="bu_head" target="prin_cyber" parent="1"/>
+        <mxCell id="line_bu_prin2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;strokeColor=#0076a8;strokeWidth=2.5;endArrow=block;endFill=1;endSize=8;" edge="1" source="bu_head" target="prin_blockchain" parent="1"/>
+
+        <!-- ============================================================ -->
+        <!-- TEAM ROW (uniform columns, top-aligned at y=430, h=215)       -->
+        <!-- col pitch 240, container width 210                            -->
+        <!-- c1=80 c2=320 c3=560 c4=800 c5=1040 c6=1280 c7=1520 c8=1760 c9=2000 -->
+        <!-- ============================================================ -->
+
+        <!-- ===== TEAM 1: OFFSEC (c1=80) ===== -->
+        <mxCell id="offsec_box" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d63031;fillOpacity=10;strokeColor=#d63031;strokeWidth=2;arcSize=10;" vertex="1" parent="1">
+          <mxGeometry x="80" y="430" width="210" height="215" as="geometry"/>
+        </mxCell>
+        <mxCell id="offsec_label" value="&lt;b&gt;OFFSEC&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=top;resizable=0;points=[];strokeColor=none;fillColor=none;fontSize=12;fontStyle=1;fontColor=#d63031;" vertex="1" parent="1">
+          <mxGeometry x="90" y="438" width="190" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="lead_researcher" value="&lt;b&gt;Lead Researcher&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size:8px;color:#fde0e0;&quot;&gt;Lead &#183; Wave 2&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ff7675;fontColor=#ffffff;strokeColor=#0984e3;strokeWidth=3;fontSize=10;arcSize=18;" vertex="1" parent="1">
+          <mxGeometry x="95" y="468" width="180" height="44" as="geometry"/>
+        </mxCell>
+        <mxCell id="red_team" value="&lt;b&gt;Red Team&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size:8px;color:#fde0e0;&quot;&gt;Sr &#183; W2&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d63031;fontColor=#ffffff;strokeColor=#0984e3;strokeWidth=3;fontSize=9;arcSize=18;" vertex="1" parent="1">
+          <mxGeometry x="95" y="526" width="86" height="44" as="geometry"/>
+        </mxCell>
+        <mxCell id="jr_researcher" value="&lt;b&gt;Jr Researcher&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size:8px;color:#7a3b3b;&quot;&gt;Jr &#183; W3&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fab1a0;fontColor=#000000;strokeColor=#d63031;strokeWidth=3;fontSize=9;arcSize=18;" vertex="1" parent="1">
+          <mxGeometry x="189" y="526" width="86" height="44" as="geometry"/>
+        </mxCell>
+        <mxCell id="line_lr_rt" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;strokeColor=#d63031;strokeWidth=1.5;endArrow=none;" edge="1" source="lead_researcher" target="red_team" parent="1"/>
+        <mxCell id="line_lr_jr" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;strokeColor=#d63031;strokeWidth=1.5;endArrow=none;" edge="1" source="lead_researcher" target="jr_researcher" parent="1"/>
+
+        <!-- ===== TEAM 2: VORON (c2=320) ===== -->
+        <mxCell id="voron_box" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0984e3;fillOpacity=10;strokeColor=#0984e3;strokeWidth=2;arcSize=10;" vertex="1" parent="1">
+          <mxGeometry x="320" y="430" width="210" height="215" as="geometry"/>
+        </mxCell>
+        <mxCell id="voron_label" value="&lt;b&gt;VORON&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=top;resizable=0;points=[];strokeColor=none;fillColor=none;fontSize=12;fontStyle=1;fontColor=#0984e3;" vertex="1" parent="1">
+          <mxGeometry x="330" y="438" width="190" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="sr_consult" value="&lt;b&gt;Sr Consultant&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size:8px;color:#2c4a5a;&quot;&gt;Senior &#183; Wave 1&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#81ecec;fontColor=#000000;strokeColor=#00b894;strokeWidth=3;fontSize=10;arcSize=18;" vertex="1" parent="1">
+          <mxGeometry x="335" y="468" width="180" height="44" as="geometry"/>
+        </mxCell>
+        <mxCell id="jr_consult" value="&lt;b&gt;Jr Consultant&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size:8px;color:#2c4a5a;&quot;&gt;Junior &#183; Wave 3&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#81ecec;fontColor=#000000;strokeColor=#d63031;strokeWidth=3;fontSize=10;arcSize=18;" vertex="1" parent="1">
+          <mxGeometry x="335" y="526" width="180" height="44" as="geometry"/>
+        </mxCell>
+        <mxCell id="line_src_jrc" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;strokeColor=#0984e3;strokeWidth=1.5;endArrow=none;" edge="1" source="sr_consult" target="jr_consult" parent="1"/>
+
+        <!-- ===== TEAM 3: GOV SEC (c3=560, single) ===== -->
+        <mxCell id="govsec_box" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#636e72;fillOpacity=10;strokeColor=#636e72;strokeWidth=2;arcSize=10;" vertex="1" parent="1">
+          <mxGeometry x="560" y="430" width="210" height="215" as="geometry"/>
+        </mxCell>
+        <mxCell id="govsec_label" value="&lt;b&gt;GOV SEC&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=top;resizable=0;points=[];strokeColor=none;fillColor=none;fontSize=12;fontStyle=1;fontColor=#636e72;" vertex="1" parent="1">
+          <mxGeometry x="570" y="438" width="190" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="govsec_pm" value="&lt;b&gt;Gov Sec PM&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size:8px;color:#dfe6e9;&quot;&gt;Senior &#183; Wave 1&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#636e72;fontColor=#ffffff;strokeColor=#00b894;strokeWidth=3;fontSize=11;arcSize=18;" vertex="1" parent="1">
+          <mxGeometry x="590" y="510" width="150" height="58" as="geometry"/>
+        </mxCell>
+
+        <!-- ===== TEAM 4: CTI / INTELLIGENCE (c4=800) ===== -->
+        <mxCell id="cti_box" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6c5ce7;fillOpacity=10;strokeColor=#6c5ce7;strokeWidth=2;arcSize=10;" vertex="1" parent="1">
+          <mxGeometry x="800" y="430" width="210" height="215" as="geometry"/>
+        </mxCell>
+        <mxCell id="cti_label" value="&lt;b&gt;CTI / INTELLIGENCE&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=top;resizable=0;points=[];strokeColor=none;fillColor=none;fontSize=11;fontStyle=1;fontColor=#6c5ce7;" vertex="1" parent="1">
+          <mxGeometry x="805" y="438" width="200" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="cti_lead" value="&lt;b&gt;CTI Lead&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size:8px;color:#e8e4ff;&quot;&gt;Lead &#183; Wave 2&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a29bfe;fontColor=#ffffff;strokeColor=#0984e3;strokeWidth=3;fontSize=10;arcSize=18;" vertex="1" parent="1">
+          <mxGeometry x="815" y="468" width="180" height="44" as="geometry"/>
+        </mxCell>
+        <mxCell id="cti_analyst" value="&lt;b&gt;Analyst&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size:8px;color:#5a6470;&quot;&gt;IC &#183; W3&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dfe6e9;fontColor=#000000;strokeColor=#d63031;strokeWidth=3;fontSize=9;arcSize=18;" vertex="1" parent="1">
+          <mxGeometry x="815" y="526" width="86" height="44" as="geometry"/>
+        </mxCell>
+        <mxCell id="cti_research" value="&lt;b&gt;Research&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size:8px;color:#5a6470;&quot;&gt;IC &#183; W3&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dfe6e9;fontColor=#000000;strokeColor=#d63031;strokeWidth=3;fontSize=9;arcSize=18;" vertex="1" parent="1">
+          <mxGeometry x="909" y="526" width="86" height="44" as="geometry"/>
+        </mxCell>
+        <mxCell id="cti_dist_intel" value="&lt;b&gt;Dist Intel&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size:8px;color:#5a6470;&quot;&gt;IC &#183; W3&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dfe6e9;fontColor=#000000;strokeColor=#d63031;strokeWidth=3;fontSize=9;arcSize=18;" vertex="1" parent="1">
+          <mxGeometry x="815" y="584" width="180" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="line_ctil_an" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;strokeColor=#6c5ce7;strokeWidth=1.5;endArrow=none;" edge="1" source="cti_lead" target="cti_analyst" parent="1"/>
+        <mxCell id="line_ctil_re" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;strokeColor=#6c5ce7;strokeWidth=1.5;endArrow=none;" edge="1" source="cti_lead" target="cti_research" parent="1"/>
+        <mxCell id="line_ctil_di" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=0.5;exitY=1;entryX=0.25;entryY=0;strokeColor=#6c5ce7;strokeWidth=1.5;endArrow=none;" edge="1" source="cti_lead" target="cti_dist_intel" parent="1"/>
+
+        <!-- ===== TEAM 5: DEVSECOPS (c5=1040) ===== -->
+        <mxCell id="devsecops_box" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d63031;fillOpacity=10;strokeColor=#d63031;strokeWidth=2;arcSize=10;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="430" width="210" height="215" as="geometry"/>
+        </mxCell>
+        <mxCell id="devsecops_label" value="&lt;b&gt;DEVSECOPS&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=top;resizable=0;points=[];strokeColor=none;fillColor=none;fontSize=12;fontStyle=1;fontColor=#d63031;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="438" width="190" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="devsecops_sr" value="&lt;b&gt;Sr DevSecOps&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size:8px;color:#fde0e0;&quot;&gt;Senior &#183; Wave 1&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ff7675;fontColor=#ffffff;strokeColor=#00b894;strokeWidth=3;fontSize=10;arcSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1055" y="468" width="180" height="44" as="geometry"/>
+        </mxCell>
+        <mxCell id="devsecops_jr" value="&lt;b&gt;Jr DevSecOps&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size:8px;color:#7a3b3b;&quot;&gt;Junior &#183; Wave 3&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fab1a0;fontColor=#000000;strokeColor=#d63031;strokeWidth=3;fontSize=10;arcSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1055" y="526" width="180" height="44" as="geometry"/>
+        </mxCell>
+        <mxCell id="line_dso_sr_jr" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;strokeColor=#d63031;strokeWidth=1.5;endArrow=none;" edge="1" source="devsecops_sr" target="devsecops_jr" parent="1"/>
+
+        <!-- ===== TEAM 6: BLOCKCHAIN (c6=1280, under Principal Blockchain) ===== -->
+        <mxCell id="blockchain_box" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6c5ce7;fillOpacity=10;strokeColor=#6c5ce7;strokeWidth=2;arcSize=10;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="430" width="210" height="215" as="geometry"/>
+        </mxCell>
+        <mxCell id="blockchain_label" value="&lt;b&gt;BLOCKCHAIN&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=top;resizable=0;points=[];strokeColor=none;fillColor=none;fontSize=12;fontStyle=1;fontColor=#6c5ce7;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="438" width="190" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="sr_dev" value="&lt;b&gt;Sr Blockchain Dev&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size:8px;color:#e8e4ff;&quot;&gt;Senior &#183; Wave 2&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a29bfe;fontColor=#ffffff;strokeColor=#0984e3;strokeWidth=3;fontSize=11;arcSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="510" width="150" height="58" as="geometry"/>
+        </mxCell>
+
+        <!-- ===== TEAM 7: PROJECT MANAGEMENT (c7=1520, shared) ===== -->
+        <mxCell id="pm_team_box" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00b894;fillOpacity=10;strokeColor=#00b894;strokeWidth=2;arcSize=10;dashed=1;dashPattern=8 4;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="430" width="210" height="215" as="geometry"/>
+        </mxCell>
+        <mxCell id="pm_team_label" value="&lt;b&gt;PROJECT MGMT&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=top;resizable=0;points=[];strokeColor=none;fillColor=none;fontSize=11;fontStyle=1;fontColor=#00997a;" vertex="1" parent="1">
+          <mxGeometry x="1525" y="438" width="200" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="pm" value="&lt;b&gt;PM&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size:8px;color:#2c4a3a;&quot;&gt;Senior &#183; Wave 1&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#55efc4;fontColor=#000000;strokeColor=#00b894;strokeWidth=3;fontSize=10;arcSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1535" y="468" width="180" height="44" as="geometry"/>
+        </mxCell>
+        <mxCell id="ba" value="&lt;b&gt;BA&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size:8px;color:#2c4a5a;&quot;&gt;IC &#183; W3&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#81ecec;fontColor=#000000;strokeColor=#d63031;strokeWidth=3;fontSize=10;arcSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1535" y="526" width="86" height="44" as="geometry"/>
+        </mxCell>
+        <mxCell id="jr_pm" value="&lt;b&gt;Jr PM&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size:8px;color:#2c4a5a;&quot;&gt;Jr &#183; W3&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#81ecec;fontColor=#000000;strokeColor=#d63031;strokeWidth=3;fontSize=10;arcSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1629" y="526" width="86" height="44" as="geometry"/>
+        </mxCell>
+        <mxCell id="line_pm_ba" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;strokeColor=#00b894;strokeWidth=1.5;endArrow=none;" edge="1" source="pm" target="ba" parent="1"/>
+        <mxCell id="line_pm_jrpm" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;strokeColor=#00b894;strokeWidth=1.5;endArrow=none;" edge="1" source="pm" target="jr_pm" parent="1"/>
+
+        <!-- ===== TEAM 8: SALES / PRE-SALES (c8=1760, shared) ===== -->
+        <mxCell id="sales_box" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fd79a8;fillOpacity=10;strokeColor=#e84393;strokeWidth=2;arcSize=10;dashed=1;dashPattern=8 4;" vertex="1" parent="1">
+          <mxGeometry x="1760" y="430" width="210" height="215" as="geometry"/>
+        </mxCell>
+        <mxCell id="sales_label" value="&lt;b&gt;SALES / PRE-SALES&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=top;resizable=0;points=[];strokeColor=none;fillColor=none;fontSize=11;fontStyle=1;fontColor=#e84393;" vertex="1" parent="1">
+          <mxGeometry x="1765" y="438" width="200" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="sales_spec1" value="&lt;b&gt;Sales Spec 1&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size:8px;color:#fde0ec;&quot;&gt;Sr &#183; W2&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fd79a8;fontColor=#ffffff;strokeColor=#0984e3;strokeWidth=3;fontSize=9;arcSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1775" y="468" width="86" height="44" as="geometry"/>
+        </mxCell>
+        <mxCell id="sales_spec2" value="&lt;b&gt;Sales Spec 2&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size:8px;color:#fde0ec;&quot;&gt;Sr &#183; W2&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fd79a8;fontColor=#ffffff;strokeColor=#0984e3;strokeWidth=3;fontSize=9;arcSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1869" y="468" width="86" height="44" as="geometry"/>
+        </mxCell>
+        <mxCell id="presales_consult" value="&lt;b&gt;Presales Consultant&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size:8px;color:#fde0ec;&quot;&gt;Senior &#183; Wave 2&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e84393;fontColor=#ffffff;strokeColor=#0984e3;strokeWidth=3;fontSize=9;arcSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1775" y="526" width="180" height="44" as="geometry"/>
+        </mxCell>
+
+        <!-- ===== TEAM 9: PROFESSIONAL SERVICES (c9=2000, shared) ===== -->
+        <mxCell id="ps_team_box" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fdcb6e;fillOpacity=12;strokeColor=#e1a800;strokeWidth=2;arcSize=10;dashed=1;dashPattern=8 4;" vertex="1" parent="1">
+          <mxGeometry x="2000" y="430" width="210" height="215" as="geometry"/>
+        </mxCell>
+        <mxCell id="ps_team_label" value="&lt;b&gt;PRO. SERVICES&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=top;resizable=0;points=[];strokeColor=none;fillColor=none;fontSize=11;fontStyle=1;fontColor=#c98a00;" vertex="1" parent="1">
+          <mxGeometry x="2005" y="438" width="200" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="sr_ps" value="&lt;b&gt;Sr PS&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size:8px;color:#5a4a2a;&quot;&gt;Senior &#183; Wave 1&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffeaa7;fontColor=#000000;strokeColor=#00b894;strokeWidth=3;fontSize=10;arcSize=18;" vertex="1" parent="1">
+          <mxGeometry x="2015" y="468" width="180" height="44" as="geometry"/>
+        </mxCell>
+        <mxCell id="jr_ps" value="&lt;b&gt;Jr PS&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size:8px;color:#5a4a2a;&quot;&gt;Junior &#183; Wave 3&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffeaa7;fontColor=#000000;strokeColor=#d63031;strokeWidth=3;fontSize=10;arcSize=18;" vertex="1" parent="1">
+          <mxGeometry x="2015" y="526" width="180" height="44" as="geometry"/>
+        </mxCell>
+        <mxCell id="line_ps_sr_jr" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;strokeColor=#e1a800;strokeWidth=1.5;endArrow=none;" edge="1" source="sr_ps" target="jr_ps" parent="1"/>
+
+        <!-- ============================================================ -->
+        <!-- CONNECTORS: Principal Cyber -> 5 teams (solid)                -->
+        <!-- ============================================================ -->
+        <mxCell id="line_pc_offsec" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;strokeColor=#2d3436;strokeWidth=2;endArrow=block;endFill=1;endSize=7;" edge="1" source="prin_cyber" target="offsec_box" parent="1"/>
+        <mxCell id="line_pc_voron" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;strokeColor=#2d3436;strokeWidth=2;endArrow=block;endFill=1;endSize=7;" edge="1" source="prin_cyber" target="voron_box" parent="1"/>
+        <mxCell id="line_pc_govsec" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;strokeColor=#2d3436;strokeWidth=2;endArrow=block;endFill=1;endSize=7;" edge="1" source="prin_cyber" target="govsec_box" parent="1"/>
+        <mxCell id="line_pc_cti" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;strokeColor=#2d3436;strokeWidth=2;endArrow=block;endFill=1;endSize=7;" edge="1" source="prin_cyber" target="cti_box" parent="1"/>
+        <mxCell id="line_pc_devsecops" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;strokeColor=#2d3436;strokeWidth=2;endArrow=block;endFill=1;endSize=7;" edge="1" source="prin_cyber" target="devsecops_box" parent="1"/>
+
+        <!-- Principal Blockchain -> Blockchain team (solid) -->
+        <mxCell id="line_pb_bc" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;strokeColor=#6c5ce7;strokeWidth=2;endArrow=block;endFill=1;endSize=7;" edge="1" source="prin_blockchain" target="blockchain_box" parent="1"/>
+
+        <!-- BU Head -> Shared Services (dashed = matrix / shared-services reporting) -->
+        <mxCell id="line_bu_pm" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=1;exitY=0.35;entryX=0.5;entryY=0;strokeColor=#0076a8;strokeWidth=2;dashed=1;dashPattern=6 4;endArrow=open;endSize=8;" edge="1" source="bu_head" target="pm_team_box" parent="1"/>
+        <mxCell id="line_bu_sales" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=1;exitY=0.5;entryX=0.5;entryY=0;strokeColor=#0076a8;strokeWidth=2;dashed=1;dashPattern=6 4;endArrow=open;endSize=8;" edge="1" source="bu_head" target="sales_box" parent="1"/>
+        <mxCell id="line_bu_ps" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=1;exitY=0.65;entryX=0.5;entryY=0;strokeColor=#0076a8;strokeWidth=2;dashed=1;dashPattern=6 4;endArrow=open;endSize=8;" edge="1" source="bu_head" target="ps_team_box" parent="1"/>
+
+        <!-- ============================================================ -->
+        <!-- LEGENDS (below chart)                                         -->
+        <!-- ============================================================ -->
+
+        <!-- Team / Colour legend -->
+        <mxCell id="legend_box" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1a1a2e;strokeColor=#1a1a2e;arcSize=6;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="710" width="560" height="300" as="geometry"/>
+        </mxCell>
+        <mxCell id="legend_title" value="&lt;b style=&quot;color:#ffffff;font-size:15px;&quot;&gt;TEAM / COLOUR LEGEND&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;color:#9aa4b2;font-size:10px;&quot;&gt;Box fill = team&#160;&#160;&#183;&#160;&#160;Box border = hiring wave&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];strokeColor=none;fillColor=none;fontSize=14;fontStyle=1;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="100" y="724" width="520" height="40" as="geometry"/>
+        </mxCell>
+
+        <!-- column A swatches -->
+        <mxCell id="leg1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0076a8;strokeColor=none;" vertex="1" parent="1"><mxGeometry x="100" y="780" width="28" height="18" as="geometry"/></mxCell>
+        <mxCell id="leg1_text" value="BU Head / Leadership" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];strokeColor=none;fillColor=none;fontSize=11;fontColor=#ffffff;" vertex="1" parent="1"><mxGeometry x="138" y="776" width="200" height="26" as="geometry"/></mxCell>
+
+        <mxCell id="leg2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2d3436;strokeColor=#5a6470;" vertex="1" parent="1"><mxGeometry x="100" y="816" width="28" height="18" as="geometry"/></mxCell>
+        <mxCell id="leg2_text" value="Cybersecurity Principal" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];strokeColor=none;fillColor=none;fontSize=11;fontColor=#ffffff;" vertex="1" parent="1"><mxGeometry x="138" y="812" width="200" height="26" as="geometry"/></mxCell>
+
+        <mxCell id="leg3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6c5ce7;strokeColor=none;" vertex="1" parent="1"><mxGeometry x="100" y="852" width="28" height="18" as="geometry"/></mxCell>
+        <mxCell id="leg3_text" value="Blockchain Principal / CTI" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];strokeColor=none;fillColor=none;fontSize=11;fontColor=#ffffff;" vertex="1" parent="1"><mxGeometry x="138" y="848" width="200" height="26" as="geometry"/></mxCell>
+
+        <mxCell id="leg4" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0984e3;strokeColor=none;" vertex="1" parent="1"><mxGeometry x="100" y="888" width="28" height="18" as="geometry"/></mxCell>
+        <mxCell id="leg4_text" value="VORON / Consulting" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];strokeColor=none;fillColor=none;fontSize=11;fontColor=#ffffff;" vertex="1" parent="1"><mxGeometry x="138" y="884" width="200" height="26" as="geometry"/></mxCell>
+
+        <!-- column B swatches -->
+        <mxCell id="leg5" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d63031;strokeColor=none;" vertex="1" parent="1"><mxGeometry x="370" y="780" width="28" height="18" as="geometry"/></mxCell>
+        <mxCell id="leg5_text" value="OffSec / DevSecOps" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];strokeColor=none;fillColor=none;fontSize=11;fontColor=#ffffff;" vertex="1" parent="1"><mxGeometry x="408" y="776" width="220" height="26" as="geometry"/></mxCell>
+
+        <mxCell id="leg6" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00b894;strokeColor=none;" vertex="1" parent="1"><mxGeometry x="370" y="816" width="28" height="18" as="geometry"/></mxCell>
+        <mxCell id="leg6_text" value="Project Management" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];strokeColor=none;fillColor=none;fontSize=11;fontColor=#ffffff;" vertex="1" parent="1"><mxGeometry x="408" y="812" width="220" height="26" as="geometry"/></mxCell>
+
+        <mxCell id="leg7" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fd79a8;strokeColor=none;" vertex="1" parent="1"><mxGeometry x="370" y="852" width="28" height="18" as="geometry"/></mxCell>
+        <mxCell id="leg7_text" value="Sales / Pre-Sales" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];strokeColor=none;fillColor=none;fontSize=11;fontColor=#ffffff;" vertex="1" parent="1"><mxGeometry x="408" y="848" width="220" height="26" as="geometry"/></mxCell>
+
+        <mxCell id="leg8" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fdcb6e;strokeColor=none;" vertex="1" parent="1"><mxGeometry x="370" y="888" width="28" height="18" as="geometry"/></mxCell>
+        <mxCell id="leg8_text" value="Professional Services" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];strokeColor=none;fillColor=none;fontSize=11;fontColor=#ffffff;" vertex="1" parent="1"><mxGeometry x="408" y="884" width="220" height="26" as="geometry"/></mxCell>
+
+        <!-- dashed-line note inside legend -->
+        <mxCell id="matrix_note" value="&lt;font color=&quot;#9aa4b2&quot;&gt;&#9476;&#9476;&#9476;&#160; dashed connector = matrix / shared-services reporting to BU Head&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];strokeColor=none;fillColor=none;fontSize=10;fontStyle=2;" vertex="1" parent="1">
+          <mxGeometry x="100" y="958" width="520" height="22" as="geometry"/>
+        </mxCell>
+
+        <!-- Hiring-wave legend -->
+        <mxCell id="wave_box" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1a1a2e;strokeColor=#1a1a2e;arcSize=6;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="710" width="560" height="200" as="geometry"/>
+        </mxCell>
+        <mxCell id="wave_title" value="&lt;b style=&quot;color:#ffffff;font-size:15px;&quot;&gt;HIRING WAVES&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;color:#9aa4b2;font-size:10px;&quot;&gt;shown as box border colour&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];strokeColor=none;fillColor=none;fontSize=14;fontStyle=1;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="700" y="724" width="520" height="40" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="wave_leg1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#00b894;strokeWidth=4;" vertex="1" parent="1"><mxGeometry x="700" y="784" width="30" height="22" as="geometry"/></mxCell>
+        <mxCell id="wave_leg1_text" value="&lt;b&gt;Wave 1&lt;/b&gt; &#8212; Immediate &#183; 5 roles &#183; RM423K&#8211;677K/yr" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];strokeColor=none;fillColor=none;fontSize=11;fontColor=#ffffff;" vertex="1" parent="1"><mxGeometry x="744" y="780" width="480" height="28" as="geometry"/></mxCell>
+
+        <mxCell id="wave_leg2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#0984e3;strokeWidth=4;" vertex="1" parent="1"><mxGeometry x="700" y="824" width="30" height="22" as="geometry"/></mxCell>
+        <mxCell id="wave_leg2_text" value="&lt;b&gt;Wave 2&lt;/b&gt; &#8212; RM4M+ SOWs &#183; 7 roles &#183; RM593K&#8211;948K/yr" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];strokeColor=none;fillColor=none;fontSize=11;fontColor=#ffffff;" vertex="1" parent="1"><mxGeometry x="744" y="820" width="480" height="28" as="geometry"/></mxCell>
+
+        <mxCell id="wave_leg3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#d63031;strokeWidth=4;" vertex="1" parent="1"><mxGeometry x="700" y="864" width="30" height="22" as="geometry"/></mxCell>
+        <mxCell id="wave_leg3_text" value="&lt;b&gt;Wave 3&lt;/b&gt; &#8212; RM8M+ Recurring &#183; 9 roles &#183; RM544K&#8211;871K/yr" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];strokeColor=none;fillColor=none;fontSize=11;fontColor=#ffffff;" vertex="1" parent="1"><mxGeometry x="744" y="860" width="480" height="28" as="geometry"/></mxCell>
+
+        <!-- ============================ FINANCIAL SUMMARY ============================ -->
+        <mxCell id="fin_box" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0076a8;strokeColor=#00557a;arcSize=6;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1040" width="2130" height="72" as="geometry"/>
+        </mxCell>
+        <mxCell id="fin_text" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size:13px;&quot;&gt;&lt;b&gt;FINANCIAL SUMMARY&lt;/b&gt;&#160;&#160;&#160;&#9474;&#160;&#160;&#160;Revenue Target: &lt;b&gt;RM12M&lt;/b&gt;&#160;&#160;&#160;&#9474;&#160;&#160;&#160;Total Cost: &lt;b&gt;RM1.56M&#8211;2.50M&lt;/b&gt; (13.0%&#8211;20.8%)&#160;&#160;&#160;&#9474;&#160;&#160;&#160;Within 25% Cap&#160;&#160;&#160;&#9474;&#160;&#160;&#160;Headroom: &lt;b&gt;RM503K&#8211;1.44M&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1052" width="2090" height="48" as="geometry"/>
+        </mxCell>
+
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
