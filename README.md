@@ -1,8 +1,8 @@
 # Cybersecurity BU Hiring Plan - v5 (24-Position Structure)
 
-**Version:** 5.0  
+**Version:** 5.1  
 **Date:** June 10, 2026  
-**Status:** Final  
+**Status:** Final (Updated)  
 **Classification:** CONFIDENTIAL
 
 ---
@@ -44,16 +44,18 @@ This repository contains the complete hiring plan documentation for the Cybersec
 
 ```
 v5-24Position/
-├── README.md                              # This folder overview
-├── CySec-Comprehensive-Hiring-Plan-v5.md  # Complete hiring plan
+├── README.md                                  # This folder overview
+├── CySec-Comprehensive-Hiring-Plan-v5.md      # Complete hiring plan
 ├── CySec-Hiring-Plan-Executive-Summary-v5.md  # Management summary
 ├── CySec-Wave1-Hiring-Plan-Immediate-v5.md    # Wave 1 execution plan
-├── CySec-Manpower-Requisitions-v5.md      # All 21 MRF forms
-├── CySec-Financial-Analysis-v5.md         # Cost analysis & ROI
-├── CySec-Wave-Structure-Summary.md        # Quick reference guide
-├── CySec-BU-OrgChart-Whiteboard.drawio    # Visual org chart
-├── cysec_cogs_calculator.py               # COGS cost calculator
-└── JDs/                                   # Job descriptions (21 files)
+├── CySec-Wave1-Hiring-Plan-v5.1.md            # Wave 1 plan (updated)
+├── CySec-Manpower-Requisitions-v5.md          # All 21 MRF forms
+├── CySec-Financial-Analysis-v5.md             # Cost analysis & ROI
+├── CySec-Wave-Structure-Summary.md            # Quick reference guide
+├── CySec-BU-OrgChart-Whiteboard.drawio        # Visual org chart
+├── cysec_cogs_calculator.py                   # COGS cost calculator
+├── CySec Orgchart BAK/                        # Org chart backups
+└── JDs/                                       # Job descriptions (21 files)
     ├── MRF-001-government-security-project-manager.md
     ├── MRF-002-senior-security-consultant.md
     ├── ... (21 total JDs)
@@ -118,6 +120,23 @@ v5-24Position/
 5. Sr PS (Senior) - Professional Services
 
 **Use Case:** HR and hiring managers for immediate execution
+
+---
+
+#### `CySec-Wave1-Hiring-Plan-v5.1.md`
+**Purpose:** Updated Wave 1 execution plan (v5.1 revision)  
+**Contents:**
+- Revised Wave 1 hiring timeline
+- Updated position requirements
+- Refined success criteria
+- Latest cost estimates
+
+**Changes from v5.0:**
+- Updated job descriptions for 4 positions
+- Refined Wave 1 execution timeline
+- Additional onboarding details
+
+**Use Case:** Current reference for Wave 1 execution (supersedes v5.0)
 
 ---
 
@@ -226,35 +245,45 @@ python3 cysec_cogs_calculator.py
 
 ---
 
+#### `CySec Orgchart BAK/`
+**Purpose:** Backup folder for org chart versions  
+**Contents:**
+- `CySec-BU-OrgChart-Whiteboard.drawio.bak2` - Previous version backup
+- `CySec-BU-OrgChart-Whiteboard.drawio.bak3` - Earlier version backup
+
+**Use Case:** Reference previous org chart versions if needed
+
+---
+
 ### Job Descriptions (`JDs/`)
 
 #### Folder Contents
 
 21 individual job description files, one per position:
 
-| File | Position | Level | Wave |
-|------|----------|-------|------|
-| `MRF-001-government-security-project-manager.md` | Gov Sec PM | Senior | 1 |
-| `MRF-002-senior-security-consultant.md` | Sr Consult | Senior | 1 |
-| `MRF-003-senior-devsecops-engineer.md` | Sr DevSecOps | Senior | 1 |
-| `MRF-004-senior-project-manager.md` | PM | Senior | 1 |
-| `MRF-005-senior-professional-services-consultant.md` | Sr PS | Senior | 1 |
-| `MRF-006-lead-security-researcher.md` | Lead Researcher | Lead | 2 |
-| `MRF-007-red-team-specialist.md` | Red Team | Senior | 2 |
-| `MRF-008-cyber-threat-intelligence-lead.md` | CTI Lead | Lead | 2 |
-| `MRF-009-senior-blockchain-developer.md` | Sr Dev | Senior | 2 |
-| `MRF-010-senior-sales-specialist-enterprise.md` | Sales Specialist 1 | Senior | 2 |
-| `MRF-011-senior-sales-specialist-government.md` | Sales Specialist 2 | Senior | 2 |
-| `MRF-012-senior-presales-consultant.md` | Presales Consult | Senior | 2 |
-| `MRF-013-junior-security-consultant.md` | Jr Consult | Junior | 3 |
-| `MRF-014-junior-security-researcher.md` | Jr Researcher | Junior | 3 |
-| `MRF-015-threat-intelligence-analyst.md` | Analyst | IC | 3 |
-| `MRF-016-threat-intelligence-researcher.md` | Research | IC | 3 |
-| `MRF-017-distributed-intelligence-analyst.md` | Dist Intel | IC | 3 |
-| `MRF-018-junior-devsecops-engineer.md` | Jr DevSecOps | Junior | 3 |
-| `MRF-019-business-analyst.md` | BA | IC | 3 |
-| `MRF-020-junior-project-manager.md` | Jr PM | Junior | 3 |
-| `MRF-021-junior-professional-services-consultant.md` | Jr PS | Junior | 3 |
+| File | Position | Level | Wave | Status |
+|------|----------|-------|------|--------|
+| `MRF-001-government-security-project-manager.md` | Gov Sec PM | Senior | 1 | ✅ Updated |
+| `MRF-002-senior-security-consultant.md` | Sr Consult | Senior | 1 | - |
+| `MRF-003-senior-devsecops-engineer.md` | Sr DevSecOps | Senior | 1 | - |
+| `MRF-004-senior-project-manager.md` | PM | Senior | 1 | ✅ Updated |
+| `MRF-005-senior-professional-services-consultant.md` | Sr PS | Senior | 1 | - |
+| `MRF-006-lead-security-researcher.md` | Lead Researcher | Lead | 2 | - |
+| `MRF-007-red-team-specialist.md` | Red Team | Senior | 2 | - |
+| `MRF-008-cyber-threat-intelligence-lead.md` | CTI Lead | Lead | 2 | - |
+| `MRF-009-senior-blockchain-developer.md` | Sr Dev | Senior | 2 | - |
+| `MRF-010-senior-sales-specialist-enterprise.md` | Sales Specialist 1 | Senior | 2 | ✅ Updated |
+| `MRF-011-senior-sales-specialist-government.md` | Sales Specialist 2 | Senior | 2 | - |
+| `MRF-012-senior-presales-consultant.md` | Presales Consult | Senior | 2 | ✅ Updated |
+| `MRF-013-junior-security-consultant.md` | Jr Consult | Junior | 3 | - |
+| `MRF-014-junior-security-researcher.md` | Jr Researcher | Junior | 3 | - |
+| `MRF-015-threat-intelligence-analyst.md` | Analyst | IC | 3 | - |
+| `MRF-016-threat-intelligence-researcher.md` | Research | IC | 3 | - |
+| `MRF-017-distributed-intelligence-analyst.md` | Dist Intel | IC | 3 | - |
+| `MRF-018-junior-devsecops-engineer.md` | Jr DevSecOps | Junior | 3 | - |
+| `MRF-019-business-analyst.md` | BA | IC | 3 | - |
+| `MRF-020-junior-project-manager.md` | Jr PM | Junior | 3 | - |
+| `MRF-021-junior-professional-services-consultant.md` | Jr PS | Junior | 3 | - |
 
 **Each JD Contains:**
 - Position overview (title, team, reports to, level)
@@ -343,7 +372,22 @@ Burdened Cost = Base Salary × 1.44x
 | v2 | June 8, 2026 | 16 roles | COGS model added |
 | v3 | June 9, 2026 | 16 roles | Option C selected |
 | v4 | June 9, 2026 | 18 roles | Comprehensive docs |
-| v5 | June 10, 2026 | 24 roles | Final (this release) |
+| v5.0 | June 10, 2026 | 24 roles | Initial release |
+| v5.1 | June 10, 2026 | 24 roles | Updated JDs (4 positions) |
+
+## Recent Updates (v5.1)
+
+**Latest Commit:** Updated 4 job descriptions and added Wave 1 plan revision
+
+**Updated Job Descriptions:**
+- MRF-001: Government Security Project Manager - Refined requirements
+- MRF-004: Senior Project Manager - Updated responsibilities
+- MRF-010: Senior Sales Specialist (Enterprise) - Enhanced qualifications
+- MRF-012: Senior Presales Consultant - Expanded technical requirements
+
+**New Files:**
+- `CySec-Wave1-Hiring-Plan-v5.1.md` - Revised Wave 1 execution plan
+- `CySec Orgchart BAK/` - Backup folder for org chart versions
 
 ---
 
@@ -356,8 +400,8 @@ Burdened Cost = Base Salary × 1.44x
 
 ### For HR
 1. Use `CySec-Manpower-Requisitions-v5.md` for MRF approvals
-2. Post jobs using files from `JDs/` folder
-3. Reference `CySec-Wave1-Hiring-Plan-Immediate-v5.md` for timeline
+2. Post jobs using **updated** files from `JDs/` folder (check ✅ Updated status)
+3. Reference `CySec-Wave1-Hiring-Plan-v5.1.md` for latest Wave 1 timeline
 
 ### For Hiring Managers
 1. Review `JDs/` for position requirements
