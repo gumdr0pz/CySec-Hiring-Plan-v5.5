@@ -1,88 +1,197 @@
-# Junior Security Consultant
+# Junior GRC Specialist
 
 | Field | Detail |
 |---|---|
 | Requisition ID | MRF-013 |
 | Business Unit | Cybersecurity BU |
 | Team | VORON |
-| Reports To | Senior Security Consultant |
+| Reports To | Senior GRC Specialist |
 | Level / Grade | Junior |
 | Employment Type | Full-time, Permanent |
-| Location | Kuala Lumpur, Malaysia (hybrid) |
+| Location | Kuala Lumpur, Malaysia (Hybrid) |
 | Hiring Wave | Wave 3 — Triggered at RM8M+ recurring revenue |
 | Target Start | Within 90 days of trigger |
 | Priority | Medium |
 
+---
+
 ## 1. Role Purpose
-The Junior Security Consultant supports the VORON team in delivering high-quality offensive and assessment-based security engagements to the Cybersecurity BU's clients. Working alongside senior consultants, the role builds hands-on testing experience while contributing directly to vulnerability identification, analysis, and reporting. It exists to expand delivery capacity as recurring engagement volume grows, ensuring consistent, methodical, and well-documented security outcomes for clients.
+
+The Junior GRC Specialist supports the operation and administration of the VoronCitadel Unified GRC Platform while assisting with governance, risk, compliance, third-party risk, and operational resilience activities.
+
+Working under the guidance of the Senior GRC Specialist, the role develops practical experience in regulatory compliance, risk management, audit support, and customer onboarding while contributing to the successful delivery and adoption of VoronCitadel.
+
+---
 
 ## 2. Key Responsibilities
-- Support senior consultants throughout security assessments, from scoping and reconnaissance to validation and remediation guidance.
-- Conduct vulnerability scanning across client environments and analyse results to distinguish genuine risks from false positives.
-- Document findings clearly and accurately, and assist in producing professional, client-ready assessment reports.
-- Participate in penetration testing engagements under senior guidance, contributing to manual and automated testing activities.
-- Develop and maintain security testing scripts in Python and Bash to improve the efficiency and repeatability of assessments.
-- Track identified vulnerabilities through to retesting and closure, ensuring remediation evidence is captured and verified.
-- Maintain up-to-date knowledge of common attack techniques, tooling, and testing methodologies to strengthen delivery quality.
-- Collaborate with team members to share findings, escalate critical issues promptly, and uphold engagement timelines and standards.
+
+### Platform Operations
+
+- Assist in maintaining and administering the VoronCitadel platform.
+- Support user management, permissions, and workflow administration.
+- Ensure records and platform information remain accurate and up to date.
+- Assist with customer onboarding and training activities.
+
+### Governance & Compliance
+
+- Support compliance assessments and evidence collection activities.
+- Assist in maintaining control mappings across:
+  - BNM RMiT
+  - SC GTRM
+  - Bursa RSWG
+  - ISO 27001:2022
+  - NIST CSF 2.0
+- Track remediation actions and compliance gaps.
+
+### Risk Management
+
+- Support maintenance of risk registers and treatment plans.
+- Assist in documenting risks and monitoring mitigation progress.
+- Help prepare risk reports and dashboards.
+
+### Third-Party Risk Management
+
+- Maintain vendor records and assessment documentation.
+- Assist with onboarding and periodic vendor reviews.
+- Track remediation actions and follow up with stakeholders.
+
+### Operational Resilience
+
+- Support Business Impact Analysis (BIA) activities.
+- Assist in maintaining Business Continuity Management (BCM) and Disaster Recovery (DR) documentation.
+- Coordinate testing schedules and evidence collection.
+
+### Incident & Audit Support
+
+- Assist in maintaining incident records and corrective action tracking.
+- Support internal and external audit preparation.
+- Organize evidence and documentation required for assessments.
+
+### Reporting & Documentation
+
+- Prepare reports, dashboards, and presentation materials.
+- Maintain policies, procedures, and supporting documentation.
+- Ensure documentation remains current and well organized.
+
+### Continuous Learning
+
+- Develop knowledge of cybersecurity governance and regulatory frameworks.
+- Participate in training and certification programs.
+- Contribute ideas for process improvements and platform enhancements.
+
+---
 
 ## 3. Required Qualifications & Experience
-- Bachelor's degree in Computer Science, Cybersecurity, or a related field.
-- Minimum 2 years of experience in security or IT.
-- CEH, CompTIA Security+, or equivalent certification.
-- Basic working knowledge of security testing concepts and practices.
-- Scripting skills in Python and Bash.
 
-## 4. Preferred / Desirable Qualifications
-- Hands-on experience with vulnerability scanning tools.
-- Familiarity with penetration testing methodologies (e.g., OWASP, PTES).
-- Participation in Capture The Flag (CTF) competitions.
-- Foundational understanding of cloud security concepts.
+- Bachelor's degree in Cybersecurity, Information Security, Computer Science, Risk Management, Business Information Systems, or a related field.
+- Minimum 1–2 years of experience in IT, cybersecurity, audit, compliance, or risk-related functions.
+- Strong written and verbal communication skills.
+- Ability to organize and maintain documentation accurately.
+- Proficiency with Microsoft Office tools, especially Excel and PowerPoint.
+
+---
+
+## 4. Preferred Qualifications
+
+- Exposure to ISO 27001, NIST CSF, or regulatory compliance activities.
+- Experience supporting audits or documentation exercises.
+- Familiarity with GRC platforms or ticketing systems.
+- Understanding of information security fundamentals.
+
+---
 
 ## 5. Technical Skills & Competencies
-- Vulnerability scanning and analysis using industry tools (e.g., Nessus, OpenVAS, Burp Suite).
-- Scripting and automation with Python and Bash.
-- Understanding of common vulnerability classes and the OWASP Top 10.
-- Familiarity with network, web application, and operating system fundamentals.
-- Awareness of penetration testing methodologies and assessment workflows.
-- Basic cloud security concepts across major providers (AWS, Azure, or GCP).
-- Clear technical documentation and report-writing skills.
+
+### Governance & Compliance
+
+- Basic understanding of:
+  - ISO 27001
+  - NIST CSF
+  - BNM RMiT
+  - SC GTRM
+  - Bursa RSWG
+
+### Risk Management
+
+- Risk registers
+- Risk assessment concepts
+- Remediation tracking
+
+### Operational Resilience
+
+- Business Continuity Management (BCM)
+- Business Impact Analysis (BIA)
+- Incident Management concepts
+
+### Third-Party Risk Management
+
+- Vendor assessments
+- Documentation management
+- Evidence collection
+
+### Reporting & Documentation
+
+- Microsoft Excel and PowerPoint
+- Report preparation
+- Policy and procedure documentation
+
+---
 
 ## 6. Behavioural Competencies
-- **Eagerness to learn:** Actively seeks new knowledge, feedback, and skills to grow as a security professional.
-- **Attention to detail:** Approaches testing and documentation with rigour and accuracy.
-- **Collaboration:** Works effectively within the VORON team and supports senior consultants reliably.
-- **Communication:** Conveys technical findings clearly to both technical and non-technical audiences.
-- **Ownership:** Takes responsibility for assigned tasks and follows them through to completion.
-- **Analytical thinking:** Investigates issues methodically and reasons through evidence to sound conclusions.
+
+- **Eagerness to Learn** — Demonstrates curiosity and continuously develops new skills.
+- **Attention to Detail** — Maintains accurate records and documentation.
+- **Collaboration** — Works effectively with team members and stakeholders.
+- **Communication** — Communicates clearly and professionally.
+- **Ownership** — Takes responsibility for assigned tasks.
+- **Analytical Thinking** — Approaches problems systematically and logically.
+
+---
 
 ## 7. Certifications
-**Required**
-- CEH, CompTIA Security+, or equivalent certification.
 
-**Preferred**
-- OSCP, eJPT, or other practical offensive security certifications.
-- Cloud security certifications (e.g., AWS, Azure, or GCP security fundamentals).
+### Preferred
+
+- ISO 27001 Foundation
+- CompTIA Security+
+- ISC2 Certified in Cybersecurity (CC)
+- COBIT Foundation
+- ITIL Foundation
+
+---
 
 ## 8. Key Performance Indicators
-- Successfully supports assigned assessments with minimal rework on documented findings within the first 6 months.
-- Completes vulnerability scanning and analysis tasks accurately and within engagement timelines.
-- Contributes to client-ready reports that meet quality standards with limited senior revision.
-- Develops at least one reusable testing script or automation that improves team efficiency within 12 months.
-- Demonstrates measurable growth in penetration testing involvement, progressing from supported to semi-independent tasks.
-- Maintains consistent positive feedback from senior consultants on reliability, quality, and collaboration.
+
+- Completes assigned documentation and platform tasks accurately and on time.
+- Supports customer onboarding activities successfully.
+- Maintains compliance records with minimal rework.
+- Assists with audit preparation and evidence collection.
+- Demonstrates continuous growth in GRC knowledge and responsibilities.
+- Receives positive feedback from internal stakeholders and customers.
+
+---
 
 ## 9. Reporting & Team Context
-This role reports to the Senior Security Consultant and works as part of the VORON team, collaborating closely with senior consultants and fellow analysts on client engagements across assessment and offensive security delivery.
+
+This role reports to the Senior GRC Specialist and operates within the VORON team. The Junior GRC Specialist collaborates closely with Product Engineering, Cybersecurity, Risk, Compliance, and customer stakeholders while developing practical experience in operating the VoronCitadel platform.
+
+---
 
 ## 10. Compensation & Benefits
+
 - **Monthly Base Salary:** RM3,500 – RM5,600
 - **Annual Base Salary:** RM42,000 – RM67,200
 
 The package includes statutory EPF, SOCSO, and EIS contributions, medical coverage, training and certification sponsorship, and a performance-based bonus.
 
+---
+
 ## 11. Career Progression
-The natural next step is progression to **Security Consultant**, taking on greater engagement ownership and increasingly independent testing responsibilities.
+
+Junior GRC Specialist → GRC Specialist → Senior GRC Specialist → Lead GRC Specialist → GRC Manager
+
+---
 
 ## 12. Equal Opportunity Statement
-We are an equal opportunity employer committed to building a diverse and inclusive workforce. All qualified applicants will be considered without regard to race, religion, gender, age, nationality, disability, or any other status protected by applicable law. We welcome applicants of all backgrounds to apply.
+
+We are an equal opportunity employer committed to building a diverse and inclusive workforce. All qualified applicants will be considered without regard to race, religion, gender, age, nationality, disability, or any other status protected by applicable law.
