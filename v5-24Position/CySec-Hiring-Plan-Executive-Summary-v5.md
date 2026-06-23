@@ -1,9 +1,11 @@
 # CYBERSECURITY BU - HIRING PLAN EXECUTIVE SUMMARY
 
-**Version:** 5.0  
+**Version:** 5.3  
 **Date:** June 10, 2026  
-**Status:** FINAL  
+**Status:** FINAL - Balanced 7-7-7 Structure ⭐ CURRENT  
 **Classification:** CONFIDENTIAL
+
+> **Note:** This is the current version. All previous versions (v5.0-v5.2) are deprecated.
 
 ---
 
@@ -22,11 +24,12 @@ This executive summary presents the strategic hiring plan for the Cybersecurity 
 | **Positions to Hire** | 21 |
 | **Hiring Timeline** | 12 months |
 | **Revenue Target** | RM12,000,000 |
-| **Total Annual Cost (Min)** | RM1,560,384 |
-| **Total Annual Cost (Max)** | RM2,496,614 |
-| **Cost as % of Revenue** | 13.0% – 20.8% |
-| **25% Revenue Cap** | Within |
-| **Headroom** | RM503,386 – RM1,439,616 |
+| **Wave Structure** | 7-7-7 (Balanced) |
+| **Total Annual Cost (Min)** | RM1,729,728 |
+| **Total Annual Cost (Max)** | RM2,767,554 |
+| **Cost as % of Revenue** | 14.4% – 23.1% |
+| **25% Revenue Cap** | ✅ Within |
+| **Headroom** | RM232,446 – RM1,270,272 |
 
 ---
 
@@ -46,11 +49,13 @@ Wave 3 (RM8M+) → Scale & Optimization
 
 Hiring waves are tied to confirmed revenue milestones, ensuring financial sustainability:
 
-| Wave | Trigger | Positions | Annual Cost |
-|------|---------|-----------|-------------|
-| Wave 1 | Board Approval | 5 | RM423K – RM677K |
-| Wave 2 | RM4M+ SOWs | 7 | RM593K – RM948K |
-| Wave 3 | RM8M+ Recurring | 9 | RM544K – RM871K |
+| Wave | Trigger | Positions | Annual Cost | % of Total |
+|------|---------|-----------|-------------|------------|
+| **Wave 1** | Board Approval | 7 | RM593K – RM948K | 34.3% |
+| **Wave 2** | RM4M+ SOWs | 7 | RM593K – RM948K | 34.3% |
+| **Wave 3** | RM8M+ Recurring | 7 | RM544K – RM871K | 31.4% |
+
+**Note:** v5.3 uses balanced 7-7-7 structure. Previous versions had 5-7-9 or 8-4-9 splits (deprecated).
 
 ---
 

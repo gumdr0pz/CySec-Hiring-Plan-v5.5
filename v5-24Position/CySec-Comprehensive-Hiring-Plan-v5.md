@@ -1,9 +1,11 @@
 # CYBERSECURITY BU - COMPREHENSIVE HIRING PLAN
 
-**Version:** 5.0  
+**Version:** 5.3  
 **Date:** June 10, 2026  
-**Status:** FINAL  
+**Status:** FINAL - Balanced 7-7-7 Structure ⭐ CURRENT  
 **Classification:** CONFIDENTIAL
+
+> **Note:** This is the current version. All previous versions (v5.0-v5.2) are deprecated and archived.
 
 ---
 
@@ -30,16 +32,20 @@ This document outlines the strategic hiring plan for the Cybersecurity Business 
 
 | Metric | Value |
 |--------|-------|
-| Total Positions | 24 |
-| Existing Leadership | 3 |
-| Positions to Hire | 21 |
-| Hiring Timeline | 12 months |
-| Revenue Target | RM12,000,000 |
-| Total Annual Cost (Min) | RM1,560,384 |
-| Total Annual Cost (Max) | RM2,496,614 |
-| Cost as % of Revenue | 13.0% – 20.8% |
-| 25% Revenue Cap | Within |
-| Headroom | RM503,386 – RM1,439,616 |
+| **Total Positions** | 24 |
+| **Existing Leadership** | 3 |
+| **Positions to Hire** | 21 |
+| **Hiring Timeline** | 12 months |
+| **Revenue Target** | RM12,000,000 |
+| **Wave Structure** | 7-7-7 (Balanced) |
+| **Wave 1 Positions** | 7 |
+| **Wave 2 Positions** | 7 |
+| **Wave 3 Positions** | 7 |
+| **Total Annual Cost (Min)** | RM1,729,728 |
+| **Total Annual Cost (Max)** | RM2,767,554 |
+| **Cost as % of Revenue** | 14.4% – 23.1% |
+| **25% Revenue Cap** | ✅ Within |
+| **Headroom** | RM232,446 – RM1,270,272 |
 
 ### 1.3 Strategic Alignment
 
@@ -49,14 +55,18 @@ The hiring plan supports three core strategic objectives:
 2. **COGS Optimization**: Maintain labor costs below 25% of revenue through 30% salary reduction and multi-product allocation
 3. **Revenue-Triggered Scaling**: Tie hiring waves to confirmed revenue milestones to ensure financial sustainability
 
-### 1.4 Wave Structure Summary
+### 1.4 Wave Structure Summary (7-7-7 Balanced)
 
-| Wave | Trigger | Positions | Annual Cost Range |
-|------|---------|-----------|-------------------|
-| Wave 1 | Immediate | 5 | RM423,360 – RM677,376 |
-| Wave 2 | RM4M+ SOWs | 7 | RM592,704 – RM948,326 |
-| Wave 3 | RM8M+ Recurring | 9 | RM544,320 – RM870,912 |
-| **Total** | - | **21** | **RM1,560,384 – RM2,496,614** |
+| Wave | Trigger | Positions | Annual Cost Range | % of Total |
+|------|---------|-----------|-------------------|------------|
+| **Wave 1** | Board Approval | 7 | RM592,704 – RM948,326 | 34.3% |
+| **Wave 2** | RM4M+ SOWs | 7 | RM592,704 – RM948,326 | 34.3% |
+| **Wave 3** | RM8M+ Recurring | 7 | RM544,320 – RM870,912 | 31.4% |
+| **Total** | - | **21** | **RM1,729,728 – RM2,767,554** | **100%** |
+
+**Wave 1 Positions (7):** Gov Sec PM, Sr GRC Specialist, Sr DevSecOps, PM, Sr PS, Sales Specialist (Enterprise), Presales Consultant
+
+> **Note:** Previous versions (v5.0-v5.2) had different wave structures (5-7-9, 8-4-9). This v5.3 uses a balanced 7-7-7 structure for optimal team development.
 
 ---
 

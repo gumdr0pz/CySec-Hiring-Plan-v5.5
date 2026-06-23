@@ -1,5 +1,11 @@
 # CySec BU - Wave Structure Summary
 
+**Version:** 5.3 ⭐ CURRENT  
+**Date:** June 10, 2026  
+**Status:** Balanced 7-7-7 Structure
+
+> **Note:** This is the current version. All previous versions (v5.0-v5.2) are deprecated.
+
 ## Updated Organization Chart (24 Positions)
 
 ### Leadership (3 Existing)

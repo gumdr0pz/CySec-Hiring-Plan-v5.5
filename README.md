@@ -1,15 +1,25 @@
-# Cybersecurity BU Hiring Plan - v5 (24-Position Structure)
+# Cybersecurity BU Hiring Plan - v5.3 (24-Position Structure)
 
-**Version:** 5.3  
+**Version:** 5.3 ⭐ **CURRENT**  
 **Date:** June 10, 2026  
 **Status:** Final - Balanced 7-7-7 Structure  
 **Classification:** CONFIDENTIAL
+
+> **⚠️ Important:** This is the **only current version**. All previous versions (v5.0, v5.1, v5.2) are **deprecated** and archived for reference only.
 
 ---
 
 ## Overview
 
-This repository contains the complete hiring plan documentation for the Cybersecurity Business Unit (BU). This v5 release details the recruitment of **21 positions** across **9 teams** over a 12-month period, structured in three revenue-triggered waves.
+This repository contains the complete **v5.3** hiring plan documentation for the Cybersecurity Business Unit (BU). This **balanced 7-7-7 structure** details the recruitment of **21 positions** across **9 teams** over a 12-month period.
+
+**📦 What's Current:**
+- ✅ v5.3: Balanced 7-7-7 wave structure (21 positions)
+- ✅ All documents updated to reflect v5.3
+- ✅ Wave 1: 7 roles | Wave 2: 7 roles | Wave 3: 7 roles
+
+**🗄️ What's Archived:**
+- ❌ v5.0, v5.1, v5.2: Deprecated and moved to `ARCHIVE-HISTORICAL-VERSIONS/`
 
 ---
 
@@ -355,16 +365,23 @@ Burdened Cost = Base Salary × 1.44x
 
 ---
 
-## Version History
+## Version History & Deprecation Notice
 
 | Version | Date | Wave Structure | Status |
 |---------|------|----------------|--------|
-| v5.3 | June 10, 2026 | **7-7-7 (Balanced)** | ⭐ **CURRENT** |
-| v5.2 | June 10, 2026 | 8-4-9 | Archived |
-| v5.1 | June 10, 2026 | 5-7-9 | Archived |
-| v5.0 | June 10, 2026 | 5-7-9 | Archived |
+| v5.3 | June 10, 2026 | **7-7-7 (Balanced)** | ⭐ **CURRENT - USE THIS** |
+| v5.2 | June 10, 2026 | 8-4-9 | ❌ Deprecated |
+| v5.1 | June 10, 2026 | 5-7-9 | ❌ Deprecated |
+| v5.0 | June 10, 2026 | 5-7-9 | ❌ Deprecated |
 
-**Note:** Historical versions (v5.0-v5.2) are archived in `ARCHIVE-HISTORICAL-VERSIONS/` folder.
+### ⚠️ Deprecation Notice
+
+**All versions prior to v5.3 are deprecated and should not be used for active hiring.**
+
+- **Why Deprecated:** Earlier versions had unbalanced wave structures (5-7-9, 8-4-9)
+- **Where to Find:** Archived in `v5-24Position/ARCHIVE-HISTORICAL-VERSIONS/`
+- **What to Use:** Only v5.3 documents should be used for active hiring
+- **Migration:** If you were using v5.0-v5.2, please migrate to v5.3 immediately
 
 ---
 
