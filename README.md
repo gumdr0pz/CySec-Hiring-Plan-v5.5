@@ -1,4 +1,4 @@
-# Cybersecurity BU Hiring Plan - v5.5 (24-Position Structure)
+# Cybersecurity BU Hiring Plan - v5.5 (20-Hire Structure)
 
 **Version:** 5.5 ⭐ **CURRENT**
 **Date:** June 23, 2026
@@ -19,7 +19,7 @@ This repository contains the complete **v5.5** hiring plan for the Cybersecurity
 - ✅ Wave 1 builds PreSales and DevSecOps as senior+junior pods, plus a Technical Account Manager, governance, and GRC
 
 **🗄️ What's Archived / Removed:**
-- ❌ v5.0–v5.4: Deprecated, in `v5-24Position/ARCHIVE-HISTORICAL-VERSIONS/`
+- ❌ v5.0–v5.4: Deprecated, in `v5-20Position/ARCHIVE-HISTORICAL-VERSIONS/`
 - ❌ Senior Project Manager & Junior Professional Services roles: removed (`.../removed-roles/`)
 
 ---
@@ -165,7 +165,7 @@ Burdened Cost = Base Salary × 1.44x
 **Only v5.5 documents should be used for active hiring.**
 
 - **What's New in v5.5:** Junior Professional Services removed (Wave 1 → 7; Professional Services is a single Technical Account Manager). Builds on v5.4's support-pod model (Senior PM removed, Jr Presales added).
-- **Old Versions:** `v5-24Position/ARCHIVE-HISTORICAL-VERSIONS/`
+- **Old Versions:** `v5-20Position/ARCHIVE-HISTORICAL-VERSIONS/`
 
 ---
 

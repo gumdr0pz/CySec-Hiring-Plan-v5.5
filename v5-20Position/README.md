@@ -1,4 +1,4 @@
-# v5 - 24-Position Structure (v5.5 Current)
+# v5 - 20-Hire Structure (v5.5 Current)
 
 **Date:** June 23, 2026
 **Structure:** 23 positions (3 existing + 20 hires)
