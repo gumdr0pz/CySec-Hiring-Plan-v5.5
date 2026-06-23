@@ -9,8 +9,8 @@
 | Level / Grade | Senior |
 | Employment Type | Full-time, Permanent |
 | Location | Kuala Lumpur, Malaysia (hybrid) |
-| Hiring Wave | Wave 2 — Triggered at RM4M+ signed SOWs |
-| Target Start | Within 120 days of trigger |
+| Hiring Wave | Wave 3 — Triggered at RM8M+ recurring revenue |
+| Target Start | Within 90 days of trigger |
 | Priority | High |
 
 ## 1. Role Purpose

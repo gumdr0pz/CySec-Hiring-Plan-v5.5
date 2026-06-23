@@ -5,7 +5,7 @@
 | **Requisition ID** | MRF-019 |
 | **Business Unit** | Cybersecurity BU |
 | **Team** | PM Team |
-| **Reports To** | Senior Project Manager |
+| **Reports To** | BU Head (dotted line) |
 | **Level / Grade** | IC (Individual Contributor) |
 | **Employment Type** | Full-time, Permanent |
 | **Location** | Kuala Lumpur, Malaysia (Hybrid) |
@@ -22,7 +22,7 @@ The Business Analyst sits within the PM Team of the Cybersecurity BU and exists 
 - **Elicit and document** business and functional requirements through interviews, workshops, and analysis, producing clear and traceable requirement artefacts.
 - **Facilitate stakeholder workshops** with clients, delivery leads, and technical specialists to surface needs, resolve ambiguity, and build consensus on scope.
 - **Author user stories and acceptance criteria** that are precise, testable, and ready for Agile delivery teams to estimate and execute.
-- **Support project planning and prioritisation** by helping the Senior Project Manager translate requirements into backlogs, scope baselines, and delivery roadmaps.
+- **Support project planning and prioritisation** by helping the delivery lead translate requirements into backlogs, scope baselines, and delivery roadmaps.
 - **Bridge business and technical perspectives**, ensuring proposed cybersecurity solutions align with stakeholder objectives, constraints, and compliance expectations.
 - **Maintain requirements traceability** from inception through delivery, tracking changes and assessing their impact on scope, timeline, and effort.
 - **Model and map business processes** to identify gaps, inefficiencies, and improvement opportunities relevant to engagement outcomes.
@@ -79,12 +79,12 @@ The Business Analyst sits within the PM Team of the Cybersecurity BU and exists 
 - Reduction in scope-related change requests and ambiguity-driven defects across supported engagements.
 - Stakeholder workshops facilitated and documented on schedule, with clear, actionable outputs.
 - Requirements traceability maintained across all assigned projects, with consistent change tracking.
-- Positive feedback from the Senior Project Manager and delivery leads on the quality and timeliness of analysis.
+- Positive feedback from the delivery lead and delivery leads on the quality and timeliness of analysis.
 - On-time contribution to project planning and prioritisation cycles for supported engagements.
 
 ## 9. Reporting & Team Context
 
-This role reports to the Senior Project Manager within the Cybersecurity BU's PM Team and works closely with project managers, technical delivery specialists, and client stakeholders to align business needs with delivered solutions. As an Individual Contributor role, it focuses on hands-on analysis and delivery rather than people management.
+This role reports to the delivery lead within the Cybersecurity BU's PM Team and works closely with project managers, technical delivery specialists, and client stakeholders to align business needs with delivered solutions. As an Individual Contributor role, it focuses on hands-on analysis and delivery rather than people management.
 
 ## 10. Compensation & Benefits
 

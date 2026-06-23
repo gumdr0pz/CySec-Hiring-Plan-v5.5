@@ -5,7 +5,7 @@
 | Requisition ID | MRF-020 |
 | Business Unit | Cybersecurity BU |
 | Team | PM Team |
-| Reports To | Senior Project Manager |
+| Reports To | BU Head (dotted line) |
 | Level / Grade | Junior |
 | Employment Type | Full-time, Permanent |
 | Location | Kuala Lumpur, Malaysia (hybrid) |
@@ -15,16 +15,16 @@
 
 ## 1. Role Purpose
 
-The Junior Project Manager supports the smooth delivery of cybersecurity engagements across the Cybersecurity BU's offensive security, threat intelligence, DevSecOps, blockchain security, and consulting service lines. Working alongside a Senior Project Manager, this role keeps projects organised, tracked, and well-documented so that delivery teams can focus on technical work and clients receive timely, transparent updates. It is an entry point for building a project management career within a growing, high-demand security practice.
+The Junior Project Manager supports the smooth delivery of cybersecurity engagements across the Cybersecurity BU's offensive security, threat intelligence, DevSecOps, blockchain security, and consulting service lines. Working alongside a delivery lead, this role keeps projects organised, tracked, and well-documented so that delivery teams can focus on technical work and clients receive timely, transparent updates. It is an entry point for building a project management career within a growing, high-demand security practice.
 
 ## 2. Key Responsibilities
 
-- Support the Senior Project Manager in day-to-day coordination of cybersecurity projects, ensuring tasks, owners, and timelines stay aligned with the agreed delivery plan.
+- Support the delivery lead in day-to-day coordination of cybersecurity projects, ensuring tasks, owners, and timelines stay aligned with the agreed delivery plan.
 - Track project milestones, deliverables, and dependencies, flagging slippages or risks early so corrective action can be taken.
 - Coordinate team schedules, book and prepare project meetings, and circulate agendas and follow-up actions to keep stakeholders informed.
 - Document project status, progress reports, and meeting minutes, maintaining accurate and up-to-date records for internal and client reference.
 - Manage project administrative tasks, including maintaining project files, registers, and tracking tools so information is consistent and easy to retrieve.
-- Compile regular status updates and reports for the Senior Project Manager and relevant stakeholders.
+- Compile regular status updates and reports for the delivery lead and relevant stakeholders.
 - Monitor action items and outstanding deliverables, following up with team members to confirm completion.
 - Contribute to continuous improvement by keeping project documentation and tooling tidy, current, and aligned with team standards.
 
@@ -74,12 +74,12 @@ The Junior Project Manager supports the smooth delivery of cybersecurity engagem
 - Timely delivery of project status reports and meeting minutes within agreed turnaround times.
 - Effective coordination of team schedules and meetings, measured by attendance and on-time scheduling.
 - Reduction in overdue or untracked action items across supported projects.
-- Positive feedback from the Senior Project Manager and delivery teams on coordination and documentation quality.
+- Positive feedback from the delivery lead and delivery teams on coordination and documentation quality.
 - Demonstrated growth in project management knowledge and tooling proficiency within the first 6–12 months.
 
 ## 9. Reporting & Team Context
 
-This role reports to the Senior Project Manager and works closely with delivery teams across the Cybersecurity BU's service lines, supporting project coordination, tracking, and documentation. It is an individual-contributor role focused on learning and growing within the PM Team.
+This role reports to the delivery lead and works closely with delivery teams across the Cybersecurity BU's service lines, supporting project coordination, tracking, and documentation. It is an individual-contributor role focused on learning and growing within the PM Team.
 
 ## 10. Compensation & Benefits
 

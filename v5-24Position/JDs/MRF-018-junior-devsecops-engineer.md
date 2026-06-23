@@ -9,9 +9,9 @@
 | Level / Grade | Junior |
 | Employment Type | Full-time, Permanent |
 | Location | Kuala Lumpur, Malaysia (hybrid) |
-| Hiring Wave | Wave 3 — Triggered at RM8M+ recurring revenue |
-| Target Start | Within 90 days of trigger |
-| Priority | Medium |
+| Hiring Wave | Wave 1 — Immediate (Board Approval) |
+| Target Start | Within 90 days of approval |
+| Priority | High |
 
 ## 1. Role Purpose
 

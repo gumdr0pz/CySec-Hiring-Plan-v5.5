@@ -78,7 +78,7 @@ The Technical Account Manager (TAM) is the post-sale technical relationship owne
 
 ## 9. Reporting & Team Context
 
-This role sits within Professional Services and reports on a dotted line to the BU Head. The TAM works closely with the PM team, Professional Services delivery, Sales/Presales, and the technical teams, and is supported by the Junior Professional Services Consultant (Wave 3), who reports into this role.
+This role sits within Professional Services and reports on a dotted line to the BU Head. As the sole Professional Services hire, the TAM works closely with the PM team, Sales/Presales, and the technical delivery teams to coordinate service delivery and protect recurring revenue.
 
 ## 10. Compensation & Benefits
 
