@@ -1,8 +1,8 @@
 # Cybersecurity BU Hiring Plan - v5 (24-Position Structure)
 
-**Version:** 5.2  
+**Version:** 5.3  
 **Date:** June 10, 2026  
-**Status:** Final (Wave 1 Expanded to 8 Roles)  
+**Status:** Final - Balanced 7-7-7 Structure  
 **Classification:** CONFIDENTIAL
 
 ---
@@ -22,25 +22,26 @@ This repository contains the complete hiring plan documentation for the Cybersec
 | **Positions to Hire** | 21 |
 | **Hiring Timeline** | 12 months |
 | **Revenue Target** | RM12,000,000 |
-| **Wave 1 Positions** | 8 (expanded from 5) |
-| **Wave 1 Annual Cost** | RM677,376 – RM1,083,840 |
-| **Total Annual Cost** | RM1,814,400 – RM2,903,040 |
-| **Cost as % of Revenue** | 15.1% – 24.2% |
+| **Wave Structure** | 7-7-7 (Balanced) |
+| **Wave 1 Positions** | 7 |
+| **Wave 1 Annual Cost** | RM592,704 – RM948,326 |
+| **Total Annual Cost** | RM1,729,728 – RM2,767,554 |
+| **Cost as % of Revenue** | 14.4% – 23.1% |
 | **25% Revenue Cap** | ✅ Within |
-| **Headroom** | RM96,960 – RM1,185,600 |
+| **Headroom** | RM232,446 – RM1,270,272 |
 
 ---
 
 ## Wave Structure
 
-| Wave | Trigger | Positions | Annual Cost Range |
-|------|---------|-----------|-------------------|
-| **Wave 1** | Board Approval | 8 | RM677,376 – RM1,083,840 |
-| **Wave 2** | RM4M+ SOWs | 4 | RM338,688 – RM541,440 |
-| **Wave 3** | RM8M+ Recurring | 9 | RM544,320 – RM870,912 |
-| **Total** | - | **21** | **RM1,814,400 – RM2,903,040** |
+| Wave | Trigger | Positions | Annual Cost Range | % of Total |
+|------|---------|-----------|-------------------|------------|
+| **Wave 1** | Board Approval | 7 | RM592,704 – RM948,326 | 34.3% |
+| **Wave 2** | RM4M+ SOWs | 7 | RM592,704 – RM948,326 | 34.3% |
+| **Wave 3** | RM8M+ Recurring | 7 | RM544,320 – RM870,912 | 31.4% |
+| **Total** | - | **21** | **RM1,729,728 – RM2,767,554** | **100%** |
 
-**Note:** Wave 1 expanded from 5 to 8 positions (added 3 Sales/Presales roles). Wave 2 reduced from 7 to 4 positions accordingly.
+**Note:** Balanced 7-7-7 structure for even team development across all waves.
 
 ---
 
@@ -51,9 +52,10 @@ v5-24Position/
 ├── README.md                                  # This folder overview
 ├── CySec-Comprehensive-Hiring-Plan-v5.md      # Complete hiring plan
 ├── CySec-Hiring-Plan-Executive-Summary-v5.md  # Management summary
-├── CySec-Wave1-Hiring-Plan-Immediate-v5.md    # Wave 1 execution plan (v5.0 - 5 roles)
-├── CySec-Wave1-Hiring-Plan-v5.1.md            # Wave 1 plan (v5.1 - updated JDs)
-├── CySec-Wave1-Hiring-Plan-v5.2.md            # Wave 1 plan (v5.2 - 8 roles) ⭐ **CURRENT**
+├── CySec-Wave1-Hiring-Plan-Immediate-v5.md    # Wave 1 (v5.0 - 5 roles) [HISTORICAL]
+├── CySec-Wave1-Hiring-Plan-v5.1.md            # Wave 1 (v5.1 - updated JDs) [HISTORICAL]
+├── CySec-Wave1-Hiring-Plan-v5.2.md            # Wave 1 (v5.2 - 8 roles) [SUPERSEDED]
+├── CySec-Wave1-Hiring-Plan-v5.3.md            # Wave 1 (v5.3 - 7 roles) ⭐ **CURRENT**
 ├── CySec-Manpower-Requisitions-v5.md          # All 21 MRF forms
 ├── CySec-Financial-Analysis-v5.md             # Cost analysis & ROI
 ├── CySec-Wave-Structure-Summary.md            # Quick reference guide
@@ -145,32 +147,36 @@ v5-24Position/
 
 ---
 
-#### `CySec-Wave1-Hiring-Plan-v5.2.md` ⭐ **CURRENT**
-**Purpose:** Wave 1 execution plan with 8 positions (expanded from 5)  
+#### `CySec-Wave1-Hiring-Plan-v5.2.md`
+**Purpose:** Wave 1 execution plan with 8 positions (superseded)  
+**Status:** HISTORICAL - Superseded by v5.3
+
+---
+
+#### `CySec-Wave1-Hiring-Plan-v5.3.md` ⭐ **CURRENT**
+**Purpose:** Wave 1 execution plan with balanced 7-7-7 structure  
 **Contents:**
-- 8 position descriptions (added 3 Sales/Presales roles)
-- Revised hiring timeline and cost structure
-- Updated success criteria for revenue-generating roles
-- Complete cost breakdown (RM677K–1.08M/year)
+- 7 position descriptions (balanced team)
+- Revised wave structure (7-7-7)
+- Updated cost breakdown (RM593K–948K/year)
+- Complete wave overview
 
-**Changes from v5.1:**
-- **Added:** Sales Specialist (Enterprise) - Senior
-- **Added:** Sales Specialist (Government) - Senior
-- **Added:** Presales Consultant - Senior
-- **Removed from Wave 2:** 3 Sales/Presales positions moved to Wave 1
-- **Net Change:** 5 → 8 positions (+3)
+**Changes from v5.2:**
+- **Removed from Wave 1:** Sales Specialist (Government) → moved to Wave 2
+- **Added to Wave 2:** Sales Specialist (Government)
+- **Added to Wave 2:** Jr GRC Specialist, Jr DevSecOps (from Wave 3)
+- **Net Change:** 8-4-9 → 7-7-7 (balanced)
 
-**Wave 1 Positions (8 total):**
+**Wave 1 Positions (7 total):**
 1. Gov Sec PM (Senior) - Cybersecurity
-2. Sr Consult (Senior) - VORON
+2. Sr GRC Specialist (Senior) - VORON
 3. Sr DevSecOps (Senior) - DevSecOps
 4. PM (Senior) - PM Team
 5. Sr PS (Senior) - Professional Services
-6. Sales Specialist (Enterprise) (Senior) - Sales **NEW**
-7. Sales Specialist (Government) (Senior) - Sales **NEW**
-8. Presales Consultant (Senior) - Sales **NEW**
+6. Sales Specialist (Enterprise) (Senior) - Sales
+7. Presales Consultant (Senior) - Sales
 
-**Use Case:** Current reference for Wave 1 execution (supersedes v5.0 and v5.1)
+**Use Case:** Current reference for Wave 1 execution (supersedes all previous versions)
 
 ---
 
@@ -408,29 +414,34 @@ Burdened Cost = Base Salary × 1.44x
 | v4 | June 9, 2026 | 18 roles | Comprehensive docs |
 | v5.0 | June 10, 2026 | 24 roles | Initial release (5 Wave 1) |
 | v5.1 | June 10, 2026 | 24 roles | Updated JDs (4 positions) |
-| v5.2 | June 10, 2026 | 24 roles | **Wave 1 expanded to 8 roles** |
+| v5.2 | June 10, 2026 | 24 roles | Wave 1 expanded to 8 roles (8-4-9) |
+| v5.3 | June 10, 2026 | 24 roles | **Balanced 7-7-7 structure** ⭐ |
 
-## Recent Updates (v5.2) - **CURRENT**
+## Recent Updates (v5.3) - **CURRENT**
 
-**Latest Changes:** Wave 1 expanded from 5 to 8 positions
+**Latest Changes:** Balanced wave structure (7-7-7)
 
-**Added to Wave 1:**
-- Sales Specialist (Enterprise) - Moved from Wave 2
-- Sales Specialist (Government) - Moved from Wave 2
-- Presales Consultant - Moved from Wave 2
+**Restructured Waves:**
+- Wave 1: 8 → 7 positions (-1)
+- Wave 2: 4 → 7 positions (+3)
+- Wave 3: 9 → 7 positions (-2)
+
+**Moved to Wave 2:**
+- Sales Specialist (Government) - Defer until RM4M+ SOWs
+- Jr GRC Specialist - From Wave 3
+- Jr DevSecOps - From Wave 3
 
 **Impact:**
-- Wave 1: 5 → 8 positions (+3)
-- Wave 2: 7 → 4 positions (-3)
-- Wave 1 Cost: RM423K–677K → RM677K–1.08M (+RM254K–406K)
-- Total Cost: RM1.56M–2.50M → RM1.81M–2.90M
-- Cost % of Revenue: 13.0%–20.8% → 15.1%–24.2%
+- Wave 1 Cost: RM677K–1.08M → RM593K–948K (-RM85K–136K)
+- Total Cost: RM1.81M–2.90M → RM1.73M–2.77M (-RM85K–135K)
+- Cost % of Revenue: 15.1%–24.2% → 14.4%–23.1% (-0.7%–1.1%)
+- Headroom: RM97K–1.19M → RM232K–1.27M (+RM135K)
 
 **Rationale:**
-- Accelerate revenue generation by hiring sales team early
-- Enable immediate pipeline development
-- Support presales capability from day one
-- Balanced team structure (technical + commercial)
+- More balanced team development across waves
+- Government sales deferred to Wave 2 (aligned with gov SOWs)
+- Better cash flow management
+- Equal distribution: 34.3% - 34.3% - 31.4%
 
 ## Recent Updates (v5.1)
 
@@ -456,7 +467,7 @@ Burdened Cost = Base Salary × 1.44x
 ### For HR
 1. Use `CySec-Manpower-Requisitions-v5.md` for MRF approvals (update Wave 1 assignments)
 2. Post jobs using files from `JDs/` folder
-3. Reference `CySec-Wave1-Hiring-Plan-v5.2.md` for **current** Wave 1 timeline (8 roles)
+3. Reference `CySec-Wave1-Hiring-Plan-v5.3.md` for **current** Wave 1 timeline (7 roles)
 
 ### For Hiring Managers
 1. Review `JDs/` for position requirements
