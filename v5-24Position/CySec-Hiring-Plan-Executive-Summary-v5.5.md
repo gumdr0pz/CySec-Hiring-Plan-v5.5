@@ -176,6 +176,19 @@ Wave 3 (RM8M+ Rec.) → Junior/IC scale-up bench + Blockchain senior
 | Moderate | RM12,000,000 | RM2,000,000 | RM10,000,000 | 5.0x |
 | Optimistic | RM12,000,000 | RM1,451,520 | RM10,548,480 | 7.3x |
 
+### 36-Month Budget Runway (Estimated)
+
+Year 1 phased onboarding; Years 2–3 at full run-rate; revenue held flat at RM12M (conservative); 25% cap = RM3M/yr (RM9M over 36 months).
+
+| Year | Phase | Annual Cost (Min–Max) | Cumulative (Max) | Within 25% Cap? |
+|------|-------|------------------------|------------------|-----------------|
+| Year 1 | Phased ramp | RM652,176 – RM1,043,508 | RM1,043,508 | ✅ |
+| Year 2 | Full team (20) | RM1,451,520 – RM2,322,480 | RM3,365,988 | ✅ |
+| Year 3 | Full team (20) | RM1,451,520 – RM2,322,480 | RM5,688,468 | ✅ |
+| **36-Month Total** | | **RM3,555,216 – RM5,688,468** | - | ✅ |
+
+**Runway:** 36-month cost is just **9.9%–15.8%** of cumulative revenue (RM36M), leaving **RM3.3M–5.4M of cumulative headroom** under the cap. Even at the max salary band with ~5% annual inflation (36-month total ≈ RM6.04M), the plan stays within budget for the full horizon. See the Financial Analysis for detail.
+
 ---
 
 ## IMPLEMENTATION TIMELINE

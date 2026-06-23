@@ -174,6 +174,42 @@ Assumes Wave 1 run-rate from Month 3, Wave 2 from Month 8, Wave 3 from Month 12.
 
 *Full annual run-rate once all 20 are onboarded: RM1,451,520 (min) – RM2,322,480 (max).*
 
+### 5.4 Budget Runway — 36-Month Projection (Estimated)
+
+**Assumptions:**
+- **Year 1:** phased onboarding (Wave 1 from ~Month 3, Wave 2 from ~Month 8, Wave 3 from ~Month 12), so Year 1 is a partial-year cost.
+- **Years 2–3:** full team of 20 at annual run-rate.
+- **Revenue:** held flat at RM12,000,000/yr (conservative — the RM4M/RM8M wave triggers imply upside).
+- **Budget ceiling:** 25% of revenue = RM3,000,000/yr (RM9,000,000 cumulative over 36 months).
+- Ranges shown at both ends of the salary band; a salary-inflation sensitivity is noted below.
+
+| Year | Phase | Annual Cost (Min) | Annual Cost (Max) | Cumulative (Min) | Cumulative (Max) | Annual Cap (25%) | Within Cap? |
+|------|-------|-------------------|-------------------|------------------|------------------|------------------|-------------|
+| Year 1 | Phased ramp (Waves 1–3) | RM652,176 | RM1,043,508 | RM652,176 | RM1,043,508 | RM3,000,000 | ✅ |
+| Year 2 | Full team (20) | RM1,451,520 | RM2,322,480 | RM2,103,696 | RM3,365,988 | RM3,000,000 | ✅ |
+| Year 3 | Full team (20) | RM1,451,520 | RM2,322,480 | RM3,555,216 | RM5,688,468 | RM3,000,000 | ✅ |
+| **36-Month Total** | | **RM3,555,216** | **RM5,688,468** | - | - | **RM9,000,000** | ✅ |
+
+**Runway position (base case, flat revenue):**
+
+| Metric | Value |
+|--------|-------|
+| 36-month cumulative cost | RM3,555,216 – RM5,688,468 |
+| 36-month cumulative revenue | RM36,000,000 |
+| Cost as % of 36-month revenue | 9.9% – 15.8% |
+| 36-month cumulative 25% cap | RM9,000,000 |
+| **Cumulative headroom under cap** | **RM3,311,532 – RM5,444,784** |
+
+**Salary-inflation sensitivity (~5%/yr applied in Years 2–3):**
+
+| Year | Annual Cost (Min) | Annual Cost (Max) |
+|------|-------------------|-------------------|
+| Year 2 (×1.05) | RM1,524,096 | RM2,438,604 |
+| Year 3 (×1.1025) | RM1,600,301 | RM2,560,534 |
+| **36-Month Total (inflated)** | **RM3,776,573** | **RM6,042,646** |
+
+Even under the maximum salary band with 5% annual inflation, the 36-month cumulative cost (RM6.04M) stays comfortably under the RM9.0M cumulative cap. **The plan is sustainable across the full 36-month horizon at flat RM12M revenue**, with single-year cost never exceeding ~20% of revenue and ample runway for reinvestment or acceleration if revenue grows.
+
 ---
 
 ## 6. BUDGET COMPLIANCE

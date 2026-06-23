@@ -51,6 +51,18 @@ This repository contains the complete **v5.5** hiring plan for the Cybersecurity
 | **Wave 3** | RM8M+ Recurring | 8 | 1 Senior + 7 Junior/IC | RM508,032 – RM812,856 | 35.0% |
 | **Total** | - | **20** | - | **RM1,451,520 – RM2,322,480** | **100%** |
 
+### 36-Month Budget Runway (Estimated)
+
+Year 1 phased; Years 2–3 full run-rate; revenue flat at RM12M; 25% cap = RM3M/yr.
+
+| Year | Annual Cost (Min–Max) | Cumulative (Max) | Within Cap? |
+|------|------------------------|------------------|-------------|
+| Year 1 (ramp) | RM652,176 – RM1,043,508 | RM1,043,508 | ✅ |
+| Year 2 (full) | RM1,451,520 – RM2,322,480 | RM3,365,988 | ✅ |
+| Year 3 (full) | RM1,451,520 – RM2,322,480 | RM5,688,468 | ✅ |
+
+36-month cost ≈ 9.9%–15.8% of cumulative revenue (RM36M); cumulative headroom under the cap RM3.3M–5.4M. Full detail in the Financial Analysis.
+
 ### Wave 1 Positions (7)
 1. **Presales Consultant** ⭐ (Senior) — Sales  ┐
 2. **Jr Presales Consultant** (Junior) — Sales  ┘ *PreSales pod*
