@@ -1,25 +1,25 @@
-# Cybersecurity BU Hiring Plan - v5.3 (24-Position Structure)
+# Cybersecurity BU Hiring Plan - v5.4 (24-Position Structure)
 
-**Version:** 5.3 ⭐ **CURRENT**  
-**Date:** June 10, 2026  
-**Status:** Final - Balanced 7-7-7 Structure  
+**Version:** 5.4 ⭐ **CURRENT**
+**Date:** June 23, 2026
+**Status:** Final - PreSales-Anchored 8-4-9 Structure
 **Classification:** CONFIDENTIAL
 
-> **⚠️ Important:** This is the **only current version**. All previous versions (v5.0, v5.1, v5.2) are **deprecated** and archived for reference only.
+> **⚠️ Important:** This is the **only current version**. All previous versions (v5.0–v5.3) are **deprecated** and archived for reference only.
 
 ---
 
 ## Overview
 
-This repository contains the complete **v5.3** hiring plan documentation for the Cybersecurity Business Unit (BU). This **balanced 7-7-7 structure** details the recruitment of **21 positions** across **9 teams** over a 12-month period.
+This repository contains the complete **v5.4** hiring plan documentation for the Cybersecurity Business Unit (BU). This **PreSales-anchored 8-4-9 structure** details the recruitment of **21 positions** across **9 teams** over a 12-month period, in three revenue-triggered waves with a deliberate seniority gradient.
 
 **📦 What's Current:**
-- ✅ v5.3: Balanced 7-7-7 wave structure (21 positions)
-- ✅ All documents updated to reflect v5.3
-- ✅ Wave 1: 7 roles | Wave 2: 7 roles | Wave 3: 7 roles
+- ✅ v5.4: PreSales-anchored 8-4-9 wave structure (21 positions)
+- ✅ Wave 1: 8 roles (mixed levels) | Wave 2: 4 roles (all Senior) | Wave 3: 9 roles (all Junior/IC)
+- ✅ Wave 1 anchored on PreSales; Professional Services Wave 1 seat is a **Technical Account Manager (Junior/Intermediate)**
 
 **🗄️ What's Archived:**
-- ❌ v5.0, v5.1, v5.2: Deprecated and moved to `ARCHIVE-HISTORICAL-VERSIONS/`
+- ❌ v5.0–v5.3: Deprecated and moved to `v5-24Position/ARCHIVE-HISTORICAL-VERSIONS/`
 
 ---
 
@@ -32,26 +32,43 @@ This repository contains the complete **v5.3** hiring plan documentation for the
 | **Positions to Hire** | 21 |
 | **Hiring Timeline** | 12 months |
 | **Revenue Target** | RM12,000,000 |
-| **Wave Structure** | 7-7-7 (Balanced) |
-| **Wave 1 Positions** | 7 |
-| **Wave 1 Annual Cost** | RM592,704 – RM948,326 |
-| **Total Annual Cost** | RM1,729,728 – RM2,767,554 |
-| **Cost as % of Revenue** | 14.4% – 23.1% |
+| **Wave Structure** | 8-4-9 (PreSales-anchored) |
+| **Rate Bands** | 11 Senior/Lead + 10 Junior/IC |
+| **Wave 1 Positions** | 8 (2 Lead + 5 Senior + 1 Junior/Intermediate) |
+| **Wave 1 Annual Cost** | RM653,184 – RM1,045,128 |
+| **Total Annual Cost** | RM1,536,192 – RM2,457,960 |
+| **Cost as % of Revenue** | 12.8% – 20.5% |
 | **25% Revenue Cap** | ✅ Within |
-| **Headroom** | RM232,446 – RM1,270,272 |
+| **Headroom** | RM542,040 – RM1,463,808 |
 
 ---
 
 ## Wave Structure
 
-| Wave | Trigger | Positions | Annual Cost Range | % of Total |
-|------|---------|-----------|-------------------|------------|
-| **Wave 1** | Board Approval | 7 | RM592,704 – RM948,326 | 34.3% |
-| **Wave 2** | RM4M+ SOWs | 7 | RM592,704 – RM948,326 | 34.3% |
-| **Wave 3** | RM8M+ Recurring | 7 | RM544,320 – RM870,912 | 31.4% |
-| **Total** | - | **21** | **RM1,729,728 – RM2,767,554** | **100%** |
+| Wave | Trigger | Positions | Level Mix | Annual Cost Range | % of Total |
+|------|---------|-----------|-----------|-------------------|------------|
+| **Wave 1** | Board Approval | 8 | 2 Lead + 5 Senior + 1 Junior/Intermediate | RM653,184 – RM1,045,128 | 42.5% |
+| **Wave 2** | RM4M+ SOWs | 4 | 4 Senior | RM338,688 – RM541,920 | 22.0% |
+| **Wave 3** | RM8M+ Recurring | 9 | 5 Junior + 4 IC | RM544,320 – RM870,912 | 35.4% |
+| **Total** | - | **21** | - | **RM1,536,192 – RM2,457,960** | **100%** |
 
-**Note:** Balanced 7-7-7 structure for even team development across all waves.
+**Strategy:** Front-load a complete, PreSales-anchored foundation (Wave 1), add senior revenue closers and delivery once SOWs are signed (Wave 2), then scale the Junior/IC bench on recurring revenue (Wave 3).
+
+### Wave 1 Positions (8)
+1. **Presales Consultant** ⭐ (Senior) - Sales — *anchor*
+2. **Gov Sec PM** (Senior) - Cybersecurity
+3. **Sr GRC Specialist** (Senior) - VORON
+4. **Sr DevSecOps** (Senior) - DevSecOps
+5. **PM** (Senior) - PM Team
+6. **Lead Researcher** (Lead) - OffSec
+7. **CTI Lead** (Lead) - CTI
+8. **Technical Account Manager** (Junior/Intermediate) - Professional Services
+
+### Wave 2 Positions (4)
+Sales Specialist (Enterprise) · Sales Specialist (Government) · Red Team · Sr Blockchain Dev
+
+### Wave 3 Positions (9)
+Jr GRC Specialist · Jr Researcher · TI Analyst · TI Researcher · Dist Intel Analyst · Jr DevSecOps · Business Analyst · Jr PM · Jr PS
 
 ---
 
@@ -59,206 +76,46 @@ This repository contains the complete **v5.3** hiring plan documentation for the
 
 ```
 v5-24Position/
-├── README.md                                  # This folder overview
-├── CySec-Comprehensive-Hiring-Plan-v5.md      # Complete hiring plan
-├── CySec-Hiring-Plan-Executive-Summary-v5.md  # Management summary
-├── CySec-Wave1-Hiring-Plan-v5.3.md            # Wave 1 plan (7 roles) ⭐ **CURRENT**
-├── CySec-Manpower-Requisitions-v5.md          # All 21 MRF forms
-├── CySec-Financial-Analysis-v5.md             # Cost analysis & ROI
-├── CySec-Wave-Structure-Summary.md            # Quick reference guide
-├── CySec-BU-OrgChart-Whiteboard.drawio        # Visual org chart
-├── cysec_cogs_calculator.py                   # COGS cost calculator
-├── JDs/                                       # Job descriptions (21 files)
+├── README.md                                       # Folder overview
+├── CySec-Comprehensive-Hiring-Plan-v5.4.md         # Complete hiring plan
+├── CySec-Hiring-Plan-Executive-Summary-v5.4.md     # Management summary
+├── CySec-Wave1-Hiring-Plan-v5.4.md                 # Wave 1 plan (8 roles) ⭐ CURRENT
+├── CySec-Manpower-Requisitions-v5.4.md             # All 21 MRF forms
+├── CySec-Financial-Analysis-v5.4.md                # Cost analysis & ROI
+├── CySec-Wave-Structure-Summary-v5.4.md            # Quick reference guide
+├── CySec-Hiring-Plan-Documentation-Package-v5.4.md # Package overview
+├── CySec-BU-OrgChart-Whiteboard.drawio             # Visual org chart
+├── cysec_cogs_calculator.py                        # COGS cost calculator
+├── JDs/                                            # Job descriptions (21 files)
 │   ├── MRF-001-government-security-project-manager.md
-│   ├── MRF-002-senior-grc-specialist.md
+│   ├── MRF-005-technical-account-manager.md
 │   ├── ... (21 total JDs)
 │   └── README.md
-└── ARCHIVE-HISTORICAL-VERSIONS/               # Historical versions (not in current plan)
+└── ARCHIVE-HISTORICAL-VERSIONS/                    # Deprecated v5.0–v5.3 documents
+    ├── v5.3-SUPERSEDED/                            # Superseded v5.3 doc set
     ├── v5.2-BACKUP/
-    ├── CySec-Wave1-Hiring-Plan-v5.0.md
-    ├── CySec-Wave1-Hiring-Plan-v5.1.md
-    └── CySec-Wave1-Hiring-Plan-v5.2.md
+    └── CySec-Wave1-Hiring-Plan-v5.0/.1/.2.md
 ```
 
 ---
 
-## File Descriptions
+## Core Documents
 
-### Core Documents
-
-#### `CySec-Comprehensive-Hiring-Plan-v5.md`
-**Purpose:** Complete hiring plan with all details  
-**Contents:**
-- Executive summary with key metrics
-- Organizational structure (9 teams, 24 positions)
-- Wave hiring strategy with triggers
-- Financial analysis and cost breakdown
-- Position details for all 21 roles
-- Implementation timeline (12 months)
-- Risk mitigation strategies
-- Appendices with salary benchmarks and COGS formula
-
-**Use Case:** Primary reference document for stakeholders
+| Document | Purpose |
+|----------|---------|
+| `CySec-Comprehensive-Hiring-Plan-v5.4.md` | Complete plan: structure, strategy, financials, all 21 position details, timeline, risks |
+| `CySec-Hiring-Plan-Executive-Summary-v5.4.md` | High-level overview for management approval |
+| `CySec-Wave1-Hiring-Plan-v5.4.md` ⭐ | Wave 1 execution plan (8 roles, PreSales-anchored) |
+| `CySec-Manpower-Requisitions-v5.4.md` | All 21 MRF forms (MRF-001 to MRF-021) |
+| `CySec-Financial-Analysis-v5.4.md` | Cost analysis, budget compliance, ROI (3.9x – 6.8x) |
+| `CySec-Wave-Structure-Summary-v5.4.md` | Quick reference for wave assignments and costs |
+| `CySec-Hiring-Plan-Documentation-Package-v5.4.md` | Index and overview of the full v5.4 package |
+| `CySec-BU-OrgChart-Whiteboard.drawio` | Visual org chart (wave color-coded) |
+| `cysec_cogs_calculator.py` | Python COGS cost calculator |
 
 ---
 
-#### `CySec-Hiring-Plan-Executive-Summary-v5.md`
-**Purpose:** High-level overview for management approval  
-**Contents:**
-- Key metrics at a glance
-- Strategic alignment (Platform-First approach)
-- Organizational structure summary
-- Wave breakdown with costs
-- Financial analysis and ROI
-- Risk assessment
-- Implementation timeline
-- Success criteria
-- Approval section
-
-**Use Case:** Management review and approval
-
----
-
-#### `CySec-Wave1-Hiring-Plan-v5.3.md` ⭐ **CURRENT**
-**Purpose:** Wave 1 execution plan with balanced 7-7-7 structure  
-**Contents:**
-- 7 position descriptions with full requirements
-- 90-day hiring timeline
-- Cost breakdown (RM592,704 – RM948,326/year)
-- Success criteria for each role
-- Complete wave structure overview (7-7-7)
-
-**Wave 1 Positions (7 total):**
-1. **Gov Sec PM** (Senior) - Cybersecurity
-2. **Sr GRC Specialist** (Senior) - VORON
-3. **Sr DevSecOps** (Senior) - DevSecOps
-4. **PM** (Senior) - PM Team
-5. **Sr PS** (Senior) - Professional Services
-6. **Sales Specialist (Enterprise)** (Senior) - Sales
-7. **Presales Consultant** (Senior) - Sales
-
-**Use Case:** Primary reference for Wave 1 hiring execution
-
----
-
-#### `CySec-Manpower-Requisitions-v5.md`
-**Purpose:** All 21 Manpower Requisition Forms (MRFs)  
-**Contents:**
-- MRF-001 to MRF-021 for all positions
-- Each MRF includes:
-  - Position details (title, team, level, reports to)
-  - Compensation (min/max with COGS burden)
-  - Requirements (essential and desirable)
-  - Responsibilities
-  - Multi-product allocation
-  - Approval section
-
-**Wave Breakdown:**
-- MRF-001 to MRF-005: Wave 1 (5 roles)
-- MRF-006 to MRF-012: Wave 2 (7 roles)
-- MRF-013 to MRF-021: Wave 3 (9 roles)
-
-**Use Case:** HR requisition and approval process
-
----
-
-#### `CySec-Financial-Analysis-v5.md`
-**Purpose:** Comprehensive cost analysis and ROI calculations  
-**Contents:**
-- Revenue projections (RM12M target)
-- Cost structure with COGS formula (1.44x multiplier)
-- Wave cost analysis (detailed breakdown)
-- Total cost summary
-- Budget compliance (25% cap analysis)
-- ROI analysis (3.8x – 6.7x scenarios)
-- Sensitivity analysis
-- Recommendations
-
-**Key Financial Metrics:**
-- COGS Multiplier: 1.44x (COLA 10% + EPF 11% + SOCSO 1.45% + Health RM100 + Bonus 10% + PTO 12hrs)
-- Salary Reduction: 30% from market rates
-- Cost per Position: RM60K–135K/year (burdened)
-- Break-even: ~3 months
-
-**Use Case:** Finance review and budget approval
-
----
-
-#### `CySec-Wave-Structure-Summary.md`
-**Purpose:** Quick reference guide for wave assignments  
-**Contents:**
-- Position summary by wave
-- Team distribution table
-- Cost summary by wave
-- Color coding guide
-- Implementation timeline
-
-**Use Case:** Quick reference during planning meetings
-
----
-
-### Visual & Tools
-
-#### `CySec-BU-OrgChart-Whiteboard.drawio`
-**Purpose:** Visual organizational chart  
-**Format:** draw.io (editable)  
-**Contents:**
-- 24-position org chart structure
-- Wave color coding:
-  - Green border: Wave 1 (immediate)
-  - Blue border: Wave 2 (RM4M+ SOWs)
-  - Red border: Wave 3 (RM8M+ recurring)
-- Team groupings (VORON, OffSec, CTI, DevSecOps boxes)
-- Reporting lines (solid and dotted)
-- Legend with team colors
-- Financial summary
-
-**Use Case:** Presentations and visual reference
-
-**How to Edit:**
-1. Open in [draw.io](https://app.diagrams.net/)
-2. Import the file
-3. Edit as needed
-4. Export to PNG/PDF for presentations
-
----
-
-#### `cysec_cogs_calculator.py`
-**Purpose:** Python script for COGS cost calculations  
-**Features:**
-- Calculates burdened costs using 1.44x multiplier
-- Wave-by-wave cost breakdown
-- Financial summary with revenue alignment
-- Headroom calculations
-
-**Usage:**
-```bash
-python3 cysec_cogs_calculator.py
-```
-
-**Output:**
-- Monthly and annual costs per wave
-- Total cost summary
-- Cost as % of revenue
-- Headroom analysis
-
-**Use Case:** Financial modeling and scenario planning
-
----
-
-#### `CySec Orgchart BAK/`
-**Purpose:** Backup folder for org chart versions  
-**Contents:**
-- `CySec-BU-OrgChart-Whiteboard.drawio.bak2` - Previous version backup
-- `CySec-BU-OrgChart-Whiteboard.drawio.bak3` - Earlier version backup
-
-**Use Case:** Reference previous org chart versions if needed
-
----
-
-### Job Descriptions (`JDs/`)
-
-#### Folder Contents
+## Job Descriptions (`JDs/`)
 
 21 individual job description files, one per position:
 
@@ -268,44 +125,25 @@ python3 cysec_cogs_calculator.py
 | `MRF-002-senior-grc-specialist.md` | Sr GRC Specialist | Senior | 1 |
 | `MRF-003-senior-devsecops-engineer.md` | Sr DevSecOps | Senior | 1 |
 | `MRF-004-senior-project-manager.md` | PM | Senior | 1 |
-| `MRF-005-senior-professional-services-consultant.md` | Sr PS | Senior | 1 |
-| `MRF-006-lead-security-researcher.md` | Lead Researcher | Lead | 2 |
+| `MRF-005-technical-account-manager.md` | Technical Account Manager | Junior/Intermediate | 1 |
+| `MRF-006-lead-security-researcher.md` | Lead Researcher | Lead | 1 |
 | `MRF-007-red-team-specialist.md` | Red Team | Senior | 2 |
-| `MRF-008-cyber-threat-intelligence-lead.md` | CTI Lead | Lead | 2 |
-| `MRF-009-senior-blockchain-developer.md` | Sr Dev | Senior | 2 |
-| `MRF-010-senior-sales-specialist-enterprise.md` | Sales Specialist (Enterprise) | Senior | 1 |
+| `MRF-008-cyber-threat-intelligence-lead.md` | CTI Lead | Lead | 1 |
+| `MRF-009-senior-blockchain-developer.md` | Sr Blockchain Dev | Senior | 2 |
+| `MRF-010-senior-sales-specialist-enterprise.md` | Sales Specialist (Enterprise) | Senior | 2 |
 | `MRF-011-senior-sales-specialist-government.md` | Sales Specialist (Government) | Senior | 2 |
-| `MRF-012-senior-presales-consultant.md` | Presales Consultant | Senior | 1 |
-| `MRF-013-junior-grc-specialist.md` | Jr GRC Specialist | Junior | 2 |
+| `MRF-012-senior-presales-consultant.md` | Presales Consultant ⭐ | Senior | 1 |
+| `MRF-013-junior-grc-specialist.md` | Jr GRC Specialist | Junior | 3 |
 | `MRF-014-junior-security-researcher.md` | Jr Researcher | Junior | 3 |
-| `MRF-015-threat-intelligence-analyst.md` | Analyst | IC | 3 |
-| `MRF-016-threat-intelligence-researcher.md` | Research | IC | 3 |
-| `MRF-017-distributed-intelligence-analyst.md` | Dist Intel | IC | 3 |
-| `MRF-018-junior-devsecops-engineer.md` | Jr DevSecOps | Junior | 2 |
-| `MRF-019-business-analyst.md` | BA | IC | 3 |
+| `MRF-015-threat-intelligence-analyst.md` | TI Analyst | IC | 3 |
+| `MRF-016-threat-intelligence-researcher.md` | TI Researcher | IC | 3 |
+| `MRF-017-distributed-intelligence-analyst.md` | Dist Intel Analyst | IC | 3 |
+| `MRF-018-junior-devsecops-engineer.md` | Jr DevSecOps | Junior | 3 |
+| `MRF-019-business-analyst.md` | Business Analyst | IC | 3 |
 | `MRF-020-junior-project-manager.md` | Jr PM | Junior | 3 |
-| `MRF-021-junior-professional-services-consultant.md` | Jr PS | Junior | 3 | |
+| `MRF-021-junior-professional-services-consultant.md` | Jr PS | Junior | 3 |
 
-**Each JD Contains:**
-- Position overview (title, team, reports to, level)
-- Compensation range (min/max)
-- Detailed responsibilities
-- Essential and desirable requirements
-- Multi-product allocation percentages
-- Success metrics (first 90 days)
-
-**Use Case:** Job postings, interviews, and candidate evaluation
-
----
-
-#### `JDs/README.md`
-**Purpose:** Overview of job descriptions folder  
-**Contents:**
-- List of all 21 job descriptions
-- Quick reference by wave and team
-- Job description template structure
-
-**Use Case:** Navigate job descriptions efficiently
+**Wave totals:** Wave 1 = 8 · Wave 2 = 4 · Wave 3 = 9 · **Total = 21**
 
 ---
 
@@ -314,35 +152,35 @@ python3 cysec_cogs_calculator.py
 ```
 BU Head
 ├── Principal Cybersecurity Architect
-│   ├── Gov Sec PM (Senior)
+│   ├── Gov Sec PM (Senior) ........................ W1
 │   ├── VORON Team
-│   │   ├── Sr Consult (Senior)
-│   │   └── Jr Consult (Junior)
+│   │   ├── Sr GRC Specialist (Senior) ............ W1
+│   │   └── Jr GRC Specialist (Junior) ............ W3
 │   ├── OffSec Team
-│   │   ├── Lead Researcher (Lead)
-│   │   ├── Jr Researcher (Junior)
-│   │   └── Red Team (Senior)
+│   │   ├── Lead Researcher (Lead) ................ W1
+│   │   ├── Red Team (Senior) ..................... W2
+│   │   └── Jr Researcher (Junior) ................ W3
 │   ├── CTI Team
-│   │   ├── CTI Lead (Lead)
-│   │   ├── Analyst (IC)
-│   │   ├── Research (IC)
-│   │   └── Dist Intel (IC)
+│   │   ├── CTI Lead (Lead) ....................... W1
+│   │   ├── TI Analyst (IC) ....................... W3
+│   │   ├── TI Researcher (IC) .................... W3
+│   │   └── Dist Intel Analyst (IC) ............... W3
 │   └── DevSecOps Team
-│       ├── Sr (Senior)
-│       └── Jr (Junior)
+│       ├── Sr DevSecOps (Senior) ................ W1
+│       └── Jr DevSecOps (Junior) ................ W3
 ├── Principal Blockchain Architect
-│   └── Sr Dev (Senior)
+│   └── Sr Blockchain Dev (Senior) ............... W2
 ├── PM Team (dotted line to BU Head)
-│   ├── PM (Senior)
-│   ├── BA (IC)
-│   └── Jr PM (Junior)
+│   ├── PM (Senior) .............................. W1
+│   ├── Business Analyst (IC) .................... W3
+│   └── Jr PM (Junior) ........................... W3
 ├── Sales Team (dotted line to BU Head)
-│   ├── Sales Specialist 1 (Senior)
-│   ├── Sales Specialist 2 (Senior)
-│   └── Presales Consult (Senior)
+│   ├── Presales Consultant (Senior) ⭐ .......... W1
+│   ├── Sales Specialist – Enterprise (Senior) ... W2
+│   └── Sales Specialist – Government (Senior) ... W2
 └── Professional Services (dotted line to BU Head)
-    ├── Sr PS (Senior)
-    └── Jr PS (Junior)
+    ├── Technical Account Manager (Jr/Interm.) ... W1
+    └── Jr PS (Junior) .......................... W3
 ```
 
 ---
@@ -355,13 +193,11 @@ Based on MSP_Cost_Calculator.xlsx (TECH Cost--Burdened sheet):
 Burdened Cost = Base Salary × 1.44x
 ```
 
-**Multiplier Components:**
-- COLA: 10%
-- EPF: 11%
-- SOCSO: 1.45%
-- Health Insurance: RM100/month
-- Performance Bonus: 10%
-- PTO Accrual: 12 hours
+**Multiplier Components:** COLA 10% · EPF 11% · SOCSO 1.45% · Health Insurance RM100/month · Performance Bonus 10% · PTO Accrual 12 hours
+
+**Salary Bands (30% reduction applied):**
+- Senior / Lead: RM4,900–7,840/mo base → RM84,672–135,480/yr burdened
+- Junior / IC / Junior-Intermediate: RM3,500–5,600/mo base → RM60,480–96,768/yr burdened
 
 ---
 
@@ -369,43 +205,38 @@ Burdened Cost = Base Salary × 1.44x
 
 | Version | Date | Wave Structure | Status |
 |---------|------|----------------|--------|
-| v5.3 | June 10, 2026 | **7-7-7 (Balanced)** | ⭐ **CURRENT - USE THIS** |
-| v5.2 | June 10, 2026 | 8-4-9 | ❌ Deprecated |
+| v5.4 | June 23, 2026 | **8-4-9 (PreSales-anchored)** | ⭐ **CURRENT - USE THIS** |
+| v5.3 | June 10, 2026 | 7-7-7 | ❌ Deprecated |
+| v5.2 | June 10, 2026 | 8-4-9 (flat) | ❌ Deprecated |
 | v5.1 | June 10, 2026 | 5-7-9 | ❌ Deprecated |
 | v5.0 | June 10, 2026 | 5-7-9 | ❌ Deprecated |
 
 ### ⚠️ Deprecation Notice
 
-**All versions prior to v5.3 are deprecated and should not be used for active hiring.**
+**All versions prior to v5.4 are deprecated and should not be used for active hiring.**
 
-- **Why Deprecated:** Earlier versions had unbalanced wave structures (5-7-9, 8-4-9)
-- **Where to Find:** Archived in `v5-24Position/ARCHIVE-HISTORICAL-VERSIONS/`
-- **What to Use:** Only v5.3 documents should be used for active hiring
-- **Migration:** If you were using v5.0-v5.2, please migrate to v5.3 immediately
+- **What's New in v5.4:** Wave 1 is an 8-role, mixed-level team anchored on PreSales (2 Lead + 5 Senior + 1 Junior/Intermediate); Wave 2 holds senior revenue closers; Wave 3 is the Junior/IC scale-up bench. The former Senior Professional Services Consultant has been replaced by a **Technical Account Manager (Junior/Intermediate)**.
+- **Where to Find Old Versions:** `v5-24Position/ARCHIVE-HISTORICAL-VERSIONS/`
+- **What to Use:** Only v5.4 documents for active hiring.
 
 ---
 
 ## Getting Started
 
 ### For Management
-1. Start with `CySec-Hiring-Plan-Executive-Summary-v5.md`
-2. Review `CySec-Financial-Analysis-v5.md` for cost details
-3. Approve Wave 1 using `CySec-Wave1-Hiring-Plan-v5.3.md`
+1. Start with `CySec-Hiring-Plan-Executive-Summary-v5.4.md`
+2. Review `CySec-Financial-Analysis-v5.4.md` for cost details
+3. Approve Wave 1 using `CySec-Wave1-Hiring-Plan-v5.4.md`
 
 ### For HR
-1. Use `CySec-Manpower-Requisitions-v5.md` for MRF approvals
-2. Post jobs using files from `JDs/` folder
-3. Reference `CySec-Wave1-Hiring-Plan-v5.3.md` for Wave 1 timeline
-
-### For Hiring Managers
-1. Review `JDs/` for position requirements
-2. Use interview guides (separate document)
-3. Track progress against `CySec-Wave-Structure-Summary.md`
+1. Use `CySec-Manpower-Requisitions-v5.4.md` for MRF approvals
+2. Post jobs using files from the `JDs/` folder
+3. Reference `CySec-Wave1-Hiring-Plan-v5.4.md` for the Wave 1 timeline
 
 ### For Finance
-1. Review `CySec-Financial-Analysis-v5.md` for detailed costs
+1. Review `CySec-Financial-Analysis-v5.4.md` for detailed costs
 2. Run `cysec_cogs_calculator.py` for scenario planning
-3. Monitor against 25% revenue cap
+3. Monitor against the 25% revenue cap
 
 ---
 
@@ -417,12 +248,6 @@ Burdened Cost = Base Salary × 1.44x
 | HR Director | ________ | __________ | ____/____/____ |
 | CFO | ________ | __________ | ____/____/____ |
 | CEO/COO | ________ | __________ | ____/____/____ |
-
----
-
-## Contact
-
-For questions about this hiring plan, contact the BU Head or HR Director.
 
 ---
 
