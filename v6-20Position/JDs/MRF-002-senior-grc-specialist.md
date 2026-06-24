@@ -1,12 +1,12 @@
-# Senior GRC Specialist
+# GRC Specialist
 
 | Field | Detail |
 |---|---|
 | Requisition ID | MRF-002 |
 | Business Unit | Cybersecurity BU |
-| Team | VORON |
-| Reports To | Principal Cybersecurity Architect |
-| Level / Grade | Senior |
+| Team | VORON / GRC (Cyber-core) |
+| Reports To | Head of Cybersecurity Practice |
+| Level / Grade | Level 4 — Assistant Manager (dual Specialist / Team Lead) |
 | Employment Type | Full-time, Permanent |
 | Location | Kuala Lumpur, Malaysia (Hybrid) |
 | Hiring Wave | Wave 1 — Immediate |
@@ -17,7 +17,7 @@
 
 ## 1. Role Purpose
 
-The Senior GRC Specialist is responsible for operating and administering the VoronCitadel Unified GRC Platform while supporting governance, risk, compliance, third-party risk, and operational resilience activities for customers and internal stakeholders.
+The GRC Specialist is responsible for operating and administering the VoronCitadel Unified GRC Platform while supporting governance, risk, compliance, third-party risk, and operational resilience activities for customers and internal stakeholders. As a Level 4 dual Specialist / Team Lead designation, the role spans deep individual-contributor expertise and, where required, people-management of GRC analysts.
 
 This role serves as the subject matter expert for VoronCitadel and ensures that regulatory requirements, control frameworks, risk registers, and audit evidence are accurately maintained within the platform. The role also supports customer onboarding, platform adoption, and continuous improvement initiatives.
 
@@ -190,14 +190,17 @@ This role serves as the subject matter expert for VoronCitadel and ensures that 
 
 ## 9. Reporting & Team Context
 
-This role reports to the Principal Cybersecurity Architect and operates within the VORON team. The Senior GRC Specialist collaborates closely with Product Engineering, Cybersecurity, Risk, Compliance, and customer stakeholders to ensure successful operation and continuous enhancement of the VoronCitadel platform.
+This role reports to the Head of Cybersecurity Practice and operates within the VORON / GRC team. The GRC Specialist collaborates closely with Product Engineering, Cybersecurity, Risk, Compliance, and customer stakeholders to ensure successful operation and continuous enhancement of the VoronCitadel platform. As a dual Specialist / Team Lead, the role may direct and develop GRC analysts.
 
 ---
 
 ## 10. Compensation & Benefits
 
-- **Monthly Base Salary:** RM4,900 – RM7,840
-- **Annual Base Salary:** RM58,800 – RM94,080
+Benchmarked to the consultant Rate-card (Level 4 — Assistant Manager / Specialist):
+
+- **Monthly Base Salary:** RM11,500 – RM15,500
+- **Annual Base Salary:** RM138,000 – RM186,000
+- **Annual Burdened Cost (1.44×):** RM198,720 – RM267,840
 
 In addition to base salary, the role includes statutory contributions (EPF/SOCSO/EIS), medical coverage, training and certification sponsorship, and a performance-based bonus.
 
@@ -205,7 +208,7 @@ In addition to base salary, the role includes statutory contributions (EPF/SOCSO
 
 ## 11. Career Progression
 
-Senior GRC Specialist → Lead GRC Specialist → GRC Manager → Principal Cybersecurity Architect / Head of GRC
+GRC Specialist (L4, dual Specialist / Team Lead) → GRC Manager → Head of GRC / Cybersecurity Practice leadership
 
 ---
 

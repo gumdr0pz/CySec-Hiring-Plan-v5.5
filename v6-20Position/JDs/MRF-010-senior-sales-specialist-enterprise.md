@@ -1,12 +1,12 @@
-# Senior Sales Specialist (Enterprise)
+# Account Manager – Enterprise
 
 | Field | Detail |
 | --- | --- |
 | Requisition ID | MRF-010 |
 | Business Unit | Cybersecurity BU |
-| Team | Sales |
+| Team | Sales (General — dotted line to Cybersecurity Practice) |
 | Reports To | BU Head (dotted line) |
-| Level / Grade | Senior |
+| Level / Grade | Level 5 — Manager |
 | Employment Type | Full-time, Permanent |
 | Location | Kuala Lumpur, Malaysia (hybrid) |
 | Hiring Wave | Wave 2 — Triggered at RM4M+ signed SOWs |
@@ -15,7 +15,7 @@
 
 ## 1. Role Purpose
 
-The Senior Sales Specialist (Enterprise) drives top-line revenue growth for the Cybersecurity BU by winning and expanding strategic enterprise accounts across Malaysia and the wider region. The role converts the BU's offensive security, threat intelligence, DevSecOps, blockchain security, and consulting capabilities into signed engagements, directly fuelling the recurring-revenue trajectory that underpins continued team expansion. It is the commercial bridge between client business needs and the BU's technical delivery teams.
+The Account Manager – Enterprise drives top-line revenue growth for the Cybersecurity BU by winning and expanding strategic enterprise accounts across Malaysia and the wider region. The role converts the BU's offensive security, threat intelligence, DevSecOps, blockchain security, and consulting capabilities into signed engagements, directly fuelling the recurring-revenue trajectory that underpins continued team expansion. It is the commercial bridge between client business needs and the BU's technical delivery teams. This is a general role with a dotted-line responsibility to the Cybersecurity Practice.
 
 ## 2. Key Responsibilities
 
@@ -81,12 +81,15 @@ The Senior Sales Specialist (Enterprise) drives top-line revenue growth for the 
 
 ## 9. Reporting & Team Context
 
-This role reports on a dotted line to the BU Head and works in close partnership with the Cybersecurity BU's technical and delivery teams to scope, propose, and close enterprise engagements. As a senior individual contributor, the specialist is expected to share best practice and provide commercial guidance to less experienced sales colleagues.
+This role reports on a dotted line to the BU Head and works in close partnership with the Cybersecurity BU's technical and delivery teams to scope, propose, and close enterprise engagements. As a Level 5 Manager-grade role, the Account Manager owns a strategic enterprise portfolio and provides commercial guidance to less experienced sales colleagues.
 
 ## 10. Compensation & Benefits
 
-- **Monthly Base Salary:** RM4,900 – RM7,840
-- **Annual Base Salary:** RM58,800 – RM94,080
+Benchmarked to the consultant Rate-card (Level 5 — Manager):
+
+- **Monthly Base Salary:** RM17,500 – RM20,400
+- **Annual Base Salary:** RM210,000 – RM244,800
+- **Annual Burdened Cost (1.44×):** RM302,400 – RM352,512
 
 In addition to base salary, the BU offers statutory contributions (EPF/SOCSO/EIS), medical coverage, training and certification sponsorship, and a performance-based bonus. Sales-related variable incentives may apply in line with company policy.
 

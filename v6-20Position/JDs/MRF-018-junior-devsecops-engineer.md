@@ -1,12 +1,12 @@
-# Junior DevSecOps Engineer
+# Engineer – DevSecOps
 
 | Field | Detail |
 | --- | --- |
 | Requisition ID | MRF-018 |
 | Business Unit | Cybersecurity BU |
-| Team | DevSecOps |
-| Reports To | Senior DevSecOps Engineer |
-| Level / Grade | Junior |
+| Team | DevSecOps (General — dotted line to Cybersecurity Practice) |
+| Reports To | Staff Engineer – DevSecOps (dotted line to Head of Cybersecurity Practice) |
+| Level / Grade | Level 1 — Executive (Engineer) |
 | Employment Type | Full-time, Permanent |
 | Location | Kuala Lumpur, Malaysia (hybrid) |
 | Hiring Wave | Wave 1 — Immediate (Board Approval) |
@@ -15,7 +15,9 @@
 
 ## 1. Role Purpose
 
-The Junior DevSecOps Engineer helps embed security into the heart of our software delivery and infrastructure pipelines, ensuring that protection is built in rather than bolted on. Working alongside senior engineers, this role supports the automation, monitoring, and documentation that keep the Cybersecurity BU's DevSecOps practice reliable and audit-ready. It is an ideal entry point for an early-career engineer to grow technical depth across CI/CD, cloud, and security operations while delivering tangible value to client and internal platforms.
+The Engineer – DevSecOps helps embed security into the heart of our software delivery and infrastructure pipelines, ensuring that protection is built in rather than bolted on. Working alongside the Staff Engineer – DevSecOps, this role supports the automation, monitoring, and documentation that keep the BU's DevSecOps practice reliable and audit-ready. It is an ideal entry point for an early-career engineer to grow technical depth across CI/CD, cloud, and security operations while delivering tangible value to client and internal platforms.
+
+This is a **general role with a dotted-line responsibility to the Cybersecurity Practice**: it serves BU-wide delivery and supports cyber-sensitive engagements through compartmentalised work where required.
 
 ## 2. Key Responsibilities
 
@@ -84,18 +86,21 @@ The Junior DevSecOps Engineer helps embed security into the heart of our softwar
 
 ## 9. Reporting & Team Context
 
-This role reports to the Senior DevSecOps Engineer and works closely with the wider DevSecOps team as well as development and operations colleagues across the Cybersecurity BU. As a junior position, the focus is on learning and contributing under senior guidance rather than leading others.
+This role reports to the Staff Engineer – DevSecOps (with a dotted line to the Head of Cybersecurity Practice) and works closely with the wider DevSecOps team as well as development and operations colleagues across the BU. As a Level 1 Engineer position, the focus is on learning and contributing under senior guidance rather than leading others.
 
 ## 10. Compensation & Benefits
 
-- **Monthly Base Salary:** RM3,500 – RM5,600
-- **Annual Base Salary:** RM42,000 – RM67,200
+Benchmarked to the consultant Rate-card (Level 1 — Executive / Engineer):
+
+- **Monthly Base Salary:** RM4,000 – RM7,000
+- **Annual Base Salary:** RM48,000 – RM84,000
+- **Annual Burdened Cost (1.44×):** RM69,120 – RM120,960
 
 In addition to base salary, we offer statutory EPF/SOCSO/EIS contributions, medical coverage, training and certification sponsorship, and a performance-based bonus.
 
 ## 11. Career Progression
 
-The natural next step for this role is progression to a mid-level or Senior DevSecOps Engineer position, taking on greater ownership of pipeline architecture, security automation, and mentoring of junior team members.
+The natural next step for this role is progression toward a Staff Engineer – DevSecOps (L4) position, taking on greater ownership of pipeline architecture, security automation, and mentoring of junior team members.
 
 ## 12. Equal Opportunity Statement
 

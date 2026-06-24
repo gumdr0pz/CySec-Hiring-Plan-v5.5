@@ -1,0 +1,270 @@
+<mxfile host="app.diagrams.net" agent="5.0">
+  <diagram id="CySec-BU-OrgChart" name="CySec BU Structure">
+    <mxGraphModel dx="99905" dy="56303" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2350" pageHeight="1180" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=none;fillColor=none;fontSize=14;fontStyle=1;fontColor=#1a1a2e;" value="&lt;b style=&quot;font-size:22px;&quot;&gt;CYBERSECURITY BU — ORGANIZATIONAL CHART&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size:13px;color:#5a6470;&quot;&gt;v6  ·  23 FTE  ·  20 Hires  ·  General roles + HR levels  ·  Rate-card benchmark&lt;/font&gt;" vertex="1">
+          <mxGeometry height="56" width="720" x="700" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_cIRzkNHb6JCueCwrIl-6" edge="1" parent="1" source="bu_head" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="prin_cyber">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_cIRzkNHb6JCueCwrIl-7" edge="1" parent="1" source="bu_head" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="prin_blockchain">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bu_head" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0076a8;fontColor=#ffffff;strokeColor=#00557a;fontSize=15;fontStyle=1;arcSize=18;shadow=1;" value="&lt;b&gt;BU Head&lt;/b&gt;&lt;br&gt;Cyber Security" vertex="1">
+          <mxGeometry height="70" width="240" x="905" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_cIRzkNHb6JCueCwrIl-3" edge="1" parent="1" source="prin_cyber" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="govsec_box">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_cIRzkNHb6JCueCwrIl-4" edge="1" parent="1" source="prin_cyber" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" target="devsecops_box">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_cIRzkNHb6JCueCwrIl-8" edge="1" parent="1" source="prin_cyber" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="cti_box">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_cIRzkNHb6JCueCwrIl-9" edge="1" parent="1" source="prin_cyber" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="offsec_box">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_cIRzkNHb6JCueCwrIl-10" edge="1" parent="1" source="prin_cyber" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="voron_box">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="prin_cyber" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2d3436;fontColor=#ffffff;strokeColor=#1a1a2e;fontSize=13;fontStyle=1;arcSize=18;shadow=1;" value="&lt;b&gt;Head of Cybersecurity&lt;/b&gt;&lt;br&gt;Practice" vertex="1">
+          <mxGeometry height="64" width="240" x="545" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_cIRzkNHb6JCueCwrIl-11" edge="1" parent="1" source="prin_blockchain" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" target="blockchain_box">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="prin_blockchain" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6c5ce7;fontColor=#ffffff;strokeColor=#5a4bd1;fontSize=13;fontStyle=1;arcSize=18;shadow=1;" value="&lt;b&gt;Principal Architect&lt;/b&gt;&lt;br&gt;General / Blockchain" vertex="1">
+          <mxGeometry height="64" width="200" x="1285" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="line_bu_prin1" edge="1" parent="1" source="bu_head" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;strokeColor=#0076a8;strokeWidth=2.5;endArrow=block;endFill=1;endSize=8;" target="prin_cyber" />
+        <mxCell id="line_bu_prin2" edge="1" parent="1" source="bu_head" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;strokeColor=#0076a8;strokeWidth=2.5;endArrow=block;endFill=1;endSize=8;" target="prin_blockchain" />
+        <mxCell id="offsec_box" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d63031;fillOpacity=10;strokeColor=#d63031;strokeWidth=2;arcSize=10;" value="" vertex="1">
+          <mxGeometry height="215" width="210" x="80" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="offsec_label" parent="1" style="text;html=1;align=center;verticalAlign=top;resizable=0;points=[];strokeColor=none;fillColor=none;fontSize=12;fontStyle=1;fontColor=#d63031;" value="&lt;b&gt;OFFENSIVE SECURITY&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size:8px;color:#7a3b3b;&quot;&gt;cyber-core&lt;/font&gt;" vertex="1">
+          <mxGeometry height="28" width="190" x="90" y="436" as="geometry" />
+        </mxCell>
+        <mxCell id="lead_researcher" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ff7675;fontColor=#ffffff;strokeColor=#0984e3;strokeWidth=3;fontSize=10;arcSize=18;" value="&lt;b&gt;Team Lead – Offensive Security&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size:8px;color:#fde0e0;&quot;&gt;L4 · Wave 2&lt;/font&gt;" vertex="1">
+          <mxGeometry height="44" width="180" x="95" y="468" as="geometry" />
+        </mxCell>
+        <mxCell id="red_team" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d63031;fontColor=#ffffff;strokeColor=#0984e3;strokeWidth=3;fontSize=8;arcSize=18;" value="&lt;b&gt;Staff Engineer – Offensive Security&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size:8px;color:#fde0e0;&quot;&gt;L4 · Wave 2&lt;/font&gt;" vertex="1">
+          <mxGeometry height="44" width="86" x="95" y="526" as="geometry" />
+        </mxCell>
+        <mxCell id="jr_researcher" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fab1a0;fontColor=#000000;strokeColor=#d63031;strokeWidth=3;fontSize=8;arcSize=18;" value="&lt;b&gt;Engineer – Offensive Security&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size:8px;color:#7a3b3b;&quot;&gt;L1 · Wave 3&lt;/font&gt;" vertex="1">
+          <mxGeometry height="44" width="86" x="189" y="526" as="geometry" />
+        </mxCell>
+        <mxCell id="line_lr_rt" edge="1" parent="1" source="lead_researcher" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;strokeColor=#d63031;strokeWidth=1.5;endArrow=none;" target="red_team" />
+        <mxCell id="line_lr_jr" edge="1" parent="1" source="lead_researcher" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;strokeColor=#d63031;strokeWidth=1.5;endArrow=none;" target="jr_researcher" />
+        <mxCell id="voron_box" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0984e3;fillOpacity=10;strokeColor=#0984e3;strokeWidth=2;arcSize=10;" value="" vertex="1">
+          <mxGeometry height="215" width="210" x="320" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="voron_label" parent="1" style="text;html=1;align=center;verticalAlign=top;resizable=0;points=[];strokeColor=none;fillColor=none;fontSize=12;fontStyle=1;fontColor=#0984e3;" value="&lt;b&gt;VORON / GRC&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size:8px;color:#2c4a5a;&quot;&gt;cyber-core&lt;/font&gt;" vertex="1">
+          <mxGeometry height="28" width="190" x="330" y="436" as="geometry" />
+        </mxCell>
+        <mxCell id="sr_consult" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#81ecec;fontColor=#000000;strokeColor=#00b894;strokeWidth=3;fontSize=10;arcSize=18;" value="&lt;b&gt;GRC Specialist&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size:8px;color:#2c4a5a;&quot;&gt;L4 · Wave 1&lt;/font&gt;" vertex="1">
+          <mxGeometry height="44" width="180" x="335" y="468" as="geometry" />
+        </mxCell>
+        <mxCell id="jr_consult" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#81ecec;fontColor=#000000;strokeColor=#d63031;strokeWidth=3;fontSize=10;arcSize=18;" value="&lt;b&gt;GRC Analyst&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size:8px;color:#2c4a5a;&quot;&gt;L1 · Wave 3&lt;/font&gt;" vertex="1">
+          <mxGeometry height="44" width="180" x="335" y="526" as="geometry" />
+        </mxCell>
+        <mxCell id="line_src_jrc" edge="1" parent="1" source="sr_consult" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;strokeColor=#0984e3;strokeWidth=1.5;endArrow=none;" target="jr_consult" />
+        <mxCell id="govsec_box" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#636e72;fillOpacity=10;strokeColor=#636e72;strokeWidth=2;arcSize=10;" value="" vertex="1">
+          <mxGeometry height="215" width="210" x="560" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="govsec_label" parent="1" style="text;html=1;align=center;verticalAlign=top;resizable=0;points=[];strokeColor=none;fillColor=none;fontSize=12;fontStyle=1;fontColor=#636e72;" value="&lt;b&gt;GOVERNMENT SECURITY&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size:8px;color:#4a5256;&quot;&gt;cyber-core&lt;/font&gt;" vertex="1">
+          <mxGeometry height="28" width="190" x="570" y="436" as="geometry" />
+        </mxCell>
+        <mxCell id="govsec_pm" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#636e72;fontColor=#ffffff;strokeColor=#00b894;strokeWidth=3;fontSize=10;arcSize=18;" value="&lt;b&gt;Consultant – Government Security&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size:8px;color:#dfe6e9;&quot;&gt;L4 · Wave 1&lt;/font&gt;" vertex="1">
+          <mxGeometry height="58" width="160" x="585" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="cti_box" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6c5ce7;fillOpacity=10;strokeColor=#6c5ce7;strokeWidth=2;arcSize=10;" value="" vertex="1">
+          <mxGeometry height="215" width="210" x="800" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="cti_label" parent="1" style="text;html=1;align=center;verticalAlign=top;resizable=0;points=[];strokeColor=none;fillColor=none;fontSize=11;fontStyle=1;fontColor=#6c5ce7;" value="&lt;b&gt;THREAT INTELLIGENCE (CTI)&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size:8px;color:#4a3fb0;&quot;&gt;cyber-core&lt;/font&gt;" vertex="1">
+          <mxGeometry height="28" width="200" x="805" y="436" as="geometry" />
+        </mxCell>
+        <mxCell id="cti_lead" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a29bfe;fontColor=#ffffff;strokeColor=#0984e3;strokeWidth=3;fontSize=10;arcSize=18;" value="&lt;b&gt;Team Lead – Threat Intelligence&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size:8px;color:#e8e4ff;&quot;&gt;L4 · Wave 2&lt;/font&gt;" vertex="1">
+          <mxGeometry height="44" width="180" x="815" y="468" as="geometry" />
+        </mxCell>
+        <mxCell id="cti_analyst" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dfe6e9;fontColor=#000000;strokeColor=#d63031;strokeWidth=3;fontSize=8;arcSize=18;" value="&lt;b&gt;Engineer – Threat Intel&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size:8px;color:#5a6470;&quot;&gt;L1 · Wave 3&lt;/font&gt;" vertex="1">
+          <mxGeometry height="44" width="86" x="815" y="526" as="geometry" />
+        </mxCell>
+        <mxCell id="cti_research" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dfe6e9;fontColor=#000000;strokeColor=#d63031;strokeWidth=3;fontSize=8;arcSize=18;" value="&lt;b&gt;Senior Engineer – Threat Intel&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size:8px;color:#5a6470;&quot;&gt;L3 · Wave 3&lt;/font&gt;" vertex="1">
+          <mxGeometry height="44" width="86" x="909" y="526" as="geometry" />
+        </mxCell>
+        <mxCell id="cti_dist_intel" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dfe6e9;fontColor=#000000;strokeColor=#d63031;strokeWidth=3;fontSize=8;arcSize=18;" value="&lt;b&gt;Engineer – Threat Intel – Distributed Intel&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size:8px;color:#5a6470;&quot;&gt;L1 · Wave 3&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="180" x="815" y="584" as="geometry" />
+        </mxCell>
+        <mxCell id="line_ctil_an" edge="1" parent="1" source="cti_lead" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;strokeColor=#6c5ce7;strokeWidth=1.5;endArrow=none;" target="cti_analyst" />
+        <mxCell id="line_ctil_re" edge="1" parent="1" source="cti_lead" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;strokeColor=#6c5ce7;strokeWidth=1.5;endArrow=none;" target="cti_research" />
+        <mxCell id="line_ctil_di" edge="1" parent="1" source="cti_lead" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=0.5;exitY=1;entryX=0.25;entryY=0;strokeColor=#6c5ce7;strokeWidth=1.5;endArrow=none;" target="cti_dist_intel" />
+        <mxCell id="devsecops_box" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00b894;fillOpacity=10;strokeColor=#00b894;strokeWidth=2;arcSize=10;dashed=1;dashPattern=8 4;" value="" vertex="1">
+          <mxGeometry height="215" width="210" x="1040" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="devsecops_label" parent="1" style="text;html=1;align=center;verticalAlign=top;resizable=0;points=[];strokeColor=none;fillColor=none;fontSize=12;fontStyle=1;fontColor=#00997a;" value="&lt;b&gt;DEVSECOPS&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size:8px;color:#5a6470;&quot;&gt;general · dotted line to cyber&lt;/font&gt;" vertex="1">
+          <mxGeometry height="28" width="190" x="1050" y="436" as="geometry" />
+        </mxCell>
+        <mxCell id="devsecops_sr" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ff7675;fontColor=#ffffff;strokeColor=#00b894;strokeWidth=3;fontSize=10;arcSize=18;" value="&lt;b&gt;Staff Engineer – DevSecOps&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size:8px;color:#fde0e0;&quot;&gt;L4 · Wave 1&lt;/font&gt;" vertex="1">
+          <mxGeometry height="44" width="180" x="1055" y="468" as="geometry" />
+        </mxCell>
+        <mxCell id="devsecops_jr" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fab1a0;fontColor=#000000;strokeColor=#00b894;strokeWidth=3;fontSize=10;arcSize=18;" value="&lt;b&gt;Engineer – DevSecOps&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size:8px;color:#7a3b3b;&quot;&gt;L1 · Wave 1&lt;/font&gt;" vertex="1">
+          <mxGeometry height="44" width="180" x="1055" y="526" as="geometry" />
+        </mxCell>
+        <mxCell id="line_dso_sr_jr" edge="1" parent="1" source="devsecops_sr" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;strokeColor=#00b894;strokeWidth=1.5;endArrow=none;" target="devsecops_jr" />
+        <mxCell id="blockchain_box" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6c5ce7;fillOpacity=10;strokeColor=#6c5ce7;strokeWidth=2;arcSize=10;dashed=1;dashPattern=8 4;" value="" vertex="1">
+          <mxGeometry height="215" width="210" x="1280" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="blockchain_label" parent="1" style="text;html=1;align=center;verticalAlign=top;resizable=0;points=[];strokeColor=none;fillColor=none;fontSize=12;fontStyle=1;fontColor=#6c5ce7;" value="&lt;b&gt;BLOCKCHAIN&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size:8px;color:#5a6470;&quot;&gt;general · dotted line to cyber&lt;/font&gt;" vertex="1">
+          <mxGeometry height="28" width="190" x="1290" y="436" as="geometry" />
+        </mxCell>
+        <mxCell id="sr_dev" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a29bfe;fontColor=#ffffff;strokeColor=#d63031;strokeWidth=3;fontSize=10;arcSize=18;" value="&lt;b&gt;Staff Engineer – Blockchain&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size:8px;color:#e8e4ff;&quot;&gt;L4 · Wave 3&lt;/font&gt;" vertex="1">
+          <mxGeometry height="58" width="160" x="1305" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="pm_team_box" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00b894;fillOpacity=10;strokeColor=#00b894;strokeWidth=2;arcSize=10;dashed=1;dashPattern=8 4;" value="" vertex="1">
+          <mxGeometry height="215" width="210" x="1520" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="pm_team_label" parent="1" style="text;html=1;align=center;verticalAlign=top;resizable=0;points=[];strokeColor=none;fillColor=none;fontSize=11;fontStyle=1;fontColor=#00997a;" value="&lt;b&gt;PRODUCT / PM&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size:8px;color:#5a6470;&quot;&gt;general · dotted line to cyber&lt;/font&gt;" vertex="1">
+          <mxGeometry height="28" width="200" x="1525" y="436" as="geometry" />
+        </mxCell>
+        <mxCell id="product_manager" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#55efc4;fontColor=#000000;strokeColor=#00b894;strokeWidth=3;fontSize=10;arcSize=18;" value="&lt;b&gt;Product Manager&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size:8px;color:#2c4a3a;&quot;&gt;L5 · Wave 1&lt;/font&gt;" vertex="1">
+          <mxGeometry height="44" width="180" x="1535" y="474" as="geometry" />
+        </mxCell>
+        <mxCell id="ba" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#81ecec;fontColor=#000000;strokeColor=#d63031;strokeWidth=3;fontSize=10;arcSize=18;" value="&lt;b&gt;Business Analyst&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size:8px;color:#2c4a5a;&quot;&gt;L1 · Wave 3&lt;/font&gt;" vertex="1">
+          <mxGeometry height="44" width="180" x="1535" y="532" as="geometry" />
+        </mxCell>
+        <mxCell id="line_pm_ba" edge="1" parent="1" source="product_manager" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;strokeColor=#00b894;strokeWidth=1.5;endArrow=none;" target="ba" />
+        <mxCell id="sales_box" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fd79a8;fillOpacity=10;strokeColor=#e84393;strokeWidth=2;arcSize=10;dashed=1;dashPattern=8 4;" value="" vertex="1">
+          <mxGeometry height="215" width="210" x="1760" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="sales_label" parent="1" style="text;html=1;align=center;verticalAlign=top;resizable=0;points=[];strokeColor=none;fillColor=none;fontSize=11;fontStyle=1;fontColor=#e84393;" value="&lt;b&gt;SALES / SOLUTIONS&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size:8px;color:#5a6470;&quot;&gt;general · dotted line to cyber&lt;/font&gt;" vertex="1">
+          <mxGeometry height="28" width="200" x="1765" y="436" as="geometry" />
+        </mxCell>
+        <mxCell id="sales_spec1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fd79a8;fontColor=#ffffff;strokeColor=#0984e3;strokeWidth=3;fontSize=8;arcSize=18;" value="&lt;b&gt;Account Manager – Enterprise&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size:8px;color:#fde0ec;&quot;&gt;L5 · Wave 2&lt;/font&gt;" vertex="1">
+          <mxGeometry height="44" width="86" x="1775" y="474" as="geometry" />
+        </mxCell>
+        <mxCell id="sales_spec2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fd79a8;fontColor=#ffffff;strokeColor=#0984e3;strokeWidth=3;fontSize=8;arcSize=18;" value="&lt;b&gt;Account Manager – Government&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size:8px;color:#fde0ec;&quot;&gt;L5 · Wave 2&lt;/font&gt;" vertex="1">
+          <mxGeometry height="44" width="86" x="1869" y="474" as="geometry" />
+        </mxCell>
+        <mxCell id="presales_consult" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e84393;fontColor=#ffffff;strokeColor=#00b894;strokeWidth=3;fontSize=9;arcSize=18;" value="&lt;b&gt;Solutions Architect&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size:8px;color:#fde0ec;&quot;&gt;L4 · Wave 1&lt;/font&gt;" vertex="1">
+          <mxGeometry height="44" width="180" x="1775" y="532" as="geometry" />
+        </mxCell>
+        <mxCell id="jr_presales" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fd79a8;fontColor=#ffffff;strokeColor=#00b894;strokeWidth=3;fontSize=9;arcSize=18;" value="&lt;b&gt;Presales Engineer&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size:8px;color:#fde0ec;&quot;&gt;L1 · Wave 1&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="180" x="1775" y="588" as="geometry" />
+        </mxCell>
+        <mxCell id="line_pc_jrpresales" edge="1" parent="1" source="presales_consult" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;strokeColor=#e84393;strokeWidth=1.5;endArrow=none;" target="jr_presales" />
+        <mxCell id="ps_team_box" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fdcb6e;fillOpacity=12;strokeColor=#e1a800;strokeWidth=2;arcSize=10;dashed=1;dashPattern=8 4;" value="" vertex="1">
+          <mxGeometry height="215" width="210" x="2000" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="ps_team_label" parent="1" style="text;html=1;align=center;verticalAlign=top;resizable=0;points=[];strokeColor=none;fillColor=none;fontSize=11;fontStyle=1;fontColor=#c98a00;" value="&lt;b&gt;PROFESSIONAL SERVICES&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size:8px;color:#5a6470;&quot;&gt;general · dotted line to cyber&lt;/font&gt;" vertex="1">
+          <mxGeometry height="28" width="200" x="2005" y="436" as="geometry" />
+        </mxCell>
+        <mxCell id="sr_ps" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffeaa7;fontColor=#000000;strokeColor=#00b894;strokeWidth=3;fontSize=10;arcSize=18;" value="&lt;b&gt;Technical Account Manager&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size:8px;color:#5a4a2a;&quot;&gt;L3 · Wave 1&lt;/font&gt;" vertex="1">
+          <mxGeometry height="58" width="180" x="2015" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="line_pc_offsec" edge="1" parent="1" source="prin_cyber" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;strokeColor=#2d3436;strokeWidth=2;endArrow=block;endFill=1;endSize=7;" target="offsec_box" />
+        <mxCell id="line_pc_voron" edge="1" parent="1" source="prin_cyber" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;strokeColor=#2d3436;strokeWidth=2;endArrow=block;endFill=1;endSize=7;" target="voron_box" />
+        <mxCell id="line_pc_govsec" edge="1" parent="1" source="prin_cyber" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;strokeColor=#2d3436;strokeWidth=2;endArrow=block;endFill=1;endSize=7;" target="govsec_box" />
+        <mxCell id="line_pc_cti" edge="1" parent="1" source="prin_cyber" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;strokeColor=#2d3436;strokeWidth=2;endArrow=block;endFill=1;endSize=7;" target="cti_box" />
+        <mxCell id="line_pc_devsecops" edge="1" parent="1" source="prin_cyber" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;strokeColor=#00997a;strokeWidth=2;dashed=1;dashPattern=6 4;endArrow=open;endSize=8;" target="devsecops_box" />
+        <mxCell id="line_pb_bc" edge="1" parent="1" source="prin_blockchain" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;strokeColor=#6c5ce7;strokeWidth=2;dashed=1;dashPattern=6 4;endArrow=open;endSize=8;" target="blockchain_box" />
+        <mxCell id="line_bu_pm" edge="1" parent="1" source="bu_head" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=1;exitY=0.35;entryX=0.5;entryY=0;strokeColor=#0076a8;strokeWidth=2;dashed=1;dashPattern=6 4;endArrow=open;endSize=8;" target="pm_team_box" />
+        <mxCell id="line_bu_sales" edge="1" parent="1" source="bu_head" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=1;exitY=0.5;entryX=0.5;entryY=0;strokeColor=#0076a8;strokeWidth=2;dashed=1;dashPattern=6 4;endArrow=open;endSize=8;" target="sales_box" />
+        <mxCell id="line_bu_ps" edge="1" parent="1" source="bu_head" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;exitX=1;exitY=0.65;entryX=0.5;entryY=0;strokeColor=#0076a8;strokeWidth=2;dashed=1;dashPattern=6 4;endArrow=open;endSize=8;" target="ps_team_box" />
+        <mxCell id="legend_box" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1a1a2e;strokeColor=#1a1a2e;arcSize=6;shadow=1;" value="" vertex="1">
+          <mxGeometry height="300" width="560" x="80" y="710" as="geometry" />
+        </mxCell>
+        <mxCell id="legend_title" parent="1" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];strokeColor=none;fillColor=none;fontSize=14;fontStyle=1;fontColor=#ffffff;" value="&lt;b style=&quot;color:#ffffff;font-size:15px;&quot;&gt;CORE vs GENERAL · COLOUR LEGEND&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;color:#9aa4b2;font-size:10px;&quot;&gt;Solid box = cyber-core in practice  ·  Dashed box = general (dotted line to cyber)&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="520" x="100" y="724" as="geometry" />
+        </mxCell>
+        <mxCell id="leg1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0076a8;strokeColor=none;" value="" vertex="1">
+          <mxGeometry height="18" width="28" x="100" y="780" as="geometry" />
+        </mxCell>
+        <mxCell id="leg1_text" parent="1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];strokeColor=none;fillColor=none;fontSize=11;fontColor=#ffffff;" value="BU Head / Leadership" vertex="1">
+          <mxGeometry height="26" width="200" x="138" y="776" as="geometry" />
+        </mxCell>
+        <mxCell id="leg2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2d3436;strokeColor=#5a6470;" value="" vertex="1">
+          <mxGeometry height="18" width="28" x="100" y="816" as="geometry" />
+        </mxCell>
+        <mxCell id="leg2_text" parent="1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];strokeColor=none;fillColor=none;fontSize=11;fontColor=#ffffff;" value="Head of Cybersecurity Practice" vertex="1">
+          <mxGeometry height="26" width="220" x="138" y="812" as="geometry" />
+        </mxCell>
+        <mxCell id="leg3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6c5ce7;strokeColor=none;" value="" vertex="1">
+          <mxGeometry height="18" width="28" x="100" y="852" as="geometry" />
+        </mxCell>
+        <mxCell id="leg3_text" parent="1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];strokeColor=none;fillColor=none;fontSize=11;fontColor=#ffffff;" value="Principal Architect (general) / CTI" vertex="1">
+          <mxGeometry height="26" width="220" x="138" y="848" as="geometry" />
+        </mxCell>
+        <mxCell id="leg4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#1a1a2e;strokeWidth=2;" value="" vertex="1">
+          <mxGeometry height="18" width="28" x="100" y="888" as="geometry" />
+        </mxCell>
+        <mxCell id="leg4_text" parent="1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];strokeColor=none;fillColor=none;fontSize=11;fontColor=#ffffff;" value="Cyber-core: OffSec · CTI · GRC · Gov Sec" vertex="1">
+          <mxGeometry height="26" width="240" x="138" y="884" as="geometry" />
+        </mxCell>
+        <mxCell id="leg5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d63031;strokeColor=none;" value="" vertex="1">
+          <mxGeometry height="18" width="28" x="370" y="780" as="geometry" />
+        </mxCell>
+        <mxCell id="leg5_text" parent="1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];strokeColor=none;fillColor=none;fontSize=11;fontColor=#ffffff;" value="OffSec (cyber-core)" vertex="1">
+          <mxGeometry height="26" width="220" x="408" y="776" as="geometry" />
+        </mxCell>
+        <mxCell id="leg6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00b894;strokeColor=#00b894;strokeWidth=2;dashed=1;dashPattern=4 3;" value="" vertex="1">
+          <mxGeometry height="18" width="28" x="370" y="816" as="geometry" />
+        </mxCell>
+        <mxCell id="leg6_text" parent="1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];strokeColor=none;fillColor=none;fontSize=11;fontColor=#ffffff;" value="General: DevSecOps · Product/PM · Blockchain" vertex="1">
+          <mxGeometry height="26" width="250" x="408" y="812" as="geometry" />
+        </mxCell>
+        <mxCell id="leg7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fd79a8;strokeColor=#e84393;strokeWidth=2;dashed=1;dashPattern=4 3;" value="" vertex="1">
+          <mxGeometry height="18" width="28" x="370" y="852" as="geometry" />
+        </mxCell>
+        <mxCell id="leg7_text" parent="1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];strokeColor=none;fillColor=none;fontSize=11;fontColor=#ffffff;" value="General: Sales · Solutions / Presales" vertex="1">
+          <mxGeometry height="26" width="240" x="408" y="848" as="geometry" />
+        </mxCell>
+        <mxCell id="leg8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fdcb6e;strokeColor=#e1a800;strokeWidth=2;dashed=1;dashPattern=4 3;" value="" vertex="1">
+          <mxGeometry height="18" width="28" x="370" y="888" as="geometry" />
+        </mxCell>
+        <mxCell id="leg8_text" parent="1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];strokeColor=none;fillColor=none;fontSize=11;fontColor=#ffffff;" value="General: Professional Services" vertex="1">
+          <mxGeometry height="26" width="240" x="408" y="884" as="geometry" />
+        </mxCell>
+        <mxCell id="matrix_note" parent="1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];strokeColor=none;fillColor=none;fontSize=10;fontStyle=2;" value="&lt;font color=&quot;#9aa4b2&quot;&gt;┄┄┄  dotted connector = general role with dotted line to the Cybersecurity practice (compartmentalised; spinoff by secondment)&lt;/font&gt;" vertex="1">
+          <mxGeometry height="22" width="520" x="100" y="958" as="geometry" />
+        </mxCell>
+        <mxCell id="wave_box" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1a1a2e;strokeColor=#1a1a2e;arcSize=6;shadow=1;" value="" vertex="1">
+          <mxGeometry height="200" width="620" x="680" y="710" as="geometry" />
+        </mxCell>
+        <mxCell id="wave_title" parent="1" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];strokeColor=none;fillColor=none;fontSize=14;fontStyle=1;fontColor=#ffffff;" value="&lt;b style=&quot;color:#ffffff;font-size:15px;&quot;&gt;HIRING WAVES (8-5-7)&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;color:#9aa4b2;font-size:10px;&quot;&gt;shown as node border colour · burdened RM/yr (×1.44)&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="580" x="700" y="724" as="geometry" />
+        </mxCell>
+        <mxCell id="wave_leg1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#00b894;strokeWidth=4;" value="" vertex="1">
+          <mxGeometry height="22" width="30" x="700" y="784" as="geometry" />
+        </mxCell>
+        <mxCell id="wave_leg1_text" parent="1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];strokeColor=none;fillColor=none;fontSize=11;fontColor=#ffffff;" value="&lt;b&gt;Wave 1&lt;/b&gt; — Board approval · 8 roles · RM1.37M–1.86M/yr" vertex="1">
+          <mxGeometry height="28" width="540" x="744" y="780" as="geometry" />
+        </mxCell>
+        <mxCell id="wave_leg2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#0984e3;strokeWidth=4;" value="" vertex="1">
+          <mxGeometry height="22" width="30" x="700" y="824" as="geometry" />
+        </mxCell>
+        <mxCell id="wave_leg2_text" parent="1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];strokeColor=none;fillColor=none;fontSize=11;fontColor=#ffffff;" value="&lt;b&gt;Wave 2&lt;/b&gt; — RM4M+ SOWs · 5 roles · RM1.20M–1.51M/yr" vertex="1">
+          <mxGeometry height="28" width="540" x="744" y="820" as="geometry" />
+        </mxCell>
+        <mxCell id="wave_leg3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#d63031;strokeWidth=4;" value="" vertex="1">
+          <mxGeometry height="22" width="30" x="700" y="864" as="geometry" />
+        </mxCell>
+        <mxCell id="wave_leg3_text" parent="1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];strokeColor=none;fillColor=none;fontSize=11;fontColor=#ffffff;" value="&lt;b&gt;Wave 3&lt;/b&gt; — RM8M+ Recurring · 7 roles · RM683K–1.06M/yr" vertex="1">
+          <mxGeometry height="28" width="540" x="744" y="860" as="geometry" />
+        </mxCell>
+        <mxCell id="fin_box" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0076a8;strokeColor=#00557a;arcSize=6;shadow=1;" value="" vertex="1">
+          <mxGeometry height="72" width="2130" x="80" y="1040" as="geometry" />
+        </mxCell>
+        <mxCell id="fin_text" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=none;fillColor=none;fontSize=12;" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size:13px;&quot;&gt;&lt;b&gt;FINANCIAL SUMMARY&lt;/b&gt;   │   Total burdened: &lt;b&gt;RM3.26M–4.43M&lt;/b&gt; (27%–37% of RM12M)   │   25% cap &lt;b&gt;RELAXED&lt;/b&gt;   │   36-mo runway: &lt;b&gt;RM8.2M–11.1M&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="48" width="2090" x="100" y="1052" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_cIRzkNHb6JCueCwrIl-14" edge="1" parent="1" source="bu_head" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.553;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="sales_box">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

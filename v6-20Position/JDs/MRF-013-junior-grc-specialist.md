@@ -1,12 +1,12 @@
-# Junior GRC Specialist
+# GRC Analyst
 
 | Field | Detail |
 |---|---|
 | Requisition ID | MRF-013 |
 | Business Unit | Cybersecurity BU |
-| Team | VORON |
-| Reports To | Senior GRC Specialist |
-| Level / Grade | Junior |
+| Team | VORON / GRC (Cyber-core) |
+| Reports To | GRC Specialist |
+| Level / Grade | Level 1 — Executive (Engineer) |
 | Employment Type | Full-time, Permanent |
 | Location | Kuala Lumpur, Malaysia (Hybrid) |
 | Hiring Wave | Wave 3 — Triggered at RM8M+ recurring revenue |
@@ -17,9 +17,9 @@
 
 ## 1. Role Purpose
 
-The Junior GRC Specialist supports the operation and administration of the VoronCitadel Unified GRC Platform while assisting with governance, risk, compliance, third-party risk, and operational resilience activities.
+The GRC Analyst supports the operation and administration of the VoronCitadel Unified GRC Platform while assisting with governance, risk, compliance, third-party risk, and operational resilience activities.
 
-Working under the guidance of the Senior GRC Specialist, the role develops practical experience in regulatory compliance, risk management, audit support, and customer onboarding while contributing to the successful delivery and adoption of VoronCitadel.
+Working under the guidance of the GRC Specialist, the role develops practical experience in regulatory compliance, risk management, audit support, and customer onboarding while contributing to the successful delivery and adoption of VoronCitadel.
 
 ---
 
@@ -173,14 +173,17 @@ Working under the guidance of the Senior GRC Specialist, the role develops pract
 
 ## 9. Reporting & Team Context
 
-This role reports to the Senior GRC Specialist and operates within the VORON team. The Junior GRC Specialist collaborates closely with Product Engineering, Cybersecurity, Risk, Compliance, and customer stakeholders while developing practical experience in operating the VoronCitadel platform.
+This role reports to the GRC Specialist and operates within the VORON / GRC team. The GRC Analyst collaborates closely with Product Engineering, Cybersecurity, Risk, Compliance, and customer stakeholders while developing practical experience in operating the VoronCitadel platform.
 
 ---
 
 ## 10. Compensation & Benefits
 
-- **Monthly Base Salary:** RM3,500 – RM5,600
-- **Annual Base Salary:** RM42,000 – RM67,200
+Benchmarked to the consultant Rate-card (Level 1 — Executive / Engineer):
+
+- **Monthly Base Salary:** RM4,000 – RM7,000
+- **Annual Base Salary:** RM48,000 – RM84,000
+- **Annual Burdened Cost (1.44×):** RM69,120 – RM120,960
 
 The package includes statutory EPF, SOCSO, and EIS contributions, medical coverage, training and certification sponsorship, and a performance-based bonus.
 
@@ -188,7 +191,7 @@ The package includes statutory EPF, SOCSO, and EIS contributions, medical covera
 
 ## 11. Career Progression
 
-Junior GRC Specialist → GRC Specialist → Senior GRC Specialist → Lead GRC Specialist → GRC Manager
+GRC Analyst (L1) → GRC Specialist (L4, dual Specialist / Team Lead) → GRC Manager
 
 ---
 

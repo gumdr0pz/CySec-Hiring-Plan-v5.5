@@ -1,12 +1,12 @@
-# Threat Intelligence Analyst
+# Engineer – Threat Intelligence
 
 | Field | Detail |
 |---|---|
 | Requisition ID | MRF-015 |
 | Business Unit | Cybersecurity BU |
-| Team | CTI |
-| Reports To | Cyber Threat Intelligence Lead |
-| Level / Grade | IC |
+| Team | CTI (Cyber-core) |
+| Reports To | Team Lead – Threat Intelligence |
+| Level / Grade | Level 1 — Executive (Engineer) |
 | Employment Type | Full-time, Permanent |
 | Location | Kuala Lumpur, Malaysia (hybrid) |
 | Hiring Wave | Wave 3 — Triggered at RM8M+ recurring revenue |
@@ -15,7 +15,7 @@
 
 ## 1. Role Purpose
 
-The Threat Intelligence Analyst strengthens the Cybersecurity BU's Cyber Threat Intelligence (CTI) capability by turning raw threat data into actionable insight for our clients and internal teams. Sitting within the CTI team, this role helps customers anticipate, detect, and respond to emerging threats by tracking adversary activity, producing timely intelligence, and supporting proactive defence. The role directly underpins the BU's threat intelligence and professional services offerings as recurring revenue scales.
+The Engineer – Threat Intelligence strengthens the Cybersecurity BU's Cyber Threat Intelligence (CTI) capability by turning raw threat data into actionable insight for our clients and internal teams. Sitting within the CTI team, this role helps customers anticipate, detect, and respond to emerging threats by tracking adversary activity, producing timely intelligence, and supporting proactive defence. The role directly underpins the BU's threat intelligence and professional services offerings as recurring revenue scales.
 
 ## 2. Key Responsibilities
 
@@ -81,18 +81,21 @@ The Threat Intelligence Analyst strengthens the Cybersecurity BU's Cyber Threat 
 
 ## 9. Reporting & Team Context
 
-This role reports to the Cyber Threat Intelligence Lead and operates as an individual contributor within the CTI team. The analyst collaborates closely with detection, incident response, threat hunting, and consulting colleagues to ensure intelligence is operationalised and delivers value to clients.
+This role reports to the Team Lead – Threat Intelligence and operates as an individual contributor within the CTI team. The engineer collaborates closely with detection, incident response, threat hunting, and consulting colleagues to ensure intelligence is operationalised and delivers value to clients.
 
 ## 10. Compensation & Benefits
 
-- **Monthly Base Salary:** RM3,500 – RM5,600
-- **Annual Base Salary:** RM42,000 – RM67,200
+Benchmarked to the consultant Rate-card (Level 1 — Executive / Engineer):
+
+- **Monthly Base Salary:** RM4,000 – RM7,000
+- **Annual Base Salary:** RM48,000 – RM84,000
+- **Annual Burdened Cost (1.44×):** RM69,120 – RM120,960
 
 Benefits include statutory EPF/SOCSO/EIS contributions, medical coverage, training and certification sponsorship, and a performance-based bonus.
 
 ## 11. Career Progression
 
-The typical next step is progression to a Senior Threat Intelligence Analyst role, with a longer-term path toward the Cyber Threat Intelligence Lead position as expertise and impact grow.
+The typical next step is progression to a Senior Engineer – Threat Intelligence (L3) role, with a longer-term path toward the Team Lead – Threat Intelligence (L4) position as expertise and impact grow.
 
 ## 12. Equal Opportunity Statement
 

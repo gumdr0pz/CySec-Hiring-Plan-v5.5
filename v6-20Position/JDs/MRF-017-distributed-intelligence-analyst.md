@@ -1,12 +1,12 @@
-# Distributed Intelligence Analyst
+# Engineer – Threat Intelligence (Distributed Intel)
 
 | Field | Detail |
 |---|---|
 | Requisition ID | MRF-017 |
 | Business Unit | Cybersecurity BU |
-| Team | Cyber Threat Intelligence (CTI) |
-| Reports To | Cyber Threat Intelligence Lead |
-| Level / Grade | Individual Contributor (IC) |
+| Team | Cyber Threat Intelligence — CTI (Cyber-core) |
+| Reports To | Team Lead – Threat Intelligence |
+| Level / Grade | Level 1 — Executive (Engineer) |
 | Employment Type | Full-time, Permanent |
 | Location | Kuala Lumpur, Malaysia (Hybrid) |
 | Hiring Wave | Wave 3 — Triggered at RM8M+ recurring revenue |
@@ -15,7 +15,7 @@
 
 ## 1. Role Purpose
 
-The Distributed Intelligence Analyst strengthens the Cybersecurity BU's Cyber Threat Intelligence (CTI) capability by collecting, analysing, and correlating intelligence from a wide range of distributed sources. The role exists to give the BU and its clients early, actionable visibility into emerging threats, threat actors, and indicators of compromise. By turning fragmented signals into coherent intelligence, the analyst directly supports the BU's recurring threat intelligence services and helps clients stay ahead of adversaries.
+The Engineer – Threat Intelligence (Distributed Intel) strengthens the Cybersecurity BU's Cyber Threat Intelligence (CTI) capability by collecting, analysing, and correlating intelligence from a wide range of distributed sources. The role exists to give the BU and its clients early, actionable visibility into emerging threats, threat actors, and indicators of compromise. By turning fragmented signals into coherent intelligence, the analyst directly supports the BU's recurring threat intelligence services and helps clients stay ahead of adversaries.
 
 ## 2. Key Responsibilities
 
@@ -83,12 +83,15 @@ The Distributed Intelligence Analyst strengthens the Cybersecurity BU's Cyber Th
 
 ## 9. Reporting & Team Context
 
-This role reports to the Cyber Threat Intelligence Lead and works as an individual contributor within the CTI team, collaborating closely with fellow intelligence analysts and adjacent security functions across the Cybersecurity BU to validate findings and operationalise intelligence.
+This role reports to the Team Lead – Threat Intelligence and works as an individual contributor within the CTI team, collaborating closely with fellow intelligence engineers and adjacent security functions across the Cybersecurity BU to validate findings and operationalise intelligence.
 
 ## 10. Compensation & Benefits
 
-- **Monthly Base Salary:** RM3,500 – RM5,600
-- **Annual Base Salary:** RM42,000 – RM67,200
+Benchmarked to the consultant Rate-card (Level 1 — Executive / Engineer):
+
+- **Monthly Base Salary:** RM4,000 – RM7,000
+- **Annual Base Salary:** RM48,000 – RM84,000
+- **Annual Burdened Cost (1.44×):** RM69,120 – RM120,960
 
 Benefits include statutory EPF, SOCSO, and EIS contributions, medical coverage, training and certification sponsorship, and a performance-based bonus.
 

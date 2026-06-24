@@ -1,12 +1,12 @@
-# Junior Security Researcher
+# Engineer – Offensive Security
 
 | Field | Detail |
 |---|---|
 | Requisition ID | MRF-014 |
 | Business Unit | Cybersecurity BU |
-| Team | OffSec |
-| Reports To | Lead Security Researcher |
-| Level / Grade | Junior |
+| Team | OffSec (Cyber-core) |
+| Reports To | Team Lead – Offensive Security |
+| Level / Grade | Level 1 — Executive (Engineer) |
 | Employment Type | Full-time, Permanent |
 | Location | Kuala Lumpur, Malaysia (hybrid) |
 | Hiring Wave | Wave 3 — Triggered at RM8M+ recurring revenue |
@@ -15,7 +15,7 @@
 
 ## 1. Role Purpose
 
-The Junior Security Researcher strengthens the Cybersecurity BU's offensive security (OffSec) capability by supporting hands-on vulnerability research, malware analysis, and tooling. Working closely with senior researchers, the role helps surface, understand, and document emerging threats that feed into our offensive security and threat intelligence offerings. It is a foundational, growth-oriented position designed to develop deep technical research skills while delivering tangible value to client engagements and internal capability.
+The Engineer – Offensive Security strengthens the Cybersecurity BU's offensive security (OffSec) capability by supporting hands-on vulnerability research, malware analysis, and tooling. Working closely with senior researchers, the role helps surface, understand, and document emerging threats that feed into our offensive security and threat intelligence offerings. It is a foundational, growth-oriented position designed to develop deep technical research skills while delivering tangible value to client engagements and internal capability.
 
 ## 2. Key Responsibilities
 
@@ -83,12 +83,15 @@ The Junior Security Researcher strengthens the Cybersecurity BU's offensive secu
 
 ## 9. Reporting & Team Context
 
-This role reports to the Lead Security Researcher and works as part of the OffSec team within the Cybersecurity BU, collaborating closely with senior researchers and partnering with threat intelligence and offensive security colleagues to turn findings into engagement-ready insights.
+This role reports to the Team Lead – Offensive Security and works as part of the OffSec team within the Cybersecurity BU, collaborating closely with senior engineers and partnering with threat intelligence and offensive security colleagues to turn findings into engagement-ready insights.
 
 ## 10. Compensation & Benefits
 
-- **Monthly Base Salary:** RM3,500 – RM5,600
-- **Annual Base Salary:** RM42,000 – RM67,200
+Benchmarked to the consultant Rate-card (Level 1 — Executive / Engineer):
+
+- **Monthly Base Salary:** RM4,000 – RM7,000
+- **Annual Base Salary:** RM48,000 – RM84,000
+- **Annual Burdened Cost (1.44×):** RM69,120 – RM120,960
 
 Standard benefits include statutory EPF, SOCSO, and EIS contributions, medical coverage, training and certification sponsorship, and a performance-based bonus.
 

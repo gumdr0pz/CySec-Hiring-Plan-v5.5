@@ -1,12 +1,12 @@
-# Government Security Project Manager
+# Consultant – Government Security
 
 | Field | Detail |
 | --- | --- |
 | **Requisition ID** | MRF-001 |
 | **Business Unit** | Cybersecurity BU |
-| **Team** | Cybersecurity |
-| **Reports To** | Principal Cybersecurity Architect |
-| **Level / Grade** | Senior |
+| **Team** | Government Security (Cyber-core) |
+| **Reports To** | Head of Cybersecurity Practice |
+| **Level / Grade** | Level 4 — Assistant Manager (Specialist) |
 | **Employment Type** | Full-time, Permanent |
 | **Location** | Kuala Lumpur, Malaysia (hybrid) |
 | **Hiring Wave** | Wave 1 — Immediate (Board Approval) |
@@ -79,12 +79,15 @@ The Government Security Project Manager leads the delivery of security and compl
 
 ## 9. Reporting & Team Context
 
-This role reports to the Principal Cybersecurity Architect and works closely with cross-functional delivery teams across offensive security, DevSecOps, threat intelligence, and consulting, as well as external government stakeholders and regulatory bodies. As a senior role, the Project Manager provides delivery leadership and guidance to project team members throughout government engagements.
+This role reports to the Head of Cybersecurity Practice and works closely with cross-functional delivery teams across offensive security, DevSecOps, threat intelligence, and consulting, as well as external government stakeholders and regulatory bodies. As a Level 4 Specialist role, the Consultant provides delivery leadership and guidance to project team members throughout government engagements.
 
 ## 10. Compensation & Benefits
 
-- **Monthly Base Salary:** RM4,900 – RM7,840
-- **Annual Base Salary:** RM58,800 – RM94,080
+Benchmarked to the consultant Rate-card (Level 4 — Assistant Manager / Specialist):
+
+- **Monthly Base Salary:** RM11,500 – RM15,500
+- **Annual Base Salary:** RM138,000 – RM186,000
+- **Annual Burdened Cost (1.44×):** RM198,720 – RM267,840
 
 In addition to base salary, the package includes statutory EPF/SOCSO/EIS contributions, medical coverage, training and certification sponsorship, and a performance-based bonus.
 

@@ -4,9 +4,9 @@
 |---|---|
 | **Requisition ID** | MRF-019 |
 | **Business Unit** | Cybersecurity BU |
-| **Team** | PM Team |
-| **Reports To** | BU Head (dotted line) |
-| **Level / Grade** | IC (Individual Contributor) |
+| **Team** | Product / PM (General — dotted line to Cybersecurity Practice) |
+| **Reports To** | Product Manager |
+| **Level / Grade** | Level 1 — Executive (Engineer / Analyst) |
 | **Employment Type** | Full-time, Permanent |
 | **Location** | Kuala Lumpur, Malaysia (Hybrid) |
 | **Hiring Wave** | Wave 3 — Triggered at RM8M+ recurring revenue |
@@ -15,7 +15,7 @@
 
 ## 1. Role Purpose
 
-The Business Analyst sits within the PM Team of the Cybersecurity BU and exists to translate business needs into clear, actionable requirements that drive successful delivery across our offensive security, threat intelligence, DevSecOps, blockchain security, and consulting engagements. By eliciting, documenting, and structuring requirements, the role keeps client and internal stakeholders aligned with the technical teams delivering each solution. This reduces rework, sharpens project scope, and improves the predictability and quality of BU delivery as recurring revenue scales.
+The Business Analyst sits within the Product / PM team of the BU and exists to translate business needs into clear, actionable requirements that drive successful delivery across our offensive security, threat intelligence, DevSecOps, blockchain security, and consulting engagements. By eliciting, documenting, and structuring requirements, the role keeps client and internal stakeholders aligned with the technical teams delivering each solution. This reduces rework, sharpens project scope, and improves the predictability and quality of BU delivery as recurring revenue scales. This is a general role with a dotted-line responsibility to the Cybersecurity Practice.
 
 ## 2. Key Responsibilities
 
@@ -84,12 +84,15 @@ The Business Analyst sits within the PM Team of the Cybersecurity BU and exists 
 
 ## 9. Reporting & Team Context
 
-This role reports to the delivery lead within the Cybersecurity BU's PM Team and works closely with project managers, technical delivery specialists, and client stakeholders to align business needs with delivered solutions. As an Individual Contributor role, it focuses on hands-on analysis and delivery rather than people management.
+This role reports to the Product Manager within the BU's Product / PM team and works closely with engineering, cyber, and client stakeholders to align business needs with delivered solutions. As a Level 1 Individual Contributor role, it focuses on hands-on analysis and delivery rather than people management.
 
 ## 10. Compensation & Benefits
 
-- **Monthly Base Salary:** RM3,500 – RM5,600
-- **Annual Base Salary:** RM42,000 – RM67,200
+Benchmarked to the consultant Rate-card (Level 1 — Executive / Engineer):
+
+- **Monthly Base Salary:** RM4,000 – RM7,000
+- **Annual Base Salary:** RM48,000 – RM84,000
+- **Annual Burdened Cost (1.44×):** RM69,120 – RM120,960
 
 In addition to base salary, we offer statutory contributions (EPF, SOCSO, EIS), medical coverage, sponsorship for relevant training and certifications, and a performance-based bonus.
 

@@ -1,12 +1,12 @@
-# Senior Presales Consultant
+# Solutions Architect
 
 | Field | Detail |
 |---|---|
 | Requisition ID | MRF-012 |
 | Business Unit | Cybersecurity BU |
-| Team | Sales |
-| Reports To | BU Head (dotted line) |
-| Level / Grade | Senior |
+| Team | Solutions / Presales (General — dotted line to Cybersecurity Practice) |
+| Reports To | Functional lead (dotted line to Head of Cybersecurity Practice) |
+| Level / Grade | Level 4 — Assistant Manager (Solutions Architect) |
 | Employment Type | Full-time, Permanent |
 | Location | Kuala Lumpur, Malaysia (hybrid) |
 | Hiring Wave | Wave 1 — Immediate (Board Approval) |
@@ -15,7 +15,9 @@
 
 ## 1. Role Purpose
 
-The Senior Presales Consultant is the technical engine behind the Cybersecurity BU's sales motion, translating complex offensive security, threat intelligence, DevSecOps, blockchain security, and consulting capabilities into compelling, buildable solutions for enterprise clients. By owning the technical narrative across the deal lifecycle, this role accelerates pipeline conversion, increases deal confidence, and ensures proposed architectures are both credible and deliverable. It is pivotal to scaling revenue as the BU progresses through its growth waves.
+The Solutions Architect is the technical engine behind the BU's sales motion, translating complex offensive security, threat intelligence, DevSecOps, blockchain security, and consulting capabilities into compelling, buildable solutions for enterprise clients. By owning the technical narrative across the deal lifecycle, this role accelerates pipeline conversion, increases deal confidence, and ensures proposed architectures are both credible and deliverable. It is pivotal to scaling revenue as the BU progresses through its growth waves.
+
+This is a **general role with a dotted-line responsibility to the Cybersecurity Practice**: it reports to a functional lead and serves BU-wide solutioning, supporting cyber-sensitive engagements through compartmentalised work and, where needed, secondment.
 
 ## 2. Key Responsibilities
 
@@ -84,12 +86,15 @@ The Senior Presales Consultant is the technical engine behind the Cybersecurity 
 
 ## 9. Reporting & Team Context
 
-This role reports on a dotted line to the BU Head and works closely with the Sales team, alongside delivery, consulting, and technical specialists across the Cybersecurity BU. As a senior individual contributor, the consultant also acts as a technical mentor and reference point for less-experienced sales and presales colleagues.
+This is a general role reporting to a functional lead, with a dotted line to the Head of Cybersecurity Practice. It works closely with the Sales team, alongside delivery, consulting, and technical specialists across the BU. As a Level 4 Solutions Architect, the role also acts as a technical mentor and reference point for the Presales Engineer and less-experienced sales colleagues.
 
 ## 10. Compensation & Benefits
 
-- **Monthly Base Salary:** RM4,900 – RM7,840
-- **Annual Base Salary:** RM58,800 – RM94,080
+Benchmarked to the consultant Rate-card (Level 4 — Assistant Manager / Solutions Architect):
+
+- **Monthly Base Salary:** RM11,500 – RM15,500
+- **Annual Base Salary:** RM138,000 – RM186,000
+- **Annual Burdened Cost (1.44×):** RM198,720 – RM267,840
 
 In addition to base salary, the role includes statutory contributions (EPF/SOCSO/EIS), medical coverage, training and certification sponsorship, and a performance-based bonus.
 

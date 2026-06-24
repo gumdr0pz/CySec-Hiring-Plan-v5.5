@@ -1,12 +1,12 @@
-# Threat Intelligence Researcher
+# Senior Engineer – Threat Intelligence
 
 | Field | Detail |
 |---|---|
 | Requisition ID | MRF-016 |
 | Business Unit | Cybersecurity BU |
-| Team | Cyber Threat Intelligence (CTI) |
-| Reports To | Cyber Threat Intelligence Lead |
-| Level / Grade | Individual Contributor (IC) |
+| Team | Cyber Threat Intelligence — CTI (Cyber-core) |
+| Reports To | Team Lead – Threat Intelligence |
+| Level / Grade | Level 3 — Senior Executive (Senior Engineer) |
 | Employment Type | Full-time, Permanent |
 | Location | Kuala Lumpur, Malaysia (Hybrid) |
 | Hiring Wave | Wave 3 — Triggered at RM8M+ recurring revenue |
@@ -15,7 +15,7 @@
 
 ## 1. Role Purpose
 
-The Threat Intelligence Researcher exists to give the Cybersecurity BU and its clients an evidence-based understanding of the adversaries, malware, and techniques that threaten them. By conducting deep technical research and producing actionable intelligence products, this role sharpens the BU's detection, response, and advisory services and strengthens its reputation as a regional authority in cyber threat intelligence.
+The Senior Engineer – Threat Intelligence exists to give the Cybersecurity BU and its clients an evidence-based understanding of the adversaries, malware, and techniques that threaten them. By conducting deep technical research and producing actionable intelligence products, this role sharpens the BU's detection, response, and advisory services and strengthens its reputation as a regional authority in cyber threat intelligence.
 
 ## 2. Key Responsibilities
 
@@ -84,18 +84,21 @@ The Threat Intelligence Researcher exists to give the Cybersecurity BU and its c
 
 ## 9. Reporting & Team Context
 
-This role reports to the Cyber Threat Intelligence (CTI) Lead and works as an individual contributor within the CTI team, collaborating closely with offensive security, DevSecOps, incident response, and consulting colleagues to operationalise intelligence across the Cybersecurity BU.
+This role reports to the Team Lead – Threat Intelligence and works as a senior individual contributor within the CTI team, collaborating closely with offensive security, DevSecOps, incident response, and consulting colleagues to operationalise intelligence across the Cybersecurity BU.
 
 ## 10. Compensation & Benefits
 
-- **Monthly Base Salary:** RM3,500 – RM5,600
-- **Annual Base Salary:** RM42,000 – RM67,200
+Benchmarked to the consultant Rate-card (Level 3 — Senior Executive / Senior Engineer):
+
+- **Monthly Base Salary:** RM8,000 – RM11,000
+- **Annual Base Salary:** RM96,000 – RM132,000
+- **Annual Burdened Cost (1.44×):** RM138,240 – RM190,080
 
 In addition to base salary, the role includes statutory EPF, SOCSO, and EIS contributions, medical coverage, training and certification sponsorship, and a performance-based bonus.
 
 ## 11. Career Progression
 
-The natural next step for this role is progression to a Senior Threat Intelligence Researcher, with a longer-term pathway toward Cyber Threat Intelligence Lead or specialist principal-researcher tracks as expertise and impact grow.
+The natural next step for this role is progression toward a Staff Engineer (L4) profile, with a longer-term pathway toward Team Lead – Threat Intelligence (L4) or specialist principal tracks as expertise and impact grow.
 
 ## 12. Equal Opportunity Statement
 

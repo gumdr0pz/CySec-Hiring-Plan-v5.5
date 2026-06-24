@@ -1,12 +1,12 @@
-# Lead Security Researcher
+# Team Lead – Offensive Security
 
 | Field | Detail |
 |---|---|
 | Requisition ID | MRF-006 |
 | Business Unit | Cybersecurity BU |
-| Team | OffSec |
-| Reports To | Principal Cybersecurity Architect |
-| Level / Grade | Lead |
+| Team | OffSec (Cyber-core) |
+| Reports To | Head of Cybersecurity Practice |
+| Level / Grade | Level 4 — Assistant Manager (Team Lead) |
 | Employment Type | Full-time, Permanent |
 | Location | Kuala Lumpur, Malaysia (hybrid) |
 | Hiring Wave | Wave 2 — Triggered at RM4M+ signed SOWs |
@@ -15,7 +15,7 @@
 
 ## 1. Role Purpose
 
-The Lead Security Researcher anchors the deep-research capability of our OffSec team, driving original offensive security research, exploit development, and responsible vulnerability disclosure. The role exists to keep the Cybersecurity BU at the cutting edge of adversary tradecraft, producing the custom tools, findings, and thought leadership that differentiate our offensive and consulting services in the market. By mentoring junior researchers and shaping research direction, this role builds durable technical depth that underpins client engagements and the BU's reputation.
+The Team Lead – Offensive Security anchors the deep-research capability of our OffSec team, driving original offensive security research, exploit development, and responsible vulnerability disclosure. The role exists to keep the Cybersecurity BU at the cutting edge of adversary tradecraft, producing the custom tools, findings, and thought leadership that differentiate our offensive and consulting services in the market. By mentoring junior researchers and shaping research direction, this role builds durable technical depth that underpins client engagements and the BU's reputation.
 
 ## 2. Key Responsibilities
 
@@ -25,7 +25,7 @@ The Lead Security Researcher anchors the deep-research capability of our OffSec 
 - **Mentor** junior researchers and analysts, conducting technical reviews, pairing on hard problems, and raising the overall research maturity of the team.
 - **Contribute** to security thought leadership through published research, CVE discoveries, whitepapers, and conference or community engagement.
 - **Collaborate** with consulting, DevSecOps, and threat intelligence teams to translate research insights into client deliverables and service improvements.
-- **Define** research priorities and roadmaps in partnership with the Principal Cybersecurity Architect, aligning investigation with business and client needs.
+- **Define** research priorities and roadmaps in partnership with the Head of Cybersecurity Practice, aligning investigation with business and client needs.
 - **Uphold** ethical research standards, legal compliance, and rigorous documentation across all offensive research activity.
 
 ## 3. Required Qualifications & Experience
@@ -80,12 +80,15 @@ The Lead Security Researcher anchors the deep-research capability of our OffSec 
 
 ## 9. Reporting & Team Context
 
-This role reports to the Principal Cybersecurity Architect and operates within the OffSec team, collaborating closely with consulting, DevSecOps, and threat intelligence colleagues. As a Lead, the Security Researcher mentors junior researchers and analysts and helps set the technical direction of the research function.
+This role reports to the Head of Cybersecurity Practice and operates within the OffSec team, collaborating closely with consulting, DevSecOps, and threat intelligence colleagues. As a Level 4 Team Lead, the role manages and mentors offensive security engineers and analysts and sets the technical direction of the research function.
 
 ## 10. Compensation & Benefits
 
-- **Monthly Base Salary:** RM4,900 – RM7,840
-- **Annual Base Salary:** RM58,800 – RM94,080
+Benchmarked to the consultant Rate-card (Level 4 — Assistant Manager / Team Lead):
+
+- **Monthly Base Salary:** RM11,500 – RM15,500
+- **Annual Base Salary:** RM138,000 – RM186,000
+- **Annual Burdened Cost (1.44×):** RM198,720 – RM267,840
 
 Benefits include statutory EPF/SOCSO/EIS contributions, medical coverage, training and certification sponsorship, and a performance-based bonus.
 

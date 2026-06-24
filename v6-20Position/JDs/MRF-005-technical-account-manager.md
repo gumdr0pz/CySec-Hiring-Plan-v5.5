@@ -1,23 +1,23 @@
-# Technical Account Manager
+# Technical Account Manager (Consultant)
 
 | Field | Detail |
 | --- | --- |
 | Requisition ID | MRF-005 |
 | Business Unit | Cybersecurity BU |
-| Team | Professional Services |
+| Team | Professional Services (General — dotted line to Cybersecurity Practice) |
 | Reports To | BU Head (dotted line) |
-| Level / Grade | Junior/Intermediate |
+| Level / Grade | Level 3 — Senior Executive (Consultant) |
 | Employment Type | Full-time, Permanent |
 | Location | Kuala Lumpur, Malaysia (hybrid) |
 | Hiring Wave | Wave 1 — Immediate (Board Approval) |
 | Target Start | Within 90 days of approval |
 | Priority | High |
 
-> **Note:** This requisition replaces the former Senior Professional Services Consultant (the prior MRF-005), which has been removed from the structure. The Technical Account Manager occupies the Professional Services team's Wave 1 seat at the Junior/Intermediate band.
+> **Note:** This is a **general role with a dotted-line responsibility to the Cybersecurity Practice**. The Technical Account Manager occupies the Professional Services team's Wave 1 seat at Level 3 (Senior Executive); as a client-facing Level 3 role it carries the Consultant title.
 
 ## 1. Role Purpose
 
-The Technical Account Manager (TAM) is the post-sale technical relationship owner for the Cybersecurity BU's clients. The TAM ensures clients realise measurable value from delivered cybersecurity and blockchain services, coordinates delivery across the technical teams, and protects and grows recurring revenue through high retention and expansion. As an early Wave 1 hire, the TAM operationalises the account-management layer that underpins the BU's RM8M+ recurring-revenue trigger for later waves.
+The Technical Account Manager (TAM) is the post-sale technical relationship owner for the Cybersecurity BU's clients. The TAM ensures clients realise measurable value from delivered cybersecurity and blockchain services, coordinates delivery across the technical teams, and protects and grows recurring revenue through high retention and expansion. As an early Wave 1 hire, the TAM operationalises the account-management layer that underpins the BU's RM8M+ recurring-revenue trigger for later waves. This is a general role with a dotted-line responsibility to the Cybersecurity Practice.
 
 ## 2. Key Responsibilities
 
@@ -82,10 +82,13 @@ This role sits within Professional Services and reports on a dotted line to the 
 
 ## 10. Compensation & Benefits
 
-- **Monthly Base Salary:** RM3,500 – RM5,600
-- **Annual Base Salary:** RM42,000 – RM67,200
+Benchmarked to the consultant Rate-card (Level 3 — Senior Executive / Consultant):
 
-In addition to base salary, the role includes statutory contributions (EPF/SOCSO/EIS), medical coverage, training and certification sponsorship, and a performance-based bonus. Fully burdened cost (1.44×): RM60,480 – RM96,768 per year.
+- **Monthly Base Salary:** RM8,000 – RM11,000
+- **Annual Base Salary:** RM96,000 – RM132,000
+- **Annual Burdened Cost (1.44×):** RM138,240 – RM190,080
+
+In addition to base salary, the role includes statutory contributions (EPF/SOCSO/EIS), medical coverage, training and certification sponsorship, and a performance-based bonus.
 
 ## 11. Career Progression
 

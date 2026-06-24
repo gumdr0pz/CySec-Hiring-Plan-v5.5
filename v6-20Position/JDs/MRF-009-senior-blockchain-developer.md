@@ -1,12 +1,12 @@
-# Senior Blockchain Developer
+# Staff Engineer – Blockchain
 
 | Field | Detail |
 |---|---|
 | Requisition ID | MRF-009 |
 | Business Unit | Cybersecurity BU |
-| Team | Blockchain |
-| Reports To | Principal Blockchain Architect |
-| Level / Grade | Senior |
+| Team | Blockchain (General — dotted line to Cybersecurity Practice) |
+| Reports To | Functional lead (dotted line to Head of Cybersecurity Practice) |
+| Level / Grade | Level 4 — Assistant Manager (Staff Engineer) |
 | Employment Type | Full-time, Permanent |
 | Location | Kuala Lumpur, Malaysia (hybrid) |
 | Hiring Wave | Wave 3 — Triggered at RM8M+ recurring revenue |
@@ -14,7 +14,9 @@
 | Priority | High |
 
 ## 1. Role Purpose
-The Senior Blockchain Developer builds and secures the decentralized applications, smart contracts, and protocol-level solutions that underpin the Cybersecurity BU's blockchain practice. The role exists to deliver production-grade, audit-ready blockchain systems for our clients while strengthening the BU's reputation for secure-by-design distributed ledger engineering. By combining deep development expertise with a security-first mindset, this position directly supports the growth of our blockchain security and consulting revenue streams.
+The Staff Engineer – Blockchain builds and secures the decentralized applications, smart contracts, and protocol-level solutions that underpin the BU's blockchain practice. The role exists to deliver production-grade, audit-ready blockchain systems for our clients while strengthening the BU's reputation for secure-by-design distributed ledger engineering. By combining deep development expertise with a security-first mindset, this position directly supports the growth of our blockchain security and consulting revenue streams.
+
+This is a **general role with a dotted-line responsibility to the Cybersecurity Practice**: it reports to a functional lead and serves BU-wide delivery, supporting cyber-sensitive engagements through compartmentalised work and, where needed, secondment.
 
 ## 2. Key Responsibilities
 - Develop robust blockchain applications and smart contracts (primarily on Ethereum/Solidity) that meet client requirements for functionality, gas efficiency, and security.
@@ -74,11 +76,15 @@ The Senior Blockchain Developer builds and secures the decentralized application
 - Support on-time delivery of client engagements contributing to the BU's signed SOW pipeline.
 
 ## 9. Reporting & Team Context
-This role reports to the Principal Blockchain Architect and works closely with fellow blockchain engineers, security auditors, and the BU's project and consulting teams. As a senior contributor, the Senior Blockchain Developer also mentors junior developers and provides technical leadership on engineering and audit deliverables.
+This is a general role reporting to a functional lead, with a dotted line to the Head of Cybersecurity Practice. It works closely with fellow blockchain engineers, security auditors, and the BU's project and consulting teams. As a Level 4 Staff Engineer, the role also mentors junior developers and provides technical leadership on engineering and audit deliverables.
 
 ## 10. Compensation & Benefits
-- **Monthly Base Salary:** RM4,900 – RM7,840
-- **Annual Base Salary:** RM58,800 – RM94,080
+
+Benchmarked to the consultant Rate-card (Level 4 — Assistant Manager / Staff Engineer):
+
+- **Monthly Base Salary:** RM11,500 – RM15,500
+- **Annual Base Salary:** RM138,000 – RM186,000
+- **Annual Burdened Cost (1.44×):** RM198,720 – RM267,840
 
 In addition to base salary, the role includes statutory EPF/SOCSO/EIS contributions, medical coverage, training and certification sponsorship, and a performance-based bonus.
 

@@ -1,12 +1,12 @@
-# Red Team Specialist
+# Staff Engineer – Offensive Security
 
 | Field | Detail |
 |---|---|
 | Requisition ID | MRF-007 |
 | Business Unit | Cybersecurity BU |
-| Team | OffSec |
-| Reports To | Lead Security Researcher |
-| Level / Grade | Senior |
+| Team | OffSec (Cyber-core) |
+| Reports To | Team Lead – Offensive Security |
+| Level / Grade | Level 4 — Assistant Manager (Staff Engineer) |
 | Employment Type | Full-time, Permanent |
 | Location | Kuala Lumpur, Malaysia (hybrid) |
 | Hiring Wave | Wave 2 — Triggered at RM4M+ signed SOWs |
@@ -15,7 +15,7 @@
 
 ## 1. Role Purpose
 
-The Red Team Specialist exists to emulate real-world adversaries against our clients' environments, exposing gaps that conventional testing misses. By designing and executing realistic attack campaigns, this role strengthens the Cybersecurity BU's offensive security capability and gives clients evidence-based confidence in their defences. The position directly supports the BU's growth in signed professional and consulting engagements while elevating the technical credibility of the OffSec team.
+The Staff Engineer – Offensive Security exists to emulate real-world adversaries against our clients' environments, exposing gaps that conventional testing misses. By designing and executing realistic attack campaigns, this role strengthens the Cybersecurity BU's offensive security capability and gives clients evidence-based confidence in their defences. The position directly supports the BU's growth in signed professional and consulting engagements while elevating the technical credibility of the OffSec team.
 
 ## 2. Key Responsibilities
 
@@ -73,19 +73,22 @@ The Red Team Specialist exists to emulate real-world adversaries against our cli
 ## 8. Key Performance Indicators
 
 - Deliver scoped red team engagements on time, within rules of engagement, and to client satisfaction within the first 6-12 months.
-- Maintain high-quality, actionable reporting as measured by client and Lead Security Researcher feedback.
+- Maintain high-quality, actionable reporting as measured by client and Team Lead – Offensive Security feedback.
 - Successfully demonstrate validated attack paths and control gaps in a majority of engagements.
 - Contribute reusable attack scenarios, playbooks, or tooling to the OffSec library each quarter.
 - Drive measurable detection or defensive improvements through purple-team collaboration with blue teams.
 
 ## 9. Reporting & Team Context
 
-This role reports to the Lead Security Researcher and operates within the OffSec team, collaborating closely with blue teams, threat intelligence, and consulting colleagues across the Cybersecurity BU. As a senior contributor, the Red Team Specialist also shares methodologies and guides junior team members.
+This role reports to the Team Lead – Offensive Security and operates within the OffSec team, collaborating closely with blue teams, threat intelligence, and consulting colleagues across the Cybersecurity BU. As a Level 4 Staff Engineer, the role also shares methodologies and guides junior team members.
 
 ## 10. Compensation & Benefits
 
-- Monthly Base Salary: RM4,900 – RM7,840
-- Annual Base Salary: RM58,800 – RM94,080
+Benchmarked to the consultant Rate-card (Level 4 — Assistant Manager / Staff Engineer):
+
+- **Monthly Base Salary:** RM11,500 – RM15,500
+- **Annual Base Salary:** RM138,000 – RM186,000
+- **Annual Burdened Cost (1.44×):** RM198,720 – RM267,840
 
 Standard benefits include statutory EPF, SOCSO, and EIS contributions, medical coverage, training and certification sponsorship, and a performance-based bonus.
 

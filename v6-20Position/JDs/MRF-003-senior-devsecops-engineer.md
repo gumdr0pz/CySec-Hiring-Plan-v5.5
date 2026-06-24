@@ -1,12 +1,12 @@
-# Senior DevSecOps Engineer
+# Staff Engineer – DevSecOps
 
 | Field | Detail |
 |---|---|
 | Requisition ID | MRF-003 |
 | Business Unit | Cybersecurity BU |
-| Team | DevSecOps |
-| Reports To | Principal Cybersecurity Architect |
-| Level / Grade | Senior |
+| Team | DevSecOps (General — dotted line to Cybersecurity Practice) |
+| Reports To | Functional lead (dotted line to Head of Cybersecurity Practice) |
+| Level / Grade | Level 4 — Assistant Manager (Staff Engineer) |
 | Employment Type | Full-time, Permanent |
 | Location | Kuala Lumpur, Malaysia (hybrid) |
 | Hiring Wave | Wave 1 — Immediate (Board Approval) |
@@ -15,7 +15,9 @@
 
 ## 1. Role Purpose
 
-The Senior DevSecOps Engineer embeds security into the heart of our software delivery lifecycle, ensuring that speed and safety advance together across the Cybersecurity BU's client and internal engagements. By designing automated, security-first pipelines and hardening cloud environments, this role directly strengthens the BU's offensive security, DevSecOps, and consulting service offerings. It is a hands-on senior position that translates security best practice into repeatable, scalable engineering outcomes for our clients in Kuala Lumpur and beyond.
+The Staff Engineer – DevSecOps embeds security into the heart of our software delivery lifecycle, ensuring that speed and safety advance together across the BU's client and internal engagements. By designing automated, security-first pipelines and hardening cloud environments, this role directly strengthens the BU's offensive security, DevSecOps, and consulting service offerings. It is a hands-on Level 4 position that translates security best practice into repeatable, scalable engineering outcomes for our clients in Kuala Lumpur and beyond.
+
+This is a **general role with a dotted-line responsibility to the Cybersecurity Practice**: the engineer serves BU-wide delivery and reports to a functional lead, while supporting cyber-sensitive engagements through compartmentalised work and, where needed, secondment.
 
 ## 2. Key Responsibilities
 
@@ -83,12 +85,15 @@ The Senior DevSecOps Engineer embeds security into the heart of our software del
 
 ## 9. Reporting & Team Context
 
-This role reports to the Principal Cybersecurity Architect and works closely with the DevSecOps team, software developers, cloud engineers, and client-facing consultants across the Cybersecurity BU. As a senior contributor, the Engineer also mentors junior team members and acts as a technical reference point for secure engineering practices.
+This is a general role reporting to a functional lead, with a dotted line to the Head of Cybersecurity Practice. It works closely with the DevSecOps team, software developers, cloud engineers, and client-facing consultants across the BU. As a Level 4 Staff Engineer, the engineer also mentors junior team members and acts as a technical reference point for secure engineering practices.
 
 ## 10. Compensation & Benefits
 
-- **Monthly Base Salary:** RM4,900 – RM7,840
-- **Annual Base Salary:** RM58,800 – RM94,080
+Benchmarked to the consultant Rate-card (Level 4 — Assistant Manager / Staff Engineer):
+
+- **Monthly Base Salary:** RM11,500 – RM15,500
+- **Annual Base Salary:** RM138,000 – RM186,000
+- **Annual Burdened Cost (1.44×):** RM198,720 – RM267,840
 
 Benefits include statutory EPF, SOCSO, and EIS contributions, medical coverage, training and certification sponsorship, and a performance-based bonus.
 

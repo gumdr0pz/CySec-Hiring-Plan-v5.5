@@ -1,12 +1,12 @@
-# Cyber Threat Intelligence Lead
+# Team Lead – Threat Intelligence
 
 | Field | Detail |
 |---|---|
 | Requisition ID | MRF-008 |
 | Business Unit | Cybersecurity BU |
-| Team | CTI (Cyber Threat Intelligence) |
-| Reports To | Principal Cybersecurity Architect |
-| Level / Grade | Lead |
+| Team | CTI — Cyber Threat Intelligence (Cyber-core) |
+| Reports To | Head of Cybersecurity Practice |
+| Level / Grade | Level 4 — Assistant Manager (Team Lead) |
 | Employment Type | Full-time, Permanent |
 | Location | Kuala Lumpur, Malaysia (Hybrid) |
 | Hiring Wave | Wave 2 — Triggered at RM4M+ signed SOWs |
@@ -15,7 +15,7 @@
 
 ## 1. Role Purpose
 
-The Cyber Threat Intelligence Lead anchors the Cybersecurity BU's CTI capability, transforming raw indicators and global threat signals into actionable intelligence that protects clients and informs offensive, DevSecOps, and consulting engagements. This role exists to build a mature, repeatable intelligence function that anticipates adversary behaviour, sharpens detection and response, and positions the BU as a trusted intelligence partner across the Malaysian and regional market.
+The Team Lead – Threat Intelligence anchors the Cybersecurity BU's CTI capability, transforming raw indicators and global threat signals into actionable intelligence that protects clients and informs offensive, DevSecOps, and consulting engagements. This role exists to build a mature, repeatable intelligence function that anticipates adversary behaviour, sharpens detection and response, and positions the BU as a trusted intelligence partner across the Malaysian and regional market.
 
 ## 2. Key Responsibilities
 
@@ -84,12 +84,15 @@ The Cyber Threat Intelligence Lead anchors the Cybersecurity BU's CTI capability
 
 ## 9. Reporting & Team Context
 
-This role reports to the Principal Cybersecurity Architect and leads the CTI team, working closely with the offensive security, DevSecOps, blockchain security, and professional services functions. As a Lead, the role mentors and develops CTI analysts and sets analytical and operational standards for the intelligence function.
+This role reports to the Head of Cybersecurity Practice and leads the CTI team, working closely with the offensive security, DevSecOps, blockchain security, and professional services functions. As a Level 4 Team Lead, the role manages, mentors, and develops CTI engineers and analysts and sets analytical and operational standards for the intelligence function.
 
 ## 10. Compensation & Benefits
 
-- **Monthly Base Salary:** RM4,900 – RM7,840
-- **Annual Base Salary:** RM58,800 – RM94,080
+Benchmarked to the consultant Rate-card (Level 4 — Assistant Manager / Team Lead):
+
+- **Monthly Base Salary:** RM11,500 – RM15,500
+- **Annual Base Salary:** RM138,000 – RM186,000
+- **Annual Burdened Cost (1.44×):** RM198,720 – RM267,840
 
 In addition to base salary, the BU offers statutory contributions (EPF/SOCSO/EIS), medical coverage, training and certification sponsorship, and a performance-based bonus.
 
