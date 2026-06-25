@@ -183,7 +183,6 @@ Benchmarked to the consultant Rate-card (Level 1 — Executive / Engineer):
 
 - **Monthly Base Salary:** RM4,000 – RM7,000
 - **Annual Base Salary:** RM48,000 – RM84,000
-- **Annual Burdened Cost (1.44×):** RM69,120 – RM120,960
 
 The package includes statutory EPF, SOCSO, and EIS contributions, medical coverage, training and certification sponsorship, and a performance-based bonus.
 

@@ -27,7 +27,7 @@ The Product Manager owns the product roadmap and requirements for the BU's offer
 - **Work with the Cybersecurity Practice on a dotted line**, ensuring product decisions reflect cyber requirements, compliance obligations, and sensitive-work compartmentalisation.
 - **Define and track product KPIs and outcomes**, using adoption, satisfaction, and revenue signals to steer the roadmap.
 - **Plan and run release cycles**, coordinating launch readiness, documentation, and go-to-market alignment with Sales and Presales.
-- **Translate technical capability into client value**, partnering with the Solutions Architect and Sales on positioning, demos, and proposals.
+- **Translate technical capability into client value**, partnering with the Technical Presales and Sales on positioning, demos, and proposals.
 - **Lead discovery and validation**, running customer interviews, market analysis, and competitive reviews to de-risk investment decisions.
 
 ## 3. Required Qualifications & Experience
@@ -93,7 +93,6 @@ Benchmarked to the consultant Rate-card (Level 5 — Manager):
 
 - **Monthly Base Salary:** RM17,500 – RM20,400
 - **Annual Base Salary:** RM210,000 – RM244,800
-- **Annual Burdened Cost (1.44×):** RM302,400 – RM352,512
 
 In addition to base salary, the role includes statutory contributions (EPF/SOCSO/EIS), medical coverage, training and certification sponsorship, and a performance-based bonus.
 

@@ -86,7 +86,6 @@ Benchmarked to the consultant Rate-card (Level 3 — Senior Executive / Consulta
 
 - **Monthly Base Salary:** RM8,000 – RM11,000
 - **Annual Base Salary:** RM96,000 – RM132,000
-- **Annual Burdened Cost (1.44×):** RM138,240 – RM190,080
 
 In addition to base salary, the role includes statutory contributions (EPF/SOCSO/EIS), medical coverage, training and certification sponsorship, and a performance-based bonus.
 

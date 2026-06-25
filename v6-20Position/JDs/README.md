@@ -19,8 +19,8 @@
 
 | MRF | v6 Title | Level | C/G | Team | Reports To | JD |
 |-----|----------|:-----:|:---:|------|------------|----|
-| MRF-012 | Solutions Architect ⭐ | L4 | G | Solutions / Presales | Functional lead (dotted line to Cyber) | [open](MRF-012-senior-presales-consultant.md) |
-| MRF-022 | Presales Engineer | L1 | G | Solutions / Presales | Solutions Architect | [open](MRF-022-junior-presales-consultant.md) |
+| MRF-012 | Technical Presales ⭐ | L4 | G | Solutions / Presales | Functional lead (dotted line to Cyber) | [open](MRF-012-senior-presales-consultant.md) |
+| MRF-022 | Presales Engineer | L1 | G | Solutions / Presales | Technical Presales | [open](MRF-022-junior-presales-consultant.md) |
 | MRF-001 | Consultant – Government Security | L4 | C | Government Security | Head of Cybersecurity Practice | [open](MRF-001-government-security-project-manager.md) |
 | MRF-002 | GRC Specialist *(dual Specialist / Team Lead)* | L4 | C | VORON / GRC | Head of Cybersecurity Practice | [open](MRF-002-senior-grc-specialist.md) |
 | MRF-003 | Staff Engineer – DevSecOps | L4 | G | DevSecOps | Functional lead (dotted line to Cyber) | [open](MRF-003-senior-devsecops-engineer.md) |
@@ -57,11 +57,11 @@
 **Removed (archived under `removed-roles/`):**
 - MRF-020 (Junior Project Manager) — removed in v6; replaced by Product Manager (MRF-023).
 
-**Compensation benchmark** (consultant Rate-card; base salary excludes the 1.44× COGS burden):
+**Compensation benchmark** (consultant Rate-card base salary):
 
-| Level | HR Band | Monthly (RM) | Annual base (RM) | Annual burdened ×1.44 (RM) |
-|:-----:|---------|--------------|------------------|----------------------------|
-| L5 | Manager | 17,500 – 20,400 | 210,000 – 244,800 | 302,400 – 352,512 |
-| L4 | Assistant Manager (Specialist / Team Lead / Staff Eng) | 11,500 – 15,500 | 138,000 – 186,000 | 198,720 – 267,840 |
-| L3 | Senior Executive (Senior Engineer / Consultant) | 8,000 – 11,000 | 96,000 – 132,000 | 138,240 – 190,080 |
-| L1 | Executive (Engineer) | 4,000 – 7,000 | 48,000 – 84,000 | 69,120 – 120,960 |
+| Level | HR Band | Monthly (RM) | Annual base (RM) |
+|:-----:|---------|--------------|------------------|
+| L5 | Manager | 17,500 – 20,400 | 210,000 – 244,800 |
+| L4 | Assistant Manager (Specialist / Team Lead / Staff Eng) | 11,500 – 15,500 | 138,000 – 186,000 |
+| L3 | Senior Executive (Senior Engineer / Consultant) | 8,000 – 11,000 | 96,000 – 132,000 |
+| L1 | Executive (Engineer) | 4,000 – 7,000 | 48,000 – 84,000 |

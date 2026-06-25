@@ -200,7 +200,6 @@ Benchmarked to the consultant Rate-card (Level 4 — Assistant Manager / Special
 
 - **Monthly Base Salary:** RM11,500 – RM15,500
 - **Annual Base Salary:** RM138,000 – RM186,000
-- **Annual Burdened Cost (1.44×):** RM198,720 – RM267,840
 
 In addition to base salary, the role includes statutory contributions (EPF/SOCSO/EIS), medical coverage, training and certification sponsorship, and a performance-based bonus.
 

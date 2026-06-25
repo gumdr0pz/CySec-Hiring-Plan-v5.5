@@ -89,7 +89,6 @@ Benchmarked to the consultant Rate-card (Level 5 — Manager):
 
 - **Monthly Base Salary:** RM17,500 – RM20,400
 - **Annual Base Salary:** RM210,000 – RM244,800
-- **Annual Burdened Cost (1.44×):** RM302,400 – RM352,512
 
 Benefits include statutory EPF, SOCSO, and EIS contributions, medical coverage, training and certification sponsorship, and a performance-based bonus.
 
