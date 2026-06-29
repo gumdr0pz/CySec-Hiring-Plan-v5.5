@@ -97,7 +97,7 @@ Pay is set at the consultant Rate-card benchmark ("Monthly Salary (Ref)", gross 
 | Staff Engineer – DevSecOps | L4 | RM138,000 | RM186,000 |
 | Engineer – DevSecOps | L1 | RM48,000 | RM84,000 |
 | GRC Specialist *(Specialist/Team Lead)* | L4 | RM138,000 | RM186,000 |
-| Consultant – Government Security | L4 | RM138,000 | RM186,000 |
+| Product Manager – Government Security | L4 | RM138,000 | RM186,000 |
 | Product Manager | L5 | RM210,000 | RM244,800 |
 | Technical Account Manager *(Consultant)* | L3 | RM96,000 | RM132,000 |
 | **Total** | | **RM954,000** | **RM1,288,800** |

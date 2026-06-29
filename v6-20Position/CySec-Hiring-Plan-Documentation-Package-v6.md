@@ -65,7 +65,7 @@ The complete v6 documentation for the Cybersecurity BU hiring plan: **20 positio
 ## POSITION SUMMARY BY WAVE
 
 ### Wave 1: Immediate (8)
-Technical Presales (L4, general) · Presales Engineer (L1, general) · Staff Engineer – DevSecOps (L4, general) · Engineer – DevSecOps (L1, general) · GRC Specialist (L4, cyber-core) · Consultant – Government Security (L4, cyber-core) · Product Manager (L5, general) · Technical Account Manager (L3, general)
+Technical Presales (L4, general) · Presales Engineer (L1, general) · Staff Engineer – DevSecOps (L4, general) · Engineer – DevSecOps (L1, general) · GRC Specialist (L4, cyber-core) · Product Manager – Government Security (L4, cyber-core) · Product Manager (L5, general) · Technical Account Manager (L3, general)
 
 ### Wave 2: RM4M+ SOWs (5)
 Account Manager – Enterprise (L5, general) · Account Manager – Government (L5, general) · Team Lead – Offensive Security (L4, cyber-core) · Staff Engineer – Offensive Security (L4, cyber-core) · Team Lead – Threat Intelligence (L4, cyber-core)

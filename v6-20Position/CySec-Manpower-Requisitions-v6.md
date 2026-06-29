@@ -41,7 +41,7 @@
 |-----|----------|------:|----------|-------|------------|-------------|
 | MRF-012 | Technical Presales | L4 | Solutions/Presales | General | BU Head (dotted line) | RM138,000 – RM186,000 |
 | MRF-022 | Presales Engineer | L1 | Solutions/Presales | General | Technical Presales | RM48,000 – RM84,000 |
-| MRF-001 | Consultant – Government Security | L4 | Gov Sec | Cyber-core | Principal Cybersecurity Architect | RM138,000 – RM186,000 |
+| MRF-001 | Product Manager – Government Security | L4 | Gov Sec | Cyber-core | Principal Cybersecurity Architect | RM138,000 – RM186,000 |
 | MRF-002 | GRC Specialist *(Specialist/Team Lead)* | L4 | VORON/GRC | Cyber-core | Principal Cybersecurity Architect | RM138,000 – RM186,000 |
 | MRF-003 | Staff Engineer – DevSecOps | L4 | DevSecOps | General | Principal Cybersecurity Architect (dotted) | RM138,000 – RM186,000 |
 | MRF-018 | Engineer – DevSecOps | L1 | DevSecOps | General | Staff Engineer – DevSecOps | RM48,000 – RM84,000 |
@@ -86,7 +86,7 @@
 |-----|----------|------:|----------|-------|------|
 | MRF-012 | Technical Presales | L4 | Solutions/Presales | General | 1 |
 | MRF-022 | Presales Engineer | L1 | Solutions/Presales | General | 1 |
-| MRF-001 | Consultant – Government Security | L4 | Gov Sec | Cyber-core | 1 |
+| MRF-001 | Product Manager – Government Security | L4 | Gov Sec | Cyber-core | 1 |
 | MRF-002 | GRC Specialist | L4 | VORON/GRC | Cyber-core | 1 |
 | MRF-003 | Staff Engineer – DevSecOps | L4 | DevSecOps | General | 1 |
 | MRF-018 | Engineer – DevSecOps | L1 | DevSecOps | General | 1 |

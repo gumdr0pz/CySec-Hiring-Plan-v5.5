@@ -98,7 +98,7 @@ In addition to base salary, we offer statutory contributions (EPF, SOCSO, EIS), 
 
 ## 11. Career Progression
 
-The natural next step for this role is progression to a Senior Business Analyst or a Project Management track position (e.g., Project Manager) within the PM Team, taking on larger or more complex engagements and broader delivery responsibility.
+The natural next step for this role is progression to a Senior Business Analyst or a Product Management track position (e.g., Product Manager) within the Product / PM team, taking on larger or more complex engagements and broader delivery responsibility.
 
 ## 12. Equal Opportunity Statement
 

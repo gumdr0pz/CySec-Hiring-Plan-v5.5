@@ -21,7 +21,7 @@
 |-----|----------|:-----:|:-----:|------|------------|----|
 | MRF-012 | Technical Presales ⭐ | L4 | G | Solutions / Presales | Functional lead (dotted line to Cyber) | [open](MRF-012-senior-presales-consultant.md) |
 | MRF-022 | Presales Engineer | L1 | G | Solutions / Presales | Technical Presales | [open](MRF-022-junior-presales-consultant.md) |
-| MRF-001 | Consultant – Government Security | L4 | C | Government Security | Head of Cybersecurity Practice | [open](MRF-001-government-security-project-manager.md) |
+| MRF-001 | Product Manager – Government Security | L4 | C | Government Security | Head of Cybersecurity Practice | [open](MRF-001-government-security-product-manager.md) |
 | MRF-002 | GRC Specialist *(dual Specialist / Team Lead)* | L4 | C | VORON / GRC | Head of Cybersecurity Practice | [open](MRF-002-senior-grc-specialist.md) |
 | MRF-003 | Staff Engineer – DevSecOps | L4 | G | DevSecOps | Functional lead (dotted line to Cyber) | [open](MRF-003-senior-devsecops-engineer.md) |
 | MRF-018 | Engineer – DevSecOps | L1 | G | DevSecOps | Staff Engineer – DevSecOps (dotted line to Cyber) | [open](MRF-018-junior-devsecops-engineer.md) |

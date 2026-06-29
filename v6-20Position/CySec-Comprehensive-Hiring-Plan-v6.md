@@ -60,7 +60,7 @@ This document outlines the strategic hiring plan for the Cybersecurity Business 
 | **Wave 3** | RM8M+ Recurring | 7 | Scale-up bench | RM474,000 – RM738,000 |
 | **Total** | — | **20** | — | **RM2,262,000 – RM3,074,400** |
 
-**Wave 1 Positions (8):** Technical Presales, Presales Engineer, Consultant – Government Security, GRC Specialist, Staff Engineer – DevSecOps, Engineer – DevSecOps, Technical Account Manager, Product Manager
+**Wave 1 Positions (8):** Technical Presales, Presales Engineer, Product Manager – Government Security, GRC Specialist, Staff Engineer – DevSecOps, Engineer – DevSecOps, Technical Account Manager, Product Manager
 
 > **Note:** The former Senior Project Manager and Junior PM roles are removed. **Product Manager (L5)** is the product owner, general with a dotted line to the cyber practice. Business Analyst is retained.
 
@@ -83,7 +83,7 @@ Solid lines = cyber-core (in practice). Dotted lines = general functions seconde
 ```
 BU Head
 ├── Principal Cybersecurity Architect  [cyber-core, solid line]
-│   ├── Consultant – Government Security (L4) .......... W1
+│   ├── Product Manager – Government Security (L4) .......... W1
 │   ├── VORON / GRC Team
 │   │   ├── GRC Specialist (L4, Specialist/Team Lead) . W1
 │   │   └── GRC Analyst (L1) .......................... W3
@@ -148,7 +148,7 @@ Wave 1 stands up the org-chart core capability with paired junior capacity where
 2. **DevSecOps pod**: Staff Engineer – DevSecOps (L4) + Engineer – DevSecOps (L1) stand up and operate security automation / CI/CD.
 3. **Product ownership**: Product Manager (L5) owns the product roadmap and prioritisation.
 4. **Account Management**: Technical Account Manager (Consultant, L3) owns post-sale relationships and delivery coordination.
-5. **Governance & GRC**: Consultant – Government Security (L4) and GRC Specialist (L4) lead compliance, governance, and GRC platform deployment.
+5. **Governance & GRC**: Product Manager – Government Security (L4) and GRC Specialist (L4) lead compliance, governance, and GRC platform deployment.
 
 #### 3.1.2 Wave 1 Positions
 
@@ -156,7 +156,7 @@ Wave 1 stands up the org-chart core capability with paired junior capacity where
 |---|----------|------:|----------|-------|------------------------|------------------|
 | 1 | Technical Presales | L4 | Solutions/Presales | General | 11,500 – 15,500 | 138,000 – 186,000 |
 | 2 | Presales Engineer | L1 | Solutions/Presales | General | 4,000 – 7,000 | 48,000 – 84,000 |
-| 3 | Consultant – Government Security | L4 | Gov Sec | Cyber-core | 11,500 – 15,500 | 138,000 – 186,000 |
+| 3 | Product Manager – Government Security | L4 | Gov Sec | Cyber-core | 11,500 – 15,500 | 138,000 – 186,000 |
 | 4 | GRC Specialist *(Specialist/Team Lead)* | L4 | VORON/GRC | Cyber-core | 11,500 – 15,500 | 138,000 – 186,000 |
 | 5 | Staff Engineer – DevSecOps | L4 | DevSecOps | General | 11,500 – 15,500 | 138,000 – 186,000 |
 | 6 | Engineer – DevSecOps | L1 | DevSecOps | General | 4,000 – 7,000 | 48,000 – 84,000 |
@@ -293,7 +293,7 @@ Own the technical narrative across the deal lifecycle; develop solution architec
 **Reports To:** Technical Presales · **Benchmark:** RM4,000 – RM7,000/mo · **Annual Base:** RM48,000 – RM84,000
 Build/maintain demo and POC environments; draft RFP/RFI sections; research competitors; maintain the collateral library. 1–2 years technical/presales-support; foundational cybersecurity/blockchain knowledge.
 
-#### 5.1.3 Consultant – Government Security (L4) — Gov Sec [Cyber-core]
+#### 5.1.3 Product Manager – Government Security (L4) — Gov Sec [Cyber-core]
 **Reports To:** Principal Cybersecurity Architect · **Benchmark:** RM11,500 – RM15,500/mo · **Annual Base:** RM138,000 – RM186,000
 Lead government security compliance and governance; manage risk assessments and audits; coordinate with regulators. 5+ years gov security/compliance; CISSP/CISM; Malaysian gov frameworks (ISMS, PDPA).
 
@@ -429,7 +429,7 @@ Month 9-12: Wave 3 Execution (7 roles) — on RM8M+ recurring revenue
 | Level | Count | Roles |
 |------:|------:|-------|
 | L5 | 3 | Product Manager, Account Manager – Enterprise, Account Manager – Government |
-| L4 | 8 | Technical Presales, Consultant – Government Security, GRC Specialist, Staff Engineer – DevSecOps, Team Lead – Offensive Security, Staff Engineer – Offensive Security, Team Lead – Threat Intelligence, Staff Engineer – Blockchain |
+| L4 | 8 | Technical Presales, Product Manager – Government Security, GRC Specialist, Staff Engineer – DevSecOps, Team Lead – Offensive Security, Staff Engineer – Offensive Security, Team Lead – Threat Intelligence, Staff Engineer – Blockchain |
 | L3 | 2 | Technical Account Manager, Senior Engineer – Threat Intelligence |
 | L1 | 7 | Presales Engineer, Engineer – DevSecOps, GRC Analyst, Engineer – Offensive Security, Engineer – Threat Intelligence, Engineer – Threat Intelligence (Distributed Intel), Business Analyst |
 | **Total** | **20** | |

@@ -25,7 +25,7 @@ The Account Manager – Government drives revenue growth across Malaysia's publi
 - Lead the development of compelling, compliant proposals and bid responses for government tenders, ensuring alignment with agency requirements and procurement criteria.
 - Achieve and exceed assigned government sales targets and revenue objectives, accurately forecasting and reporting pipeline progress to the BU Head.
 - Navigate Malaysian government procurement frameworks, panels, and approval processes to position the BU's solutions effectively and shorten the path to award.
-- Collaborate closely with the Consultant – Government Security to ensure proposed solutions are deliverable, scoped accurately, and transitioned smoothly from sale to delivery.
+- Collaborate closely with the Product Manager – Government Security to ensure proposed solutions are deliverable, scoped accurately, and transitioned smoothly from sale to delivery.
 - Translate technical cybersecurity offerings into clear public sector value propositions, tailoring messaging to agency mandates and compliance obligations.
 - Represent the BU at government engagements, industry briefings, and procurement events to build visibility and capture early opportunity signals.
 
@@ -78,11 +78,11 @@ The Account Manager – Government drives revenue growth across Malaysia's publi
 - Tender submission volume and win rate against submitted bids.
 - Breadth and depth of active government agency relationships established.
 - Forecast accuracy against actual closed revenue.
-- Smooth sale-to-delivery handover, measured by collaboration with the Consultant – Government Security.
+- Smooth sale-to-delivery handover, measured by collaboration with the Product Manager – Government Security.
 
 ## 9. Reporting & Team Context
 
-This role reports on a dotted line to the BU Head and sits within the Cybersecurity BU's Sales team. As a Level 5 Manager-grade role, it works closely with the Consultant – Government Security and the wider delivery and technical teams to scope, propose, and transition government engagements.
+This role reports on a dotted line to the BU Head and sits within the Cybersecurity BU's Sales team. As a Level 5 Manager-grade role, it works closely with the Product Manager – Government Security and the wider delivery and technical teams to scope, propose, and transition government engagements.
 
 ## 10. Compensation & Benefits
 

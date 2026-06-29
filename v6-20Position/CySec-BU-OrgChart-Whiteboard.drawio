@@ -78,7 +78,7 @@
         <mxCell id="govsec_label" parent="1" style="text;html=1;align=center;verticalAlign=top;resizable=0;points=[];strokeColor=none;fillColor=none;fontSize=12;fontStyle=1;fontColor=#636e72;" value="&lt;b&gt;GOVERNMENT SECURITY&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size:8px;color:#4a5256;&quot;&gt;cyber-core&lt;/font&gt;" vertex="1">
           <mxGeometry height="28" width="190" x="570" y="436" as="geometry" />
         </mxCell>
-        <mxCell id="govsec_pm" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#636e72;fontColor=#ffffff;strokeColor=#00b894;strokeWidth=3;fontSize=10;arcSize=18;" value="&lt;b&gt;Consultant – Government Security&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size:8px;color:#dfe6e9;&quot;&gt;L4 · Wave 1&lt;/font&gt;" vertex="1">
+        <mxCell id="govsec_pm" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#636e72;fontColor=#ffffff;strokeColor=#00b894;strokeWidth=3;fontSize=10;arcSize=18;" value="&lt;b&gt;Product Manager – Government Security&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size:8px;color:#dfe6e9;&quot;&gt;L4 · Wave 1&lt;/font&gt;" vertex="1">
           <mxGeometry height="58" width="160" x="585" y="510" as="geometry" />
         </mxCell>
         <mxCell id="cti_box" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6c5ce7;fillOpacity=10;strokeColor=#6c5ce7;strokeWidth=2;arcSize=10;" value="" vertex="1">

@@ -20,7 +20,7 @@
 | Wave 1 | 7 (4 Sr + 3 Jr) | 8 (near-term core) |
 | Titles/levels | Sr/Jr labels, RM bands | HR levels (L1/L3/L4/L5) + Rate-card benchmark |
 | Added to Wave 1 | — | Product Manager (L5) |
-| Renamed | — | Presales Consultant → Technical Presales; Gov Sec PM → Consultant – Government Security; Sr GRC → GRC Specialist; Sr/Jr DevSecOps → Staff Engineer / Engineer – DevSecOps; Jr Presales → Presales Engineer |
+| Renamed | — | Presales Consultant → Technical Presales; Gov Sec PM → Product Manager – Government Security; Sr GRC → GRC Specialist; Sr/Jr DevSecOps → Staff Engineer / Engineer – DevSecOps; Jr Presales → Presales Engineer |
 | Salary basis | 30%-reduced band | Gross base benchmark; **within 25% cap** across low-to-mid band |
 | Total hires | 20 | 20 |
 | Wave 1 Base | RM361,200 – 578,000 | **RM954,000 – 1,288,800** |
@@ -51,7 +51,7 @@
 | **DevSecOps pod** | Staff Engineer – DevSecOps (L4) | Engineer – DevSecOps (L1) |
 | **Product ownership** | Product Manager (L5) | — |
 | **Account Management** | Technical Account Manager (Consultant, L3) | — |
-| **Governance** | Consultant – Government Security (L4) | — |
+| **Governance** | Product Manager – Government Security (L4) | — |
 | **GRC** | GRC Specialist (L4) | — |
 
 ---
@@ -64,7 +64,7 @@
 |---|----------|------:|----------|-------|------------|------------------|
 | 1 | Technical Presales | L4 | Solutions/Presales | General | BU Head (dotted line) | 138,000 – 186,000 |
 | 2 | Presales Engineer | L1 | Solutions/Presales | General | Technical Presales | 48,000 – 84,000 |
-| 3 | Consultant – Government Security | L4 | Gov Sec | Cyber-core | Principal Cybersecurity Architect | 138,000 – 186,000 |
+| 3 | Product Manager – Government Security | L4 | Gov Sec | Cyber-core | Principal Cybersecurity Architect | 138,000 – 186,000 |
 | 4 | GRC Specialist *(Specialist/Team Lead)* | L4 | VORON/GRC | Cyber-core | Principal Cybersecurity Architect | 138,000 – 186,000 |
 | 5 | Staff Engineer – DevSecOps | L4 | DevSecOps | General | Principal Cybersecurity Architect (dotted) | 138,000 – 186,000 |
 | 6 | Engineer – DevSecOps | L1 | DevSecOps | General | Staff Engineer – DevSecOps | 48,000 – 84,000 |
@@ -91,7 +91,7 @@
 |------|------:|-------|-------|-----|
 | Technical Presales | L4 | General | Solution architecture, demos/POCs, RFP/RFI | MRF-012 |
 | Presales Engineer | L1 | General | Demo/POC build, collateral, RFP support | MRF-022 |
-| Consultant – Government Security | L4 | Cyber-core | Government security compliance & governance | MRF-001 |
+| Product Manager – Government Security | L4 | Cyber-core | Government security compliance & governance | MRF-001 |
 | GRC Specialist | L4 | Cyber-core | GRC platform ops, risk & compliance | MRF-002 |
 | Staff Engineer – DevSecOps | L4 | General | Security automation, CI/CD, cloud security | MRF-003 |
 | Engineer – DevSecOps | L1 | General | Automation scripts, monitoring, pipeline support | MRF-018 |
@@ -119,7 +119,7 @@ Week 11-12: Onboarding (pre-boarding, Day 1, 30-60-90 day plans)
 |----------|-------|-------------|----------|
 | Technical Presales | Week 1 | Week 10 | Critical |
 | Presales Engineer | Week 2 | Week 11 | High |
-| Consultant – Government Security | Week 1 | Week 10 | High |
+| Product Manager – Government Security | Week 1 | Week 10 | High |
 | GRC Specialist | Week 1 | Week 10 | High |
 | Staff Engineer – DevSecOps | Week 1 | Week 10 | High |
 | Engineer – DevSecOps | Week 2 | Week 11 | High |
@@ -165,7 +165,7 @@ Week 11-12: Onboarding (pre-boarding, Day 1, 30-60-90 day plans)
 |----------|------:|------------------------|------------------|
 | Technical Presales | L4 | 11,500 – 15,500 | 138,000 – 186,000 |
 | Presales Engineer | L1 | 4,000 – 7,000 | 48,000 – 84,000 |
-| Consultant – Government Security | L4 | 11,500 – 15,500 | 138,000 – 186,000 |
+| Product Manager – Government Security | L4 | 11,500 – 15,500 | 138,000 – 186,000 |
 | GRC Specialist | L4 | 11,500 – 15,500 | 138,000 – 186,000 |
 | Staff Engineer – DevSecOps | L4 | 11,500 – 15,500 | 138,000 – 186,000 |
 | Engineer – DevSecOps | L1 | 4,000 – 7,000 | 48,000 – 84,000 |

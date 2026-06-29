@@ -52,7 +52,7 @@ Source of truth: `v6-20Position/CySec-v6-Levels-Titles-Salary-Framework.md`.
 | **Total** | - | **20** | **RM2,262,000 – RM3,074,400** |
 
 ### Wave 1 (8) — near-term core
-Technical Presales (L4) · Presales Engineer (L1) · Consultant – Government Security (L4) · GRC Specialist (L4) · Staff Engineer – DevSecOps (L4) · Engineer – DevSecOps (L1) · Technical Account Manager (L3) · Product Manager (L5)
+Technical Presales (L4) · Presales Engineer (L1) · Product Manager – Government Security (L4) · GRC Specialist (L4) · Staff Engineer – DevSecOps (L4) · Engineer – DevSecOps (L1) · Technical Account Manager (L3) · Product Manager (L5)
 
 ### Wave 2 (5)
 Account Manager – Enterprise (L5) · Account Manager – Government (L5) · Team Lead – Offensive Security (L4) · Staff Engineer – Offensive Security (L4) · Team Lead – Threat Intelligence (L4)
@@ -81,7 +81,7 @@ Cost = gross base benchmark salary (no COGS / burden multiplier applied).
 |------|----------|:---:|:---:|:---:|
 | `MRF-012-...presales-consultant.md` | Technical Presales | L4 | 1 | G |
 | `MRF-022-...junior-presales-consultant.md` | Presales Engineer | L1 | 1 | G |
-| `MRF-001-...government-security-project-manager.md` | Consultant – Government Security | L4 | 1 | C |
+| `MRF-001-...government-security-product-manager.md` | Product Manager – Government Security | L4 | 1 | C |
 | `MRF-002-...senior-grc-specialist.md` | GRC Specialist | L4 | 1 | C |
 | `MRF-003-...senior-devsecops-engineer.md` | Staff Engineer – DevSecOps | L4 | 1 | G |
 | `MRF-018-...junior-devsecops-engineer.md` | Engineer – DevSecOps | L1 | 1 | G |

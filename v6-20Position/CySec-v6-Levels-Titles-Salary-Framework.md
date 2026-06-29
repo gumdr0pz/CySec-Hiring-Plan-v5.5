@@ -53,7 +53,7 @@ Job level is distinct from salary band. **Specialist** sits **one level above Se
 | Dist Intel Analyst | Engineer – Threat Intelligence (Distributed Intel) | CTI | 1 | 4,000–7,000 | 3 |
 | Sr GRC Specialist | GRC Specialist *(Specialist/Team Lead)* | VORON/GRC | 4 | 11,500–15,500 | 1 |
 | Jr GRC Specialist | GRC Analyst | VORON/GRC | 1 | 4,000–7,000 | 3 |
-| Gov Sec PM | Consultant – Government Security | Gov Sec | 4 | 11,500–15,500 | 1 |
+| Gov Sec PM | Product Manager – Government Security | Gov Sec | 4 | 11,500–15,500 | 1 |
 
 ### General (dotted line to cyber)
 
@@ -80,7 +80,7 @@ Job level is distinct from salary band. **Specialist** sits **one level above Se
 
 | Wave | Trigger | Roles | Near-term core / growth |
 |------|---------|------:|--------------------------|
-| Wave 1 | Board approval | 8 | Near-term core: Technical Presales, Staff Eng DevSecOps, GRC Specialist, Consultant Gov Sec, Product Manager, TAM, + Presales/DevSecOps engineers |
+| Wave 1 | Board approval | 8 | Near-term core: Technical Presales, Staff Eng DevSecOps, GRC Specialist, Product Manager – Gov Sec, Product Manager, TAM, + Presales/DevSecOps engineers |
 | Wave 2 | RM4M+ SOWs | 5 | Growth: Account Managers (Ent/Gov), OffSec Team Lead + Staff Eng, CTI Team Lead |
 | Wave 3 | RM8M+ recurring | 7 | Growth: Staff Eng Blockchain, GRC Analyst, OffSec/CTI engineers, Senior Eng Threat Intel, Business Analyst |
 | **Total** | — | **20** | |

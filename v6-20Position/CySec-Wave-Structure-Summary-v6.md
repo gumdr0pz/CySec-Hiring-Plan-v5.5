@@ -13,7 +13,7 @@
 
 Each wave stands up functional capability that can deliver, with the near-term core landing first:
 
-- **Wave 1 (8):** The near-term core — Technical Presales + Presales Engineer, Staff Engineer DevSecOps + Engineer DevSecOps, GRC Specialist, Consultant – Government Security, Product Manager, and a Technical Account Manager for post-sale delivery.
+- **Wave 1 (8):** The near-term core — Technical Presales + Presales Engineer, Staff Engineer DevSecOps + Engineer DevSecOps, GRC Specialist, Product Manager – Government Security, Product Manager, and a Technical Account Manager for post-sale delivery.
 - **Wave 2 (5):** Revenue closers (Account Manager – Enterprise + Government) and senior cyber-core practice leadership (Offensive Security Team Lead + Staff Engineer, Threat Intelligence Team Lead) — triggered by signed SOWs.
 - **Wave 3 (7):** The scale-up bench — engineering/IC across Offensive Security, Threat Intelligence, GRC, and PM, plus the Blockchain Staff Engineer.
 
@@ -40,7 +40,7 @@ Each wave stands up functional capability that can deliver, with the near-term c
 | 3 | Staff Engineer – DevSecOps | L4 | DevSecOps | General (dotted) | 11,500–15,500 |
 | 4 | Engineer – DevSecOps | L1 | DevSecOps | General (dotted) | 4,000–7,000 |
 | 5 | GRC Specialist *(Specialist/Team Lead)* | L4 | VORON/GRC | Cyber-core | 11,500–15,500 |
-| 6 | Consultant – Government Security | L4 | Gov Sec | Cyber-core | 11,500–15,500 |
+| 6 | Product Manager – Government Security | L4 | Gov Sec | Cyber-core | 11,500–15,500 |
 | 7 | Product Manager | L5 | Product/PM | General (dotted) | 17,500–20,400 |
 | 8 | Technical Account Manager *(Consultant)* | L3 | Professional Services | General (dotted) | 8,000–11,000 |
 
@@ -120,7 +120,7 @@ Each wave stands up functional capability that can deliver, with the near-term c
 ```
 BU Head
 ├── Principal Cybersecurity Architect
-│   ├── Consultant – Government Security (L4) ........... W1   [cyber-core]
+│   ├── Product Manager – Government Security (L4) ........... W1   [cyber-core]
 │   ├── VORON / GRC
 │   │   ├── GRC Specialist (L4) ........................ W1   [cyber-core]
 │   │   └── GRC Analyst (L1) ........................... W3   [cyber-core]

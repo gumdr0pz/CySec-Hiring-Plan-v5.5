@@ -13,7 +13,7 @@
 
 This executive summary presents the strategic hiring plan for the Cybersecurity Business Unit (BU). The plan details the recruitment of **20 positions** across **9 functions** over a 12-month period, structured in three revenue-triggered waves that build deliverable capability at each stage:
 
-- **Wave 1 (8)** stands up the near-term core — Technical Presales + Presales Engineer, Staff Engineer DevSecOps + Engineer DevSecOps, GRC Specialist, Consultant – Government Security, Product Manager, and a Technical Account Manager for delivery.
+- **Wave 1 (8)** stands up the near-term core — Technical Presales + Presales Engineer, Staff Engineer DevSecOps + Engineer DevSecOps, GRC Specialist, Product Manager – Government Security, Product Manager, and a Technical Account Manager for delivery.
 - **Wave 2 (5)** adds revenue closers (Account Manager – Enterprise / Government) and senior cyber-core practice leadership (Offensive Security Team Lead + Staff Engineer, Threat Intelligence Team Lead).
 - **Wave 3 (7)** scales the engineering bench and brings the Blockchain Staff Engineer online.
 
@@ -103,7 +103,7 @@ Base = monthly benchmark × 12. Annual base per level: **L1** RM48,000–84,000 
 | Staff Engineer – DevSecOps | L4 | DevSecOps (general) | RM138,000 | RM186,000 |
 | Engineer – DevSecOps | L1 | DevSecOps (general) | RM48,000 | RM84,000 |
 | GRC Specialist *(Specialist/Team Lead)* | L4 | VORON/GRC (cyber-core) | RM138,000 | RM186,000 |
-| Consultant – Government Security | L4 | Gov Sec (cyber-core) | RM138,000 | RM186,000 |
+| Product Manager – Government Security | L4 | Gov Sec (cyber-core) | RM138,000 | RM186,000 |
 | Product Manager | L5 | Product/PM (general) | RM210,000 | RM244,800 |
 | Technical Account Manager *(Consultant)* | L3 | Professional Services (general) | RM96,000 | RM132,000 |
 
