@@ -1,12 +1,12 @@
-# GRC Specialist
+# Senior GRC Specialist (VoronCitadel Service)
 
 | Field | Detail |
 |---|---|
 | Requisition ID | MRF-002 |
 | Business Unit | Cybersecurity BU |
-| Team / Function | VORON / GRC |
+| Team / Function | VORON / VoronCitadel Service |
 | Reports To | Head of Cybersecurity BU (Faurani) |
-| Level / Grade | L4 — Assistant Manager (Specialist/Staff Engineer) |
+| Level / Grade | L5 — Senior Specialist (Senior Staff Engineer) |
 | Track | Cyber-core (in Cybersecurity Practice) |
 | Employment Type | Full-time, Permanent |
 | Location | Kuala Lumpur, Malaysia (hybrid) |
@@ -18,71 +18,80 @@
 
 ## 1. Role Purpose
 
-The GRC Specialist is responsible for operating and administering the VoronCitadel Unified GRC Platform while supporting governance, risk, compliance, third-party risk, and operational resilience activities for customers and internal stakeholders. As a Level 4 dual Specialist / Team Lead designation, the role spans deep individual-contributor expertise and, where required, people-management of GRC analysts.
+The Senior GRC Specialist (VoronCitadel Service) is responsible for delivering VoronCitadel services to clients through the VoronCitadel Unified GRC Platform. This role operates as a senior-level practitioner who combines deep GRC domain expertise with client-facing advisory capabilities to govern, advise, and report on clients' cybersecurity and compliance postures.
 
-This role serves as the subject matter expert for VoronCitadel and ensures that regulatory requirements, control frameworks, risk registers, and audit evidence are accurately maintained within the platform. The role also supports customer onboarding, platform adoption, and continuous improvement initiatives.
+As a Level 5 dual Senior Specialist / Team Lead designation, the role spans deep individual-contributor expertise and, where required, people-management of GRC analysts. The role serves as the primary GRC subject matter expert for assigned VoronCitadel clients and ensures that regulatory requirements, control frameworks, risk registers, and audit evidence are accurately maintained and strategically interpreted within the platform.
 
 ---
 
 ## 2. Key Responsibilities
 
+### VoronCitadel Service Delivery
+
+- Serve as the dedicated GRC lead for assigned VoronCitadel clients, providing ongoing cybersecurity governance advisory.
+- Conduct quarterly VoronCitadel business reviews with client leadership, presenting risk posture, compliance status, and strategic recommendations.
+- Develop and maintain client-specific roadmaps for risk reduction, control maturity, and regulatory compliance.
+- Act as a trusted advisor to clients, translating technical risk into business impact for C-suite and board-level stakeholders.
+- Support VoronCitadel proposal development, scoping, and client onboarding activities.
+
 ### Platform Operations
 
-- Administer and maintain the VoronCitadel platform.
-- Configure users, permissions, workflows, and platform settings.
-- Ensure platform data accuracy and audit readiness.
-- Support customer onboarding and implementation activities.
+- Administer and maintain the VoronCitadel platform for assigned clients.
+- Configure users, permissions, workflows, and platform settings per client requirements.
+- Ensure platform data accuracy and audit readiness across all client tenants.
+- Lead customer onboarding and implementation activities.
 
 ### Governance & Compliance
 
-- Manage compliance assessments and evidence collection.
-- Maintain control mappings across:
+- Manage compliance assessments and evidence collection across client environments.
+- Maintain and advise on control mappings across:
   - BNM RMiT
   - SC GTRM
   - Bursa RSWG
   - ISO 27001:2022
   - NIST CSF 2.0
-- Track compliance gaps and remediation activities.
+- Track compliance gaps and remediation activities, providing strategic guidance to clients.
 
 ### Risk Management
 
-- Maintain risk registers and treatment plans.
-- Support risk quantification activities and Annual Loss Expectancy (ALE) calculations.
-- Monitor key risk indicators and overall risk posture.
+- Maintain client risk registers and treatment plans.
+- Conduct risk quantification activities and Annual Loss Expectancy (ALE) calculations.
+- Advise clients on risk acceptance, mitigation strategies, and control selection.
+- Monitor key risk indicators and overall risk posture, reporting trends to client leadership.
 
 ### Third-Party Risk Management
 
-- Maintain vendor inventories and criticality classifications.
+- Maintain vendor inventories and criticality classifications for clients.
 - Coordinate onboarding, reassessments, and termination reviews.
 - Track remediation activities and vendor findings.
 
 ### Operational Resilience
 
-- Support Business Impact Analysis (BIA) exercises.
+- Support Business Impact Analysis (BIA) exercises for clients.
 - Maintain Business Continuity Management (BCM) and Disaster Recovery (DR) documentation.
 - Coordinate testing schedules and evidence management.
 
 ### Incident & Loss Management
 
-- Track incidents throughout their lifecycle.
+- Track incidents throughout their lifecycle across client environments.
 - Maintain root cause analysis and corrective action records.
 - Support operational loss data management and reporting.
 
 ### Governance & Audit Support
 
-- Support policy lifecycle management and employee attestations.
+- Support policy lifecycle management and employee attestations for clients.
 - Prepare audit evidence for internal and external audits.
-- Assist in regulatory and customer assessments.
+- Lead regulatory and customer assessment responses.
 
 ### Reporting & Stakeholder Engagement
 
-- Produce dashboards and executive reports.
-- Present compliance and risk posture to stakeholders.
-- Work closely with customers, product teams, and cybersecurity teams.
+- Produce executive dashboards and client-facing reports.
+- Present compliance and risk posture to client boards and management.
+- Work closely with clients, product teams, and cybersecurity teams to drive continuous improvement.
 
 ### Continuous Improvement
 
-- Recommend process improvements.
+- Recommend process improvements across VoronCitadel service delivery.
 - Support new VoronCitadel modules and capabilities.
 - Contribute feedback to product development initiatives.
 
@@ -91,29 +100,40 @@ This role serves as the subject matter expert for VoronCitadel and ensures that 
 ## 3. Required Qualifications & Experience
 
 - Bachelor's degree in Cybersecurity, Information Security, Computer Science, Risk Management, or a related discipline.
-- Minimum five (5) years of experience in one or more of the following areas:
+- Minimum seven (7) years of experience in one or more of the following areas:
   - Governance, Risk & Compliance (GRC)
   - Information Security
   - Internal Audit
   - Risk Management
   - Operational Resilience
   - Regulatory Compliance
-- Experience supporting audits and compliance assessments.
-- Strong report writing and documentation skills.
-- Ability to communicate effectively with technical and non-technical stakeholders.
+- Minimum two (2) years of client-facing or advisory experience (e.g., consulting, VoronCitadel, or managed security services).
+- Experience leading audits and compliance assessments.
+- Strong report writing, presentation, and documentation skills.
+- Proven ability to communicate effectively with C-suite and board-level stakeholders.
 
 ---
 
 ## 4. Preferred Qualifications
 
-- Experience with GRC platforms such as ServiceNow GRC, Archer, MetricStream, OneTrust, or equivalent solutions.
+- Experience delivering VoronCitadel or fractional CISO services.
+- Experience with GRC platforms such as VoronCitadel, ServiceNow GRC, Archer, MetricStream, OneTrust, or equivalent solutions.
 - Experience supporting financial institutions or regulated industries.
-- Familiarity with Malaysian regulatory requirements.
+- Deep familiarity with Malaysian regulatory requirements (BNM RMiT, SC GTRM, Bursa RSWG).
 - Experience with ISO 27001 implementation or audits.
+- Prior people-management or team lead experience.
 
 ---
 
 ## 5. Technical Skills & Competencies
+
+### VoronCitadel & Advisory
+
+- Client relationship management
+- Executive reporting and board presentation
+- Strategic risk advisory
+- Cybersecurity programme maturity assessment
+- Roadmap development
 
 ### Governance & Compliance
 
@@ -128,8 +148,8 @@ This role serves as the subject matter expert for VoronCitadel and ensures that 
 
 - Risk registers and treatment plans
 - Risk assessment methodologies
-- Annual Loss Expectancy (ALE)
-- Key Risk Indicators (KRIs)
+- Annual Loss Expectancy (ALE) / quantitative risk analysis
+- Key Risk Indicators (KRIs) and risk reporting
 
 ### Operational Resilience
 
@@ -147,6 +167,7 @@ This role serves as the subject matter expert for VoronCitadel and ensures that 
 ### Reporting & Documentation
 
 - Executive reporting
+- Board-level presentation
 - Audit preparation
 - Policy and procedure development
 
@@ -154,23 +175,27 @@ This role serves as the subject matter expert for VoronCitadel and ensures that 
 
 ## 6. Behavioural Competencies
 
-- **Ownership** — Takes accountability for platform operations and customer outcomes.
-- **Attention to Detail** — Ensures accuracy and audit readiness across all records.
-- **Analytical Thinking** — Applies structured approaches to risk and compliance challenges.
-- **Communication** — Clearly communicates with both technical and business stakeholders.
-- **Customer Focus** — Delivers value and builds trusted relationships with customers.
-- **Continuous Improvement** — Actively seeks opportunities to enhance processes and platform adoption.
+- **Client Trust & Advisory** — Builds trusted advisor relationships with client leadership through credible, clear, and actionable guidance.
+- **Ownership** — Takes full accountability for VoronCitadel service delivery and client outcomes.
+- **Strategic Thinking** — Connects technical and compliance findings to business impact and long-term risk strategy.
+- **Attention to Detail** — Ensures accuracy and audit readiness across all client records.
+- **Analytical Thinking** — Applies structured approaches to complex risk and compliance challenges.
+- **Communication** — Clearly communicates with technical, business, and C-suite stakeholders.
+- **Customer Focus** — Delivers measurable value and builds lasting client relationships.
+- **Continuous Improvement** — Actively seeks opportunities to enhance service delivery and platform adoption.
 
 ---
 
 ## 7. Certifications
 
-### Preferred
+### Desired
 
-- ISO 27001 Lead Implementer or Lead Auditor
 - CISSP
 - CISA
 - CRISC
+- ISO 27001 Lead Implementer or Lead Auditor
+- SSCP
+- GRCA
 - CGRC
 - CBCP
 - CDPSE
@@ -179,39 +204,23 @@ This role serves as the subject matter expert for VoronCitadel and ensures that 
 
 ## 8. Key Performance Indicators
 
-- Successful onboarding and operation of VoronCitadel customers.
-- Timely completion of compliance assessments.
-- Accurate maintenance of risk registers and control inventories.
+- Successful delivery of VoronCitadel services to assigned clients (measured by client retention and satisfaction).
+- Timely completion of quarterly VoronCitadel reviews and executive reports.
+- Accurate maintenance of client risk registers and control inventories.
 - Closure of remediation actions within agreed timelines.
 - Successful audit support with minimal findings.
-- High customer satisfaction and platform adoption.
+- High client satisfaction and platform adoption.
 - Zero critical data integrity issues.
+- Growth in VoronCitadel client portfolio and service scope.
 
 ---
 
 ## 9. Reporting & Team Context
 
-This role reports to the Head of Cybersecurity BU (Faurani) and operates within the VORON / GRC team. The GRC Specialist collaborates closely with Product Engineering, Cybersecurity, Risk, Compliance, and customer stakeholders to ensure successful operation and continuous enhancement of the VoronCitadel platform. As a dual Specialist / Team Lead, the role may direct and develop GRC analysts.
+This role reports to the Head of Cybersecurity BU (Faurani) and operates within the VORON / VoronCitadel Service team. The Senior GRC Specialist collaborates closely with Product Engineering, Cybersecurity, Risk, Compliance, and client stakeholders to ensure successful delivery and continuous enhancement of VoronCitadel services through the VoronCitadel platform. As a dual Senior Specialist / Team Lead, the role may direct and develop GRC analysts.
 
 ---
 
-## 10. Compensation & Benefits
-
-Benchmarked to the consultant Rate-card (Level 4 — Assistant Manager / Specialist):
-
-- **Monthly Base Salary:** RM11,500 – RM15,500
-- **Annual Base Salary:** RM138,000 – RM186,000
-
-In addition to base salary, the role includes statutory contributions (EPF/SOCSO/EIS), medical coverage, training and certification sponsorship, and a performance-based bonus.
-
----
-
-## 11. Career Progression
-
-GRC Specialist (L4, dual Specialist / Team Lead) → GRC Manager → Head of GRC / Cybersecurity Practice leadership
-
----
-
-## 12. Equal Opportunity Statement
+## 11. Equal Opportunity Statement
 
 We are an equal opportunity employer. We welcome and consider all qualified applicants regardless of race, religion, gender, age, nationality, disability, or any other protected status, and are committed to building an inclusive and respectful workplace.
